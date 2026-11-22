@@ -93,47 +93,50 @@
   "nb_evenements": 4
  },
  "flechettes": {
-  "equipes": {
+  "joueurs": {
    "Luke Littler": {
-    "trouve": "PDC Mens (id 136716) – joueur Luke Littler",
-    "matchs": 0
+    "trouve": "Luke Littler (id 40676)",
+    "matchs": 6
    }
   },
   "ok": true,
-  "nb_evenements": 0
+  "nb_evenements": 6
  },
  "esport": {
   "jeux": {
    "callofduty": {
-    "erreur": "https://liquipedia.net/callofduty/api.php -> HTTP 429"
+    "matchs_sur_la_page": 50,
+    "matchs_suivis": 7
    },
    "rocketleague": {
-    "erreur": "https://liquipedia.net/rocketleague/api.php -> HTTP 429"
+    "matchs_sur_la_page": 100,
+    "matchs_suivis": 0
    },
    "valorant": {
-    "erreur": "https://liquipedia.net/valorant/api.php -> HTTP 429"
+    "matchs_sur_la_page": 91,
+    "matchs_suivis": 0
    }
   },
   "ok": true,
-  "nb_evenements": 0
+  "nb_evenements": 7
  },
  "biathlon": {
   "saison": "2627",
   "etapes": [
-   "Kontiolahti : 6 courses",
-   "Hochfilzen : 0 courses",
-   "Le Grand Bornand : 0 courses",
-   "Pokljuka : 0 courses",
-   "Ruhpolding : 0 courses",
-   "Antholz-Anterselva : 0 courses",
-   "Nove Mesto na Morave : 0 courses",
-   "Otepaa : 0 courses",
-   "Oberhof : 0 courses",
-   "Oestersund : 0 courses",
-   "Oslo Holmenkollen : 0 courses"
+   "Kontiolahti : 6 courses (api)",
+   "Hochfilzen : 6 courses (api)",
+   "Le Grand Bornand : 6 courses (api)",
+   "Pokljuka : 4 courses (api)",
+   "Ruhpolding : 6 courses (api)",
+   "Antholz-Anterselva : 6 courses (api)",
+   "Nove Mesto na Morave : 6 courses (api)",
+   "Otepaa : 12 courses (api)",
+   "Oberhof : 6 courses (api)",
+   "Oestersund : 6 courses (api)",
+   "Oslo Holmenkollen : 6 courses (api)"
   ],
   "ok": true,
-  "nb_evenements": 6
+  "nb_evenements": 70
  },
  "f1": {
   "2026": 23,
@@ -142,14 +145,16 @@
   "nb_evenements": 6
  },
  "_resume": {
-  "genere_le": "2026-11-22T04:07:42.610329+00:00",
-  "total": 172,
+  "genere_le": "2026-11-22T04:17:44.898899+00:00",
+  "total": 249,
   "par_sport": {
    "foot": 34,
    "basket": 79,
    "rugby": 43,
    "hand": 4,
-   "biathlon": 6,
+   "flechettes": 6,
+   "esport": 7,
+   "biathlon": 70,
    "f1": 6
   },
   "sources_en_panne": []

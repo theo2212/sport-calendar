@@ -1,0 +1,101 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//theo2212//sport-calendar//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Fléchettes
+X-WR-TIMEZONE:Europe/Paris
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+X-APPLE-CALENDAR-COLOR:#C62828
+BEGIN:VEVENT
+UID:pdc-517045@sport-calendar
+DTSTAMP:20261122T041930Z
+LAST-MODIFIED:20261122T041744Z
+SEQUENCE:0
+DTSTART:20261023T182147Z
+DTEND:20261023T205147Z
+SUMMARY:🎯 L. Littler 6–3 W. O'Connor ✅
+DESCRIPTION:🏆 2026 European Championship\n\n🔗 https://www.pdc.tv/to
+ urnaments/machineseeker-european-championship
+LOCATION:Westfalenhalle\, Dortmund
+URL:https://www.pdc.tv/tournaments/machineseeker-european-championship
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pdc-517053@sport-calendar
+DTSTAMP:20261122T041930Z
+LAST-MODIFIED:20261122T041744Z
+SEQUENCE:0
+DTSTART:20261024T180737Z
+DTEND:20261024T203737Z
+SUMMARY:🎯 N. Aspinall 5–10 L. Littler ✅
+DESCRIPTION:🏆 2026 European Championship\n\n🔗 https://www.pdc.tv/to
+ urnaments/machineseeker-european-championship
+LOCATION:Westfalenhalle\, Dortmund
+URL:https://www.pdc.tv/tournaments/machineseeker-european-championship
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pdc-517057@sport-calendar
+DTSTAMP:20261122T041930Z
+LAST-MODIFIED:20261122T041744Z
+SEQUENCE:0
+DTSTART:20261025T150052Z
+DTEND:20261025T173052Z
+SUMMARY:🎯 K. Ratajski 10–6 L. Littler ❌
+DESCRIPTION:🏆 2026 European Championship\n\n🔗 https://www.pdc.tv/to
+ urnaments/machineseeker-european-championship
+LOCATION:Westfalenhalle\, Dortmund
+URL:https://www.pdc.tv/tournaments/machineseeker-european-championship
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pdc-516967@sport-calendar
+DTSTAMP:20261122T041930Z
+LAST-MODIFIED:20261122T041744Z
+SEQUENCE:0
+DTSTART:20261114T214506Z
+DTEND:20261115T001506Z
+SUMMARY:🎯 L. Littler 5–2 B. Greaves ✅
+DESCRIPTION:🏆 2026 Grand Slam of Darts\n\n🔗 https://www.pdc.tv/tour
+ naments/mr-vegas-grand-slam-of-darts
+LOCATION:Aldersley Leisure Village\, Wolverhampton
+URL:https://www.pdc.tv/tournaments/mr-vegas-grand-slam-of-darts
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pdc-516968@sport-calendar
+DTSTAMP:20261122T041930Z
+LAST-MODIFIED:20261122T041744Z
+SEQUENCE:0
+DTSTART:20261116T212839Z
+DTEND:20261116T235839Z
+SUMMARY:🎯 L. Littler 4–5 N. Zonneveld ❌
+DESCRIPTION:🏆 2026 Grand Slam of Darts\n\n🔗 https://www.pdc.tv/tour
+ naments/mr-vegas-grand-slam-of-darts
+LOCATION:Aldersley Leisure Village\, Wolverhampton
+URL:https://www.pdc.tv/tournaments/mr-vegas-grand-slam-of-darts
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pdc-517015@sport-calendar
+DTSTAMP:20261122T041930Z
+LAST-MODIFIED:20261122T041744Z
+SEQUENCE:0
+DTSTART:20261118T212101Z
+DTEND:20261118T235101Z
+SUMMARY:🎯 L. Littler 8–10 J. Wattimena ❌
+DESCRIPTION:🏆 2026 Grand Slam of Darts\n\n🔗 https://www.pdc.tv/tour
+ naments/mr-vegas-grand-slam-of-darts
+LOCATION:Aldersley Leisure Village\, Wolverhampton
+URL:https://www.pdc.tv/tournaments/mr-vegas-grand-slam-of-darts
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

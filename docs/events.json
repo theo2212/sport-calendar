@@ -2879,6 +2879,222 @@
   "seq": 0,
   "sport": "f1"
  },
+ "ibu-BT2627SWRLCH__MXRL": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Championnats du monde IBU – Otepaa (Estonia)",
+   "duration_min": 60,
+   "location": "Tehvandi Sport Center",
+   "sport": "biathlon",
+   "start": "2027-02-10T15:10:00+00:00",
+   "state": "pre",
+   "title": "🎿 Relais mixte 4x6km – Otepaa",
+   "uid": "ibu-BT2627SWRLCH__MXRL",
+   "url": "https://www.biathlonworld.com/results/BT2627SWRLCH__MXRL"
+  },
+  "hash": "86bbe541edbdc27ebbf36f47a0418fb4396cfc48",
+  "modified": "2026-11-22T04:17:44.898899+00:00",
+  "seq": 0,
+  "sport": "biathlon"
+ },
+ "ibu-BT2627SWRLCH__MXSR": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Championnats du monde IBU – Otepaa (Estonia)",
+   "duration_min": 60,
+   "location": "Tehvandi Sport Center",
+   "sport": "biathlon",
+   "start": "2027-02-16T16:10:00+00:00",
+   "state": "pre",
+   "title": "🎿 Relais simple mixte – Otepaa",
+   "uid": "ibu-BT2627SWRLCH__MXSR",
+   "url": "https://www.biathlonworld.com/results/BT2627SWRLCH__MXSR"
+  },
+  "hash": "12e5f27d28cded94d75119535508d224a4770d5e",
+  "modified": "2026-11-22T04:17:44.898899+00:00",
+  "seq": 0,
+  "sport": "biathlon"
+ },
+ "ibu-BT2627SWRLCH__SMIN": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Championnats du monde IBU – Otepaa (Estonia)",
+   "duration_min": 60,
+   "location": "Tehvandi Sport Center",
+   "sport": "biathlon",
+   "start": "2027-02-17T16:10:00+00:00",
+   "state": "pre",
+   "title": "🎿 Hommes 20km Individuel – Otepaa",
+   "uid": "ibu-BT2627SWRLCH__SMIN",
+   "url": "https://www.biathlonworld.com/results/BT2627SWRLCH__SMIN"
+  },
+  "hash": "b3fad90e3f1ec4c386efa6666a0b34992f3ac077",
+  "modified": "2026-11-22T04:17:44.898899+00:00",
+  "seq": 0,
+  "sport": "biathlon"
+ },
+ "ibu-BT2627SWRLCH__SMMS": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Championnats du monde IBU – Otepaa (Estonia)",
+   "duration_min": 60,
+   "location": "Tehvandi Sport Center",
+   "sport": "biathlon",
+   "start": "2027-02-21T14:45:00+00:00",
+   "state": "pre",
+   "title": "🎿 Hommes 15km Mass start – Otepaa",
+   "uid": "ibu-BT2627SWRLCH__SMMS",
+   "url": "https://www.biathlonworld.com/results/BT2627SWRLCH__SMMS"
+  },
+  "hash": "a852358f7ee0e8f8b38c7d6b1a32757db90d5118",
+  "modified": "2026-11-22T04:17:44.898899+00:00",
+  "seq": 0,
+  "sport": "biathlon"
+ },
+ "ibu-BT2627SWRLCH__SMPU": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Championnats du monde IBU – Otepaa (Estonia)",
+   "duration_min": 60,
+   "location": "Tehvandi Sport Center",
+   "sport": "biathlon",
+   "start": "2027-02-14T15:05:00+00:00",
+   "state": "pre",
+   "title": "🎿 Hommes 12.5km Poursuite – Otepaa",
+   "uid": "ibu-BT2627SWRLCH__SMPU",
+   "url": "https://www.biathlonworld.com/results/BT2627SWRLCH__SMPU"
+  },
+  "hash": "33c23e8cdd777c47cfe88d3494e65fb1f7ca2683",
+  "modified": "2026-11-22T04:17:44.898899+00:00",
+  "seq": 0,
+  "sport": "biathlon"
+ },
+ "ibu-BT2627SWRLCH__SMRL": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Championnats du monde IBU – Otepaa (Estonia)",
+   "duration_min": 60,
+   "location": "Tehvandi Sport Center",
+   "sport": "biathlon",
+   "start": "2027-02-19T16:30:00+00:00",
+   "state": "pre",
+   "title": "🎿 Hommes 4x7.5km Relais – Otepaa",
+   "uid": "ibu-BT2627SWRLCH__SMRL",
+   "url": "https://www.biathlonworld.com/results/BT2627SWRLCH__SMRL"
+  },
+  "hash": "a9b6de48175badc6d0852e5acafaabefd3a8c9c4",
+  "modified": "2026-11-22T04:17:44.898899+00:00",
+  "seq": 0,
+  "sport": "biathlon"
+ },
+ "ibu-BT2627SWRLCH__SMSP": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Championnats du monde IBU – Otepaa (Estonia)",
+   "duration_min": 60,
+   "location": "Tehvandi Sport Center",
+   "sport": "biathlon",
+   "start": "2027-02-12T15:30:00+00:00",
+   "state": "pre",
+   "title": "🎿 Hommes 10km Sprint – Otepaa",
+   "uid": "ibu-BT2627SWRLCH__SMSP",
+   "url": "https://www.biathlonworld.com/results/BT2627SWRLCH__SMSP"
+  },
+  "hash": "c96c7ae373a9b248ac1517fe9d323f65e4c59082",
+  "modified": "2026-11-22T04:17:44.898899+00:00",
+  "seq": 0,
+  "sport": "biathlon"
+ },
+ "ibu-BT2627SWRLCH__SWIN": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Championnats du monde IBU – Otepaa (Estonia)",
+   "duration_min": 60,
+   "location": "Tehvandi Sport Center",
+   "sport": "biathlon",
+   "start": "2027-02-18T16:10:00+00:00",
+   "state": "pre",
+   "title": "🎿 Femmes 15km Individuel – Otepaa",
+   "uid": "ibu-BT2627SWRLCH__SWIN",
+   "url": "https://www.biathlonworld.com/results/BT2627SWRLCH__SWIN"
+  },
+  "hash": "90e1754020e2e1616406f1b4512af96ea92cafe3",
+  "modified": "2026-11-22T04:17:44.898899+00:00",
+  "seq": 0,
+  "sport": "biathlon"
+ },
+ "ibu-BT2627SWRLCH__SWMS": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Championnats du monde IBU – Otepaa (Estonia)",
+   "duration_min": 60,
+   "location": "Tehvandi Sport Center",
+   "sport": "biathlon",
+   "start": "2027-02-21T17:10:00+00:00",
+   "state": "pre",
+   "title": "🎿 Femmes 12.5km Mass start – Otepaa",
+   "uid": "ibu-BT2627SWRLCH__SWMS",
+   "url": "https://www.biathlonworld.com/results/BT2627SWRLCH__SWMS"
+  },
+  "hash": "6fca8deaca487dc161e253b61dbf40a9dac50e99",
+  "modified": "2026-11-22T04:17:44.898899+00:00",
+  "seq": 0,
+  "sport": "biathlon"
+ },
+ "ibu-BT2627SWRLCH__SWPU": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Championnats du monde IBU – Otepaa (Estonia)",
+   "duration_min": 60,
+   "location": "Tehvandi Sport Center",
+   "sport": "biathlon",
+   "start": "2027-02-14T17:30:00+00:00",
+   "state": "pre",
+   "title": "🎿 Femmes 10km Poursuite – Otepaa",
+   "uid": "ibu-BT2627SWRLCH__SWPU",
+   "url": "https://www.biathlonworld.com/results/BT2627SWRLCH__SWPU"
+  },
+  "hash": "3b918b407a2a948c7127e675987d516dcb8d3392",
+  "modified": "2026-11-22T04:17:44.898899+00:00",
+  "seq": 0,
+  "sport": "biathlon"
+ },
+ "ibu-BT2627SWRLCH__SWRL": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Championnats du monde IBU – Otepaa (Estonia)",
+   "duration_min": 60,
+   "location": "Tehvandi Sport Center",
+   "sport": "biathlon",
+   "start": "2027-02-20T16:30:00+00:00",
+   "state": "pre",
+   "title": "🎿 Femmes 4x6km Relais – Otepaa",
+   "uid": "ibu-BT2627SWRLCH__SWRL",
+   "url": "https://www.biathlonworld.com/results/BT2627SWRLCH__SWRL"
+  },
+  "hash": "0ece5e11ca630689b8c05b9b7894070a5f413da2",
+  "modified": "2026-11-22T04:17:44.898899+00:00",
+  "seq": 0,
+  "sport": "biathlon"
+ },
+ "ibu-BT2627SWRLCH__SWSP": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Championnats du monde IBU – Otepaa (Estonia)",
+   "duration_min": 60,
+   "location": "Tehvandi Sport Center",
+   "sport": "biathlon",
+   "start": "2027-02-13T16:00:00+00:00",
+   "state": "pre",
+   "title": "🎿 Femmes 7.5km Sprint – Otepaa",
+   "uid": "ibu-BT2627SWRLCH__SWSP",
+   "url": "https://www.biathlonworld.com/results/BT2627SWRLCH__SWSP"
+  },
+  "hash": "338d96fc20dbc786b8794890f0ae55d13f7d8986",
+  "modified": "2026-11-22T04:17:44.898899+00:00",
+  "seq": 0,
+  "sport": "biathlon"
+ },
  "ibu-BT2627SWRLCP01MXRL": {
   "event": {
    "all_day": false,
@@ -2986,6 +3202,1176 @@
   "modified": "2026-11-22T04:01:26.671777+00:00",
   "seq": 0,
   "sport": "biathlon"
+ },
+ "ibu-BT2627SWRLCP02SMPU": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Coupe du monde IBU – Hochfilzen (Austria)",
+   "duration_min": 60,
+   "location": "Biathlon Stadium Hochfilzen",
+   "sport": "biathlon",
+   "start": "2026-12-05T13:30:00+00:00",
+   "state": "pre",
+   "title": "🎿 Hommes 12.5km Poursuite – Hochfilzen",
+   "uid": "ibu-BT2627SWRLCP02SMPU",
+   "url": "https://www.biathlonworld.com/results/BT2627SWRLCP02SMPU"
+  },
+  "hash": "910c3e191e4112b19fa27c0c6f1aea4c9b4bb170",
+  "modified": "2026-11-22T04:17:44.898899+00:00",
+  "seq": 0,
+  "sport": "biathlon"
+ },
+ "ibu-BT2627SWRLCP02SMRL": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Coupe du monde IBU – Hochfilzen (Austria)",
+   "duration_min": 60,
+   "location": "Biathlon Stadium Hochfilzen",
+   "sport": "biathlon",
+   "start": "2026-12-06T13:15:00+00:00",
+   "state": "pre",
+   "title": "🎿 Hommes 4x7.5km Relais – Hochfilzen",
+   "uid": "ibu-BT2627SWRLCP02SMRL",
+   "url": "https://www.biathlonworld.com/results/BT2627SWRLCP02SMRL"
+  },
+  "hash": "47916f375fad74cfa19ad008d5bbb48ca6671001",
+  "modified": "2026-11-22T04:17:44.898899+00:00",
+  "seq": 0,
+  "sport": "biathlon"
+ },
+ "ibu-BT2627SWRLCP02SMSP": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Coupe du monde IBU – Hochfilzen (Austria)",
+   "duration_min": 60,
+   "location": "Biathlon Stadium Hochfilzen",
+   "sport": "biathlon",
+   "start": "2026-12-04T13:15:00+00:00",
+   "state": "pre",
+   "title": "🎿 Hommes 10km Sprint – Hochfilzen",
+   "uid": "ibu-BT2627SWRLCP02SMSP",
+   "url": "https://www.biathlonworld.com/results/BT2627SWRLCP02SMSP"
+  },
+  "hash": "0681cfc6609d3a9146592e6f841bd192f8dc583c",
+  "modified": "2026-11-22T04:17:44.898899+00:00",
+  "seq": 0,
+  "sport": "biathlon"
+ },
+ "ibu-BT2627SWRLCP02SWPU": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Coupe du monde IBU – Hochfilzen (Austria)",
+   "duration_min": 60,
+   "location": "Biathlon Stadium Hochfilzen",
+   "sport": "biathlon",
+   "start": "2026-12-05T11:15:00+00:00",
+   "state": "pre",
+   "title": "🎿 Femmes 10km Poursuite – Hochfilzen",
+   "uid": "ibu-BT2627SWRLCP02SWPU",
+   "url": "https://www.biathlonworld.com/results/BT2627SWRLCP02SWPU"
+  },
+  "hash": "a0aaa7ac12545bb03a65670d1f0aec83bc84431f",
+  "modified": "2026-11-22T04:17:44.898899+00:00",
+  "seq": 0,
+  "sport": "biathlon"
+ },
+ "ibu-BT2627SWRLCP02SWRL": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Coupe du monde IBU – Hochfilzen (Austria)",
+   "duration_min": 60,
+   "location": "Biathlon Stadium Hochfilzen",
+   "sport": "biathlon",
+   "start": "2026-12-06T10:30:00+00:00",
+   "state": "pre",
+   "title": "🎿 Femmes 4x6km Relais – Hochfilzen",
+   "uid": "ibu-BT2627SWRLCP02SWRL",
+   "url": "https://www.biathlonworld.com/results/BT2627SWRLCP02SWRL"
+  },
+  "hash": "725db68b4de41d480d30b30467b8b5fa2a8d13b7",
+  "modified": "2026-11-22T04:17:44.898899+00:00",
+  "seq": 0,
+  "sport": "biathlon"
+ },
+ "ibu-BT2627SWRLCP02SWSP": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Coupe du monde IBU – Hochfilzen (Austria)",
+   "duration_min": 60,
+   "location": "Biathlon Stadium Hochfilzen",
+   "sport": "biathlon",
+   "start": "2026-12-04T10:25:00+00:00",
+   "state": "pre",
+   "title": "🎿 Femmes 7.5km Sprint – Hochfilzen",
+   "uid": "ibu-BT2627SWRLCP02SWSP",
+   "url": "https://www.biathlonworld.com/results/BT2627SWRLCP02SWSP"
+  },
+  "hash": "d9d62ae3b9b1813ec07955d6278451c86b5eb576",
+  "modified": "2026-11-22T04:17:44.898899+00:00",
+  "seq": 0,
+  "sport": "biathlon"
+ },
+ "ibu-BT2627SWRLCP03SMMS": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Coupe du monde IBU – Le Grand Bornand (France)",
+   "duration_min": 60,
+   "location": "Le Grand-Bornand Biathlon Arena",
+   "sport": "biathlon",
+   "start": "2026-12-13T13:45:00+00:00",
+   "state": "pre",
+   "title": "🎿 Hommes 15km Mass start – Le Grand Bornand",
+   "uid": "ibu-BT2627SWRLCP03SMMS",
+   "url": "https://www.biathlonworld.com/results/BT2627SWRLCP03SMMS"
+  },
+  "hash": "0942162727c4f454bce2fdd49cb71706094095b1",
+  "modified": "2026-11-22T04:17:44.898899+00:00",
+  "seq": 0,
+  "sport": "biathlon"
+ },
+ "ibu-BT2627SWRLCP03SMPU": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Coupe du monde IBU – Le Grand Bornand (France)",
+   "duration_min": 60,
+   "location": "Le Grand-Bornand Biathlon Arena",
+   "sport": "biathlon",
+   "start": "2026-12-12T13:45:00+00:00",
+   "state": "pre",
+   "title": "🎿 Hommes 12.5km Poursuite – Le Grand Bornand",
+   "uid": "ibu-BT2627SWRLCP03SMPU",
+   "url": "https://www.biathlonworld.com/results/BT2627SWRLCP03SMPU"
+  },
+  "hash": "2d0b367562dce3342b576d660a93e2951048b8ca",
+  "modified": "2026-11-22T04:17:44.898899+00:00",
+  "seq": 0,
+  "sport": "biathlon"
+ },
+ "ibu-BT2627SWRLCP03SMSP": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Coupe du monde IBU – Le Grand Bornand (France)",
+   "duration_min": 60,
+   "location": "Le Grand-Bornand Biathlon Arena",
+   "sport": "biathlon",
+   "start": "2026-12-11T13:15:00+00:00",
+   "state": "pre",
+   "title": "🎿 Hommes 10km Sprint – Le Grand Bornand",
+   "uid": "ibu-BT2627SWRLCP03SMSP",
+   "url": "https://www.biathlonworld.com/results/BT2627SWRLCP03SMSP"
+  },
+  "hash": "f94d430be3949241a3b1e000527fa4e8d607078b",
+  "modified": "2026-11-22T04:17:44.898899+00:00",
+  "seq": 0,
+  "sport": "biathlon"
+ },
+ "ibu-BT2627SWRLCP03SWMS": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Coupe du monde IBU – Le Grand Bornand (France)",
+   "duration_min": 60,
+   "location": "Le Grand-Bornand Biathlon Arena",
+   "sport": "biathlon",
+   "start": "2026-12-13T11:15:00+00:00",
+   "state": "pre",
+   "title": "🎿 Femmes 12.5km Mass start – Le Grand Bornand",
+   "uid": "ibu-BT2627SWRLCP03SWMS",
+   "url": "https://www.biathlonworld.com/results/BT2627SWRLCP03SWMS"
+  },
+  "hash": "31adf488053fc1f2def07af5d61ce9e4b41b3c9e",
+  "modified": "2026-11-22T04:17:44.898899+00:00",
+  "seq": 0,
+  "sport": "biathlon"
+ },
+ "ibu-BT2627SWRLCP03SWPU": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Coupe du monde IBU – Le Grand Bornand (France)",
+   "duration_min": 60,
+   "location": "Le Grand-Bornand Biathlon Arena",
+   "sport": "biathlon",
+   "start": "2026-12-12T11:15:00+00:00",
+   "state": "pre",
+   "title": "🎿 Femmes 10km Poursuite – Le Grand Bornand",
+   "uid": "ibu-BT2627SWRLCP03SWPU",
+   "url": "https://www.biathlonworld.com/results/BT2627SWRLCP03SWPU"
+  },
+  "hash": "1d8a89a09d67794aa42e996837a7772fef69b5b2",
+  "modified": "2026-11-22T04:17:44.898899+00:00",
+  "seq": 0,
+  "sport": "biathlon"
+ },
+ "ibu-BT2627SWRLCP03SWSP": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Coupe du monde IBU – Le Grand Bornand (France)",
+   "duration_min": 60,
+   "location": "Le Grand-Bornand Biathlon Arena",
+   "sport": "biathlon",
+   "start": "2026-12-10T13:15:00+00:00",
+   "state": "pre",
+   "title": "🎿 Femmes 7.5km Sprint – Le Grand Bornand",
+   "uid": "ibu-BT2627SWRLCP03SWSP",
+   "url": "https://www.biathlonworld.com/results/BT2627SWRLCP03SWSP"
+  },
+  "hash": "dc65cbab37e564a4da1e3f96fc5b6af476f4a781",
+  "modified": "2026-11-22T04:17:44.898899+00:00",
+  "seq": 0,
+  "sport": "biathlon"
+ },
+ "ibu-BT2627SWRLCP04SMRL": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Coupe du monde IBU – Pokljuka (Slovenia)",
+   "duration_min": 60,
+   "location": "Sports Centre Triglav Pokljuka",
+   "sport": "biathlon",
+   "start": "2027-01-03T10:35:00+00:00",
+   "state": "pre",
+   "title": "🎿 Hommes 4x7.5km Relais – Pokljuka",
+   "uid": "ibu-BT2627SWRLCP04SMRL",
+   "url": "https://www.biathlonworld.com/results/BT2627SWRLCP04SMRL"
+  },
+  "hash": "22be9a3035d4b0bb98905a53a8e8fc74219d530b",
+  "modified": "2026-11-22T04:17:44.898899+00:00",
+  "seq": 0,
+  "sport": "biathlon"
+ },
+ "ibu-BT2627SWRLCP04SMSP": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Coupe du monde IBU – Pokljuka (Slovenia)",
+   "duration_min": 60,
+   "location": "Sports Centre Triglav Pokljuka",
+   "sport": "biathlon",
+   "start": "2027-01-02T10:25:00+00:00",
+   "state": "pre",
+   "title": "🎿 Hommes 10km Sprint – Pokljuka",
+   "uid": "ibu-BT2627SWRLCP04SMSP",
+   "url": "https://www.biathlonworld.com/results/BT2627SWRLCP04SMSP"
+  },
+  "hash": "0a1f1719725d63ec3be5abf83c0e235bfc589593",
+  "modified": "2026-11-22T04:17:44.898899+00:00",
+  "seq": 0,
+  "sport": "biathlon"
+ },
+ "ibu-BT2627SWRLCP04SWRL": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Coupe du monde IBU – Pokljuka (Slovenia)",
+   "duration_min": 60,
+   "location": "Sports Centre Triglav Pokljuka",
+   "sport": "biathlon",
+   "start": "2027-01-03T13:15:00+00:00",
+   "state": "pre",
+   "title": "🎿 Femmes 4x6km Relais – Pokljuka",
+   "uid": "ibu-BT2627SWRLCP04SWRL",
+   "url": "https://www.biathlonworld.com/results/BT2627SWRLCP04SWRL"
+  },
+  "hash": "99991eb64a459a7a6f37066f8dc5fb9a09ad236e",
+  "modified": "2026-11-22T04:17:44.898899+00:00",
+  "seq": 0,
+  "sport": "biathlon"
+ },
+ "ibu-BT2627SWRLCP04SWSP": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Coupe du monde IBU – Pokljuka (Slovenia)",
+   "duration_min": 60,
+   "location": "Sports Centre Triglav Pokljuka",
+   "sport": "biathlon",
+   "start": "2027-01-02T13:10:00+00:00",
+   "state": "pre",
+   "title": "🎿 Femmes 7.5km Sprint – Pokljuka",
+   "uid": "ibu-BT2627SWRLCP04SWSP",
+   "url": "https://www.biathlonworld.com/results/BT2627SWRLCP04SWSP"
+  },
+  "hash": "dc75062401c442ad4260a71a39c1a2bd5b52c259",
+  "modified": "2026-11-22T04:17:44.898899+00:00",
+  "seq": 0,
+  "sport": "biathlon"
+ },
+ "ibu-BT2627SWRLCP05SMPU": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Coupe du monde IBU – Ruhpolding (Germany)",
+   "duration_min": 60,
+   "location": "Chiemgau Arena",
+   "sport": "biathlon",
+   "start": "2027-01-10T13:45:00+00:00",
+   "state": "pre",
+   "title": "🎿 Hommes 12.5km Poursuite – Ruhpolding",
+   "uid": "ibu-BT2627SWRLCP05SMPU",
+   "url": "https://www.biathlonworld.com/results/BT2627SWRLCP05SMPU"
+  },
+  "hash": "211275c514a7d11476faf477cd9b4f32b1d1cce5",
+  "modified": "2026-11-22T04:17:44.898899+00:00",
+  "seq": 0,
+  "sport": "biathlon"
+ },
+ "ibu-BT2627SWRLCP05SMRL": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Coupe du monde IBU – Ruhpolding (Germany)",
+   "duration_min": 60,
+   "location": "Chiemgau Arena",
+   "sport": "biathlon",
+   "start": "2027-01-07T13:15:00+00:00",
+   "state": "pre",
+   "title": "🎿 Hommes 4x7.5km Relais – Ruhpolding",
+   "uid": "ibu-BT2627SWRLCP05SMRL",
+   "url": "https://www.biathlonworld.com/results/BT2627SWRLCP05SMRL"
+  },
+  "hash": "2ed2888045d0fbd8d48a82aa99f22af8269f151b",
+  "modified": "2026-11-22T04:17:44.898899+00:00",
+  "seq": 0,
+  "sport": "biathlon"
+ },
+ "ibu-BT2627SWRLCP05SMSP": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Coupe du monde IBU – Ruhpolding (Germany)",
+   "duration_min": 60,
+   "location": "Chiemgau Arena",
+   "sport": "biathlon",
+   "start": "2027-01-09T13:30:00+00:00",
+   "state": "pre",
+   "title": "🎿 Hommes 10km Sprint – Ruhpolding",
+   "uid": "ibu-BT2627SWRLCP05SMSP",
+   "url": "https://www.biathlonworld.com/results/BT2627SWRLCP05SMSP"
+  },
+  "hash": "500bee184a6c6a0ab7a9a6aeac4f2de80bcb2683",
+  "modified": "2026-11-22T04:17:44.898899+00:00",
+  "seq": 0,
+  "sport": "biathlon"
+ },
+ "ibu-BT2627SWRLCP05SWPU": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Coupe du monde IBU – Ruhpolding (Germany)",
+   "duration_min": 60,
+   "location": "Chiemgau Arena",
+   "sport": "biathlon",
+   "start": "2027-01-10T11:00:00+00:00",
+   "state": "pre",
+   "title": "🎿 Femmes 10km Poursuite – Ruhpolding",
+   "uid": "ibu-BT2627SWRLCP05SWPU",
+   "url": "https://www.biathlonworld.com/results/BT2627SWRLCP05SWPU"
+  },
+  "hash": "0fa5ca7336212e73f9ba886958a9cd22309118e1",
+  "modified": "2026-11-22T04:17:44.898899+00:00",
+  "seq": 0,
+  "sport": "biathlon"
+ },
+ "ibu-BT2627SWRLCP05SWRL": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Coupe du monde IBU – Ruhpolding (Germany)",
+   "duration_min": 60,
+   "location": "Chiemgau Arena",
+   "sport": "biathlon",
+   "start": "2027-01-06T13:15:00+00:00",
+   "state": "pre",
+   "title": "🎿 Femmes 4x6km Relais – Ruhpolding",
+   "uid": "ibu-BT2627SWRLCP05SWRL",
+   "url": "https://www.biathlonworld.com/results/BT2627SWRLCP05SWRL"
+  },
+  "hash": "67dd1509297a73b33456d4c867484237b87bda6e",
+  "modified": "2026-11-22T04:17:44.898899+00:00",
+  "seq": 0,
+  "sport": "biathlon"
+ },
+ "ibu-BT2627SWRLCP05SWSP": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Coupe du monde IBU – Ruhpolding (Germany)",
+   "duration_min": 60,
+   "location": "Chiemgau Arena",
+   "sport": "biathlon",
+   "start": "2027-01-08T13:15:00+00:00",
+   "state": "pre",
+   "title": "🎿 Femmes 7.5km Sprint – Ruhpolding",
+   "uid": "ibu-BT2627SWRLCP05SWSP",
+   "url": "https://www.biathlonworld.com/results/BT2627SWRLCP05SWSP"
+  },
+  "hash": "63b67070f9442fdebb509012b96b75b5993e4966",
+  "modified": "2026-11-22T04:17:44.898899+00:00",
+  "seq": 0,
+  "sport": "biathlon"
+ },
+ "ibu-BT2627SWRLCP06MXRL": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Coupe du monde IBU – Antholz-Anterselva (Italy)",
+   "duration_min": 60,
+   "location": "Suedtirol Olympic Arena Alto Adige",
+   "sport": "biathlon",
+   "start": "2027-01-16T13:30:00+00:00",
+   "state": "pre",
+   "title": "🎿 Relais mixte 4x6km – Antholz-Anterselva",
+   "uid": "ibu-BT2627SWRLCP06MXRL",
+   "url": "https://www.biathlonworld.com/results/BT2627SWRLCP06MXRL"
+  },
+  "hash": "3999e87589f0a2754d7a3f2949384de96db2fea5",
+  "modified": "2026-11-22T04:17:44.898899+00:00",
+  "seq": 0,
+  "sport": "biathlon"
+ },
+ "ibu-BT2627SWRLCP06MXSR": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Coupe du monde IBU – Antholz-Anterselva (Italy)",
+   "duration_min": 60,
+   "location": "Suedtirol Olympic Arena Alto Adige",
+   "sport": "biathlon",
+   "start": "2027-01-16T10:45:00+00:00",
+   "state": "pre",
+   "title": "🎿 Relais simple mixte – Antholz-Anterselva",
+   "uid": "ibu-BT2627SWRLCP06MXSR",
+   "url": "https://www.biathlonworld.com/results/BT2627SWRLCP06MXSR"
+  },
+  "hash": "78f981ec658700480b91c8cb77d22e501562d6e4",
+  "modified": "2026-11-22T04:17:44.898899+00:00",
+  "seq": 0,
+  "sport": "biathlon"
+ },
+ "ibu-BT2627SWRLCP06SMIN": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Coupe du monde IBU – Antholz-Anterselva (Italy)",
+   "duration_min": 60,
+   "location": "Suedtirol Olympic Arena Alto Adige",
+   "sport": "biathlon",
+   "start": "2027-01-14T13:15:00+00:00",
+   "state": "pre",
+   "title": "🎿 Hommes 20km Individuel – Antholz-Anterselva",
+   "uid": "ibu-BT2627SWRLCP06SMIN",
+   "url": "https://www.biathlonworld.com/results/BT2627SWRLCP06SMIN"
+  },
+  "hash": "90236c9f5d48441b368ef31c2a9af0446658fe5a",
+  "modified": "2026-11-22T04:17:44.898899+00:00",
+  "seq": 0,
+  "sport": "biathlon"
+ },
+ "ibu-BT2627SWRLCP06SMMS": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Coupe du monde IBU – Antholz-Anterselva (Italy)",
+   "duration_min": 60,
+   "location": "Suedtirol Olympic Arena Alto Adige",
+   "sport": "biathlon",
+   "start": "2027-01-17T11:45:00+00:00",
+   "state": "pre",
+   "title": "🎿 Hommes 15km Mass start – Antholz-Anterselva",
+   "uid": "ibu-BT2627SWRLCP06SMMS",
+   "url": "https://www.biathlonworld.com/results/BT2627SWRLCP06SMMS"
+  },
+  "hash": "50bf75581e9509ac39c7209b1849961a655940e7",
+  "modified": "2026-11-22T04:17:44.898899+00:00",
+  "seq": 0,
+  "sport": "biathlon"
+ },
+ "ibu-BT2627SWRLCP06SWIN": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Coupe du monde IBU – Antholz-Anterselva (Italy)",
+   "duration_min": 60,
+   "location": "Suedtirol Olympic Arena Alto Adige",
+   "sport": "biathlon",
+   "start": "2027-01-15T13:15:00+00:00",
+   "state": "pre",
+   "title": "🎿 Femmes 15km Individuel – Antholz-Anterselva",
+   "uid": "ibu-BT2627SWRLCP06SWIN",
+   "url": "https://www.biathlonworld.com/results/BT2627SWRLCP06SWIN"
+  },
+  "hash": "3737386c1184e01dc28f81a4b75f3b41aad0bf0e",
+  "modified": "2026-11-22T04:17:44.898899+00:00",
+  "seq": 0,
+  "sport": "biathlon"
+ },
+ "ibu-BT2627SWRLCP06SWMS": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Coupe du monde IBU – Antholz-Anterselva (Italy)",
+   "duration_min": 60,
+   "location": "Suedtirol Olympic Arena Alto Adige",
+   "sport": "biathlon",
+   "start": "2027-01-17T14:00:00+00:00",
+   "state": "pre",
+   "title": "🎿 Femmes 12.5km Mass start – Antholz-Anterselva",
+   "uid": "ibu-BT2627SWRLCP06SWMS",
+   "url": "https://www.biathlonworld.com/results/BT2627SWRLCP06SWMS"
+  },
+  "hash": "a20d1b17eb002ec36fc96a102f9699f1ac281837",
+  "modified": "2026-11-22T04:17:44.898899+00:00",
+  "seq": 0,
+  "sport": "biathlon"
+ },
+ "ibu-BT2627SWRLCP07SMMS": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Coupe du monde IBU – Nove Mesto na Morave (Czechia)",
+   "duration_min": 60,
+   "location": "Vysocina Arena",
+   "sport": "biathlon",
+   "start": "2027-01-24T16:10:00+00:00",
+   "state": "pre",
+   "title": "🎿 Hommes 15km Mass start – Nove Mesto na Morave",
+   "uid": "ibu-BT2627SWRLCP07SMMS",
+   "url": "https://www.biathlonworld.com/results/BT2627SWRLCP07SMMS"
+  },
+  "hash": "2ee7dffb6d484ca35d83ca85e9526f06b36ec8f5",
+  "modified": "2026-11-22T04:17:44.898899+00:00",
+  "seq": 0,
+  "sport": "biathlon"
+ },
+ "ibu-BT2627SWRLCP07SMRL": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Coupe du monde IBU – Nove Mesto na Morave (Czechia)",
+   "duration_min": 60,
+   "location": "Vysocina Arena",
+   "sport": "biathlon",
+   "start": "2027-01-23T16:00:00+00:00",
+   "state": "pre",
+   "title": "🎿 Hommes 4x7.5km Relais – Nove Mesto na Morave",
+   "uid": "ibu-BT2627SWRLCP07SMRL",
+   "url": "https://www.biathlonworld.com/results/BT2627SWRLCP07SMRL"
+  },
+  "hash": "af0f240d9d18dc9980f7b675b0b4e9fdacfcaf67",
+  "modified": "2026-11-22T04:17:44.898899+00:00",
+  "seq": 0,
+  "sport": "biathlon"
+ },
+ "ibu-BT2627SWRLCP07SMSP": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Coupe du monde IBU – Nove Mesto na Morave (Czechia)",
+   "duration_min": 60,
+   "location": "Vysocina Arena",
+   "sport": "biathlon",
+   "start": "2027-01-22T15:30:00+00:00",
+   "state": "pre",
+   "title": "🎿 Hommes 10km Sprint – Nove Mesto na Morave",
+   "uid": "ibu-BT2627SWRLCP07SMSP",
+   "url": "https://www.biathlonworld.com/results/BT2627SWRLCP07SMSP"
+  },
+  "hash": "c53eb19dcc3dae65331897ab20b043781207f6e4",
+  "modified": "2026-11-22T04:17:44.898899+00:00",
+  "seq": 0,
+  "sport": "biathlon"
+ },
+ "ibu-BT2627SWRLCP07SWMS": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Coupe du monde IBU – Nove Mesto na Morave (Czechia)",
+   "duration_min": 60,
+   "location": "Vysocina Arena",
+   "sport": "biathlon",
+   "start": "2027-01-23T13:45:00+00:00",
+   "state": "pre",
+   "title": "🎿 Femmes 12.5km Mass start – Nove Mesto na Morave",
+   "uid": "ibu-BT2627SWRLCP07SWMS",
+   "url": "https://www.biathlonworld.com/results/BT2627SWRLCP07SWMS"
+  },
+  "hash": "0b19533da9f4a80a912f451ad0c86056edabbe26",
+  "modified": "2026-11-22T04:17:44.898899+00:00",
+  "seq": 0,
+  "sport": "biathlon"
+ },
+ "ibu-BT2627SWRLCP07SWRL": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Coupe du monde IBU – Nove Mesto na Morave (Czechia)",
+   "duration_min": 60,
+   "location": "Vysocina Arena",
+   "sport": "biathlon",
+   "start": "2027-01-24T13:35:00+00:00",
+   "state": "pre",
+   "title": "🎿 Femmes 4x6km Relais – Nove Mesto na Morave",
+   "uid": "ibu-BT2627SWRLCP07SWRL",
+   "url": "https://www.biathlonworld.com/results/BT2627SWRLCP07SWRL"
+  },
+  "hash": "af40b94aac50d99db58bd3617acb6776ae4316ba",
+  "modified": "2026-11-22T04:17:44.898899+00:00",
+  "seq": 0,
+  "sport": "biathlon"
+ },
+ "ibu-BT2627SWRLCP07SWSP": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Coupe du monde IBU – Nove Mesto na Morave (Czechia)",
+   "duration_min": 60,
+   "location": "Vysocina Arena",
+   "sport": "biathlon",
+   "start": "2027-01-21T15:30:00+00:00",
+   "state": "pre",
+   "title": "🎿 Femmes 7.5km Sprint – Nove Mesto na Morave",
+   "uid": "ibu-BT2627SWRLCP07SWSP",
+   "url": "https://www.biathlonworld.com/results/BT2627SWRLCP07SWSP"
+  },
+  "hash": "35c349601273d94f41d45ba26337d9e4ca73c58c",
+  "modified": "2026-11-22T04:17:44.898899+00:00",
+  "seq": 0,
+  "sport": "biathlon"
+ },
+ "ibu-BT2627SWRLCP08SMPU": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Coupe du monde IBU – Oberhof (Germany)",
+   "duration_min": 60,
+   "location": "ARENA am Rennsteig",
+   "sport": "biathlon",
+   "start": "2027-03-06T12:45:00+00:00",
+   "state": "pre",
+   "title": "🎿 Hommes 12.5km Poursuite – Oberhof",
+   "uid": "ibu-BT2627SWRLCP08SMPU",
+   "url": "https://www.biathlonworld.com/results/BT2627SWRLCP08SMPU"
+  },
+  "hash": "0839fdb5a05cf90abb01623e31830f7c7cedc280",
+  "modified": "2026-11-22T04:17:44.898899+00:00",
+  "seq": 0,
+  "sport": "biathlon"
+ },
+ "ibu-BT2627SWRLCP08SMRL": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Coupe du monde IBU – Oberhof (Germany)",
+   "duration_min": 60,
+   "location": "ARENA am Rennsteig",
+   "sport": "biathlon",
+   "start": "2027-03-07T11:45:00+00:00",
+   "state": "pre",
+   "title": "🎿 Hommes 4x7.5km Relais – Oberhof",
+   "uid": "ibu-BT2627SWRLCP08SMRL",
+   "url": "https://www.biathlonworld.com/results/BT2627SWRLCP08SMRL"
+  },
+  "hash": "b401d7c612a3d5c016866122bc0c3d1c83831b80",
+  "modified": "2026-11-22T04:17:44.898899+00:00",
+  "seq": 0,
+  "sport": "biathlon"
+ },
+ "ibu-BT2627SWRLCP08SMSP": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Coupe du monde IBU – Oberhof (Germany)",
+   "duration_min": 60,
+   "location": "ARENA am Rennsteig",
+   "sport": "biathlon",
+   "start": "2027-03-04T13:45:00+00:00",
+   "state": "pre",
+   "title": "🎿 Hommes 10km Sprint – Oberhof",
+   "uid": "ibu-BT2627SWRLCP08SMSP",
+   "url": "https://www.biathlonworld.com/results/BT2627SWRLCP08SMSP"
+  },
+  "hash": "447f5a1992b86d55590cd1e5aa2813b17d109ccb",
+  "modified": "2026-11-22T04:17:44.898899+00:00",
+  "seq": 0,
+  "sport": "biathlon"
+ },
+ "ibu-BT2627SWRLCP08SWPU": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Coupe du monde IBU – Oberhof (Germany)",
+   "duration_min": 60,
+   "location": "ARENA am Rennsteig",
+   "sport": "biathlon",
+   "start": "2027-03-06T15:00:00+00:00",
+   "state": "pre",
+   "title": "🎿 Femmes 10km Poursuite – Oberhof",
+   "uid": "ibu-BT2627SWRLCP08SWPU",
+   "url": "https://www.biathlonworld.com/results/BT2627SWRLCP08SWPU"
+  },
+  "hash": "bcd7f71dde2c8416342f956e399a94f7cfa0ccb2",
+  "modified": "2026-11-22T04:17:44.898899+00:00",
+  "seq": 0,
+  "sport": "biathlon"
+ },
+ "ibu-BT2627SWRLCP08SWRL": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Coupe du monde IBU – Oberhof (Germany)",
+   "duration_min": 60,
+   "location": "ARENA am Rennsteig",
+   "sport": "biathlon",
+   "start": "2027-03-07T14:50:00+00:00",
+   "state": "pre",
+   "title": "🎿 Femmes 4x6km Relais – Oberhof",
+   "uid": "ibu-BT2627SWRLCP08SWRL",
+   "url": "https://www.biathlonworld.com/results/BT2627SWRLCP08SWRL"
+  },
+  "hash": "e22d0cba7ba562da9fe2b0a87c6fa9d51c20a841",
+  "modified": "2026-11-22T04:17:44.898899+00:00",
+  "seq": 0,
+  "sport": "biathlon"
+ },
+ "ibu-BT2627SWRLCP08SWSP": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Coupe du monde IBU – Oberhof (Germany)",
+   "duration_min": 60,
+   "location": "ARENA am Rennsteig",
+   "sport": "biathlon",
+   "start": "2027-03-05T13:10:00+00:00",
+   "state": "pre",
+   "title": "🎿 Femmes 7.5km Sprint – Oberhof",
+   "uid": "ibu-BT2627SWRLCP08SWSP",
+   "url": "https://www.biathlonworld.com/results/BT2627SWRLCP08SWSP"
+  },
+  "hash": "8a82defe219bac9ed4b32c0565b6b30a5f8efc1f",
+  "modified": "2026-11-22T04:17:44.898899+00:00",
+  "seq": 0,
+  "sport": "biathlon"
+ },
+ "ibu-BT2627SWRLCP09MXRL": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Coupe du monde IBU – Oestersund (Sweden)",
+   "duration_min": 60,
+   "location": "Swedish National Biathlon Arena",
+   "sport": "biathlon",
+   "start": "2027-03-13T16:10:00+00:00",
+   "state": "pre",
+   "title": "🎿 Relais mixte 4x6km – Oestersund",
+   "uid": "ibu-BT2627SWRLCP09MXRL",
+   "url": "https://www.biathlonworld.com/results/BT2627SWRLCP09MXRL"
+  },
+  "hash": "0e18bb45fa5974b319229695c1ab9f848ddb581b",
+  "modified": "2026-11-22T04:17:44.898899+00:00",
+  "seq": 0,
+  "sport": "biathlon"
+ },
+ "ibu-BT2627SWRLCP09MXSR": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Coupe du monde IBU – Oestersund (Sweden)",
+   "duration_min": 60,
+   "location": "Swedish National Biathlon Arena",
+   "sport": "biathlon",
+   "start": "2027-03-13T13:30:00+00:00",
+   "state": "pre",
+   "title": "🎿 Relais simple mixte – Oestersund",
+   "uid": "ibu-BT2627SWRLCP09MXSR",
+   "url": "https://www.biathlonworld.com/results/BT2627SWRLCP09MXSR"
+  },
+  "hash": "a7ef089a358c3d5912b70d6c991e7a8f65a3d3a0",
+  "modified": "2026-11-22T04:17:44.898899+00:00",
+  "seq": 0,
+  "sport": "biathlon"
+ },
+ "ibu-BT2627SWRLCP09SMIN": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Coupe du monde IBU – Oestersund (Sweden)",
+   "duration_min": 60,
+   "location": "Swedish National Biathlon Arena",
+   "sport": "biathlon",
+   "start": "2027-03-12T15:10:00+00:00",
+   "state": "pre",
+   "title": "🎿 Hommes 20km Individuel – Oestersund",
+   "uid": "ibu-BT2627SWRLCP09SMIN",
+   "url": "https://www.biathlonworld.com/results/BT2627SWRLCP09SMIN"
+  },
+  "hash": "b06749103f8cf1bd88548bda8332cc57798eeb04",
+  "modified": "2026-11-22T04:17:44.898899+00:00",
+  "seq": 0,
+  "sport": "biathlon"
+ },
+ "ibu-BT2627SWRLCP09SMMS": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Coupe du monde IBU – Oestersund (Sweden)",
+   "duration_min": 60,
+   "location": "Swedish National Biathlon Arena",
+   "sport": "biathlon",
+   "start": "2027-03-14T16:10:00+00:00",
+   "state": "pre",
+   "title": "🎿 Hommes 15km Mass start – Oestersund",
+   "uid": "ibu-BT2627SWRLCP09SMMS",
+   "url": "https://www.biathlonworld.com/results/BT2627SWRLCP09SMMS"
+  },
+  "hash": "5c8eaa5004da7f0b05a1a4f0bcfae12f99a58ffa",
+  "modified": "2026-11-22T04:17:44.898899+00:00",
+  "seq": 0,
+  "sport": "biathlon"
+ },
+ "ibu-BT2627SWRLCP09SWIN": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Coupe du monde IBU – Oestersund (Sweden)",
+   "duration_min": 60,
+   "location": "Swedish National Biathlon Arena",
+   "sport": "biathlon",
+   "start": "2027-03-11T15:10:00+00:00",
+   "state": "pre",
+   "title": "🎿 Femmes 15km Individuel – Oestersund",
+   "uid": "ibu-BT2627SWRLCP09SWIN",
+   "url": "https://www.biathlonworld.com/results/BT2627SWRLCP09SWIN"
+  },
+  "hash": "5a675155c37619f4f45e05ef2c84a06b3354b2bc",
+  "modified": "2026-11-22T04:17:44.898899+00:00",
+  "seq": 0,
+  "sport": "biathlon"
+ },
+ "ibu-BT2627SWRLCP09SWMS": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Coupe du monde IBU – Oestersund (Sweden)",
+   "duration_min": 60,
+   "location": "Swedish National Biathlon Arena",
+   "sport": "biathlon",
+   "start": "2027-03-14T13:30:00+00:00",
+   "state": "pre",
+   "title": "🎿 Femmes 12.5km Mass start – Oestersund",
+   "uid": "ibu-BT2627SWRLCP09SWMS",
+   "url": "https://www.biathlonworld.com/results/BT2627SWRLCP09SWMS"
+  },
+  "hash": "cc2a675cf1887f81aac3c80a63be7ca457339a9f",
+  "modified": "2026-11-22T04:17:44.898899+00:00",
+  "seq": 0,
+  "sport": "biathlon"
+ },
+ "ibu-BT2627SWRLCP10SMMS": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Coupe du monde IBU – Oslo Holmenkollen (Norway)",
+   "duration_min": 60,
+   "location": "Holmenkollen",
+   "sport": "biathlon",
+   "start": "2027-03-21T12:30:00+00:00",
+   "state": "pre",
+   "title": "🎿 Hommes 15km Mass start – Oslo Holmenkollen",
+   "uid": "ibu-BT2627SWRLCP10SMMS",
+   "url": "https://www.biathlonworld.com/results/BT2627SWRLCP10SMMS"
+  },
+  "hash": "e34972e92073afb621108e121d1e0639d4e6dde3",
+  "modified": "2026-11-22T04:17:44.898899+00:00",
+  "seq": 0,
+  "sport": "biathlon"
+ },
+ "ibu-BT2627SWRLCP10SMPU": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Coupe du monde IBU – Oslo Holmenkollen (Norway)",
+   "duration_min": 60,
+   "location": "Holmenkollen",
+   "sport": "biathlon",
+   "start": "2027-03-20T13:45:00+00:00",
+   "state": "pre",
+   "title": "🎿 Hommes 12.5km Poursuite – Oslo Holmenkollen",
+   "uid": "ibu-BT2627SWRLCP10SMPU",
+   "url": "https://www.biathlonworld.com/results/BT2627SWRLCP10SMPU"
+  },
+  "hash": "813c81f06f3261936df1189c3889d5e929d8af8f",
+  "modified": "2026-11-22T04:17:44.898899+00:00",
+  "seq": 0,
+  "sport": "biathlon"
+ },
+ "ibu-BT2627SWRLCP10SMSP": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Coupe du monde IBU – Oslo Holmenkollen (Norway)",
+   "duration_min": 60,
+   "location": "Holmenkollen",
+   "sport": "biathlon",
+   "start": "2027-03-18T15:30:00+00:00",
+   "state": "pre",
+   "title": "🎿 Hommes 10km Sprint – Oslo Holmenkollen",
+   "uid": "ibu-BT2627SWRLCP10SMSP",
+   "url": "https://www.biathlonworld.com/results/BT2627SWRLCP10SMSP"
+  },
+  "hash": "6e37b0f92b8935f719ab2d9bd9ff28f2c5968b5e",
+  "modified": "2026-11-22T04:17:44.898899+00:00",
+  "seq": 0,
+  "sport": "biathlon"
+ },
+ "ibu-BT2627SWRLCP10SWMS": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Coupe du monde IBU – Oslo Holmenkollen (Norway)",
+   "duration_min": 60,
+   "location": "Holmenkollen",
+   "sport": "biathlon",
+   "start": "2027-03-21T15:00:00+00:00",
+   "state": "pre",
+   "title": "🎿 Femmes 12.5km Mass start – Oslo Holmenkollen",
+   "uid": "ibu-BT2627SWRLCP10SWMS",
+   "url": "https://www.biathlonworld.com/results/BT2627SWRLCP10SWMS"
+  },
+  "hash": "d1dbc4954192883242256cc02e3e45fc47cb8041",
+  "modified": "2026-11-22T04:17:44.898899+00:00",
+  "seq": 0,
+  "sport": "biathlon"
+ },
+ "ibu-BT2627SWRLCP10SWPU": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Coupe du monde IBU – Oslo Holmenkollen (Norway)",
+   "duration_min": 60,
+   "location": "Holmenkollen",
+   "sport": "biathlon",
+   "start": "2027-03-20T16:00:00+00:00",
+   "state": "pre",
+   "title": "🎿 Femmes 10km Poursuite – Oslo Holmenkollen",
+   "uid": "ibu-BT2627SWRLCP10SWPU",
+   "url": "https://www.biathlonworld.com/results/BT2627SWRLCP10SWPU"
+  },
+  "hash": "f21c43fbe305c371250749df0ca5caa5dca104d0",
+  "modified": "2026-11-22T04:17:44.898899+00:00",
+  "seq": 0,
+  "sport": "biathlon"
+ },
+ "ibu-BT2627SWRLCP10SWSP": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Coupe du monde IBU – Oslo Holmenkollen (Norway)",
+   "duration_min": 60,
+   "location": "Holmenkollen",
+   "sport": "biathlon",
+   "start": "2027-03-19T15:30:00+00:00",
+   "state": "pre",
+   "title": "🎿 Femmes 7.5km Sprint – Oslo Holmenkollen",
+   "uid": "ibu-BT2627SWRLCP10SWSP",
+   "url": "https://www.biathlonworld.com/results/BT2627SWRLCP10SWSP"
+  },
+  "hash": "774abbad71b5a4e316ef1f8f69bdbfab4834adf1",
+  "modified": "2026-11-22T04:17:44.898899+00:00",
+  "seq": 0,
+  "sport": "biathlon"
+ },
+ "lq-callofduty-1793995200-paris_gentle-cloud9_new_y": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Monster Launch Inv '27\nGroup D - Bo5",
+   "duration_min": 180,
+   "location": "",
+   "sport": "esport",
+   "start": "2026-11-06T20:00:00+00:00",
+   "state": "post",
+   "title": "🎮 [CoD] Paris Gentle Mates 3–0 Cloud9 New York ✅",
+   "uid": "lq-callofduty-1793995200-paris_gentle-cloud9_new_y",
+   "url": "https://liquipedia.net/callofduty/"
+  },
+  "hash": "48f4163481802c7f1a22bcf648d2aeadcc132f7f",
+  "modified": "2026-11-22T04:17:44.898899+00:00",
+  "seq": 0,
+  "sport": "esport"
+ },
+ "lq-callofduty-1794009600-los_angeles_-paris_gentle": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Monster Launch Inv '27\nGroup D - Bo5",
+   "duration_min": 180,
+   "location": "",
+   "sport": "esport",
+   "start": "2026-11-07T00:00:00+00:00",
+   "state": "post",
+   "title": "🎮 [CoD] Los Angeles Thieves 2–3 Paris Gentle Mates ✅",
+   "uid": "lq-callofduty-1794009600-los_angeles_-paris_gentle",
+   "url": "https://liquipedia.net/callofduty/"
+  },
+  "hash": "2c516a8cd22ce1b2586e68046bf59df70f5fa6d2",
+  "modified": "2026-11-22T04:17:44.898899+00:00",
+  "seq": 0,
+  "sport": "esport"
+ },
+ "lq-callofduty-1794074400-paris_gentle-g2_minnesota": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Monster Launch Inv '27\nPlayoffs - Bo5",
+   "duration_min": 180,
+   "location": "",
+   "sport": "esport",
+   "start": "2026-11-07T18:00:00+00:00",
+   "state": "post",
+   "title": "🎮 [CoD] Paris Gentle Mates 3–0 G2 Minnesota ✅",
+   "uid": "lq-callofduty-1794074400-paris_gentle-g2_minnesota",
+   "url": "https://liquipedia.net/callofduty/"
+  },
+  "hash": "2a47ffbe83722ee8a5a39f815d0b802e66e56eeb",
+  "modified": "2026-11-22T04:17:44.898899+00:00",
+  "seq": 0,
+  "sport": "esport"
+ },
+ "lq-callofduty-1794082800-faze_vegas-paris_gentle": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Monster Launch Inv '27\nPlayoffs - Bo5",
+   "duration_min": 180,
+   "location": "",
+   "sport": "esport",
+   "start": "2026-11-07T20:20:00+00:00",
+   "state": "post",
+   "title": "🎮 [CoD] FaZe Vegas 1–3 Paris Gentle Mates ✅",
+   "uid": "lq-callofduty-1794082800-faze_vegas-paris_gentle",
+   "url": "https://liquipedia.net/callofduty/"
+  },
+  "hash": "6595519e5236fac156a751389d8557e98503702a",
+  "modified": "2026-11-22T04:17:44.898899+00:00",
+  "seq": 0,
+  "sport": "esport"
+ },
+ "lq-callofduty-1794168600-toronto_koi-paris_gentle": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Monster Launch Inv '27\nPlayoffs - Bo5",
+   "duration_min": 180,
+   "location": "",
+   "sport": "esport",
+   "start": "2026-11-08T20:10:00+00:00",
+   "state": "post",
+   "title": "🎮 [CoD] Toronto KOI 3–1 Paris Gentle Mates ❌",
+   "uid": "lq-callofduty-1794168600-toronto_koi-paris_gentle",
+   "url": "https://liquipedia.net/callofduty/"
+  },
+  "hash": "d271067ab39b8830521460d30f1eb939c6a8c2a6",
+  "modified": "2026-11-22T04:17:44.898899+00:00",
+  "seq": 0,
+  "sport": "esport"
+ },
+ "lq-callofduty-1794174600-paris_gentle-cloud9_new_y": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Monster Launch Inv '27\nPlayoffs - Bo5",
+   "duration_min": 180,
+   "location": "",
+   "sport": "esport",
+   "start": "2026-11-08T21:50:00+00:00",
+   "state": "post",
+   "title": "🎮 [CoD] Paris Gentle Mates 3–1 Cloud9 New York ✅",
+   "uid": "lq-callofduty-1794174600-paris_gentle-cloud9_new_y",
+   "url": "https://liquipedia.net/callofduty/"
+  },
+  "hash": "9f258bf146c81a00382d5a4117900038b5a62a7c",
+  "modified": "2026-11-22T04:17:44.898899+00:00",
+  "seq": 0,
+  "sport": "esport"
+ },
+ "lq-callofduty-1794182400-toronto_koi-paris_gentle": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Monster Launch Inv '27\nPlayoffs - Bo7",
+   "duration_min": 180,
+   "location": "",
+   "sport": "esport",
+   "start": "2026-11-09T00:00:00+00:00",
+   "state": "post",
+   "title": "🎮 [CoD] Toronto KOI 4–1 Paris Gentle Mates ❌",
+   "uid": "lq-callofduty-1794182400-toronto_koi-paris_gentle",
+   "url": "https://liquipedia.net/callofduty/"
+  },
+  "hash": "575fc557837ccc7d403ec6e2a2e5e4cd9e326d7f",
+  "modified": "2026-11-22T04:17:44.898899+00:00",
+  "seq": 0,
+  "sport": "esport"
+ },
+ "pdc-516967": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 2026 Grand Slam of Darts",
+   "duration_min": 150,
+   "location": "Aldersley Leisure Village, Wolverhampton",
+   "sport": "flechettes",
+   "start": "2026-11-14T21:45:06+00:00",
+   "state": "post",
+   "title": "🎯 L. Littler 5–2 B. Greaves ✅",
+   "uid": "pdc-516967",
+   "url": "https://www.pdc.tv/tournaments/mr-vegas-grand-slam-of-darts"
+  },
+  "hash": "09037d8feacccb1f741c38c6425f2e418b46d229",
+  "modified": "2026-11-22T04:17:44.898899+00:00",
+  "seq": 0,
+  "sport": "flechettes"
+ },
+ "pdc-516968": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 2026 Grand Slam of Darts",
+   "duration_min": 150,
+   "location": "Aldersley Leisure Village, Wolverhampton",
+   "sport": "flechettes",
+   "start": "2026-11-16T21:28:39+00:00",
+   "state": "post",
+   "title": "🎯 L. Littler 4–5 N. Zonneveld ❌",
+   "uid": "pdc-516968",
+   "url": "https://www.pdc.tv/tournaments/mr-vegas-grand-slam-of-darts"
+  },
+  "hash": "86ac9a4f8aa05951942a2c4212b42c0fc7a70269",
+  "modified": "2026-11-22T04:17:44.898899+00:00",
+  "seq": 0,
+  "sport": "flechettes"
+ },
+ "pdc-517015": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 2026 Grand Slam of Darts",
+   "duration_min": 150,
+   "location": "Aldersley Leisure Village, Wolverhampton",
+   "sport": "flechettes",
+   "start": "2026-11-18T21:21:01+00:00",
+   "state": "post",
+   "title": "🎯 L. Littler 8–10 J. Wattimena ❌",
+   "uid": "pdc-517015",
+   "url": "https://www.pdc.tv/tournaments/mr-vegas-grand-slam-of-darts"
+  },
+  "hash": "165888c3568f6163f6b03cf86525f4deba3f8d17",
+  "modified": "2026-11-22T04:17:44.898899+00:00",
+  "seq": 0,
+  "sport": "flechettes"
+ },
+ "pdc-517045": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 2026 European Championship",
+   "duration_min": 150,
+   "location": "Westfalenhalle, Dortmund",
+   "sport": "flechettes",
+   "start": "2026-10-23T18:21:47+00:00",
+   "state": "post",
+   "title": "🎯 L. Littler 6–3 W. O'Connor ✅",
+   "uid": "pdc-517045",
+   "url": "https://www.pdc.tv/tournaments/machineseeker-european-championship"
+  },
+  "hash": "a8a83ace2e2248be4407aa45f431b9c0d74ca808",
+  "modified": "2026-11-22T04:17:44.898899+00:00",
+  "seq": 0,
+  "sport": "flechettes"
+ },
+ "pdc-517053": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 2026 European Championship",
+   "duration_min": 150,
+   "location": "Westfalenhalle, Dortmund",
+   "sport": "flechettes",
+   "start": "2026-10-24T18:07:37+00:00",
+   "state": "post",
+   "title": "🎯 N. Aspinall 5–10 L. Littler ✅",
+   "uid": "pdc-517053",
+   "url": "https://www.pdc.tv/tournaments/machineseeker-european-championship"
+  },
+  "hash": "4157019aa2ce84cf3ee82dd8baf020efa79348af",
+  "modified": "2026-11-22T04:17:44.898899+00:00",
+  "seq": 0,
+  "sport": "flechettes"
+ },
+ "pdc-517057": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 2026 European Championship",
+   "duration_min": 150,
+   "location": "Westfalenhalle, Dortmund",
+   "sport": "flechettes",
+   "start": "2026-10-25T15:00:52+00:00",
+   "state": "post",
+   "title": "🎯 K. Ratajski 10–6 L. Littler ❌",
+   "uid": "pdc-517057",
+   "url": "https://www.pdc.tv/tournaments/machineseeker-european-championship"
+  },
+  "hash": "061315ba4e6e177ac97c192f9c956adcc73bcb7b",
+  "modified": "2026-11-22T04:17:44.898899+00:00",
+  "seq": 0,
+  "sport": "flechettes"
  },
  "tsdb-2449615": {
   "event": {
