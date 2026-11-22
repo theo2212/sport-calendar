@@ -206,9 +206,10 @@ def _build(sport, ev, league_name, teams, start_w, end_w) -> Event | None:
         other = away if ours[1] is home else home
         mark = result_mark(_score(ours[1]), _score(other))
         title = f"{emoji} {_name(home)} {_score(home)}–{_score(away)} {_name(away)} {mark}".strip()
-    elif state == "in":
+    elif state == "in" and _score(home) is not None:
         title = f"{emoji} 🔴 {_name(home)} {_score(home)}–{_score(away)} {_name(away)}"
     else:
+        state = "pre" if state == "in" else state
         title = f"{emoji} {prefix}{_name(home)} – {_name(away)}"
 
     desc = [f"🏆 {league_name}"] if league_name else []

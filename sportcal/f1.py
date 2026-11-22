@@ -6,6 +6,15 @@ from datetime import datetime, timezone
 from .common import DURATION_MIN, EMOJI, Event, get_json
 
 BASE = "https://api.jolpi.ca/ergast/f1"
+FR = {
+    "Australian": "Australie", "Chinese": "Chine", "Japanese": "Japon", "Bahrain": "Bahreïn",
+    "Saudi Arabian": "Arabie saoudite", "Miami": "Miami", "Canadian": "Canada", "Monaco": "Monaco",
+    "Spanish": "Espagne", "Barcelona-Catalunya": "Barcelone", "Austrian": "Autriche",
+    "British": "Grande-Bretagne", "Belgian": "Belgique", "Hungarian": "Hongrie", "Dutch": "Pays-Bas",
+    "Italian": "Italie", "Madrid": "Madrid", "Azerbaijan": "Azerbaïdjan", "Singapore": "Singapour",
+    "United States": "États-Unis", "Mexico City": "Mexico", "São Paulo": "Brésil", "Brazilian": "Brésil",
+    "Las Vegas": "Las Vegas", "Qatar": "Qatar", "Abu Dhabi": "Abu Dhabi", "Emilia Romagna": "Émilie-Romagne",
+}
 
 
 def fetch(start: datetime, end: datetime, log: dict) -> list[Event]:
@@ -26,6 +35,7 @@ def fetch(start: datetime, end: datetime, log: dict) -> list[Event]:
             if not (start <= st <= end):
                 continue
             name = r["raceName"].replace(" Grand Prix", "")
+            name = FR.get(name, name)
             loc = r.get("Circuit", {})
             title = f"{EMOJI['f1']} GP {name}"
             desc = [f"🏆 Formule 1 {year} – manche {r['round']}", loc.get("circuitName", "")]

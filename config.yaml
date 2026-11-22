@@ -21,12 +21,15 @@ basket:
   - Spurs
 
 rugby:
-  - Toulouse
-  - Bordeaux
+  - nom: Toulouse
+    match: [Stade Toulousain]
+  - nom: Bordeaux
+    match: [Bordeaux Begles, UBB]
   - France
 
 hand:
-  - Paris Saint-Germain
+  - nom: Paris Saint-Germain
+    id: 136776      # identifiant TheSportsDB (la recherche par nom est capricieuse)
   - France
 
 flechettes:

@@ -3,7 +3,7 @@ UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML,
 res = {}
 h = requests.get("https://biathlonresults.com/", headers={"User-Agent": UA}, timeout=25)
 res["home_code"] = h.status_code; res["home"] = h.text[:3000]
-scripts = re.findall(r'src="([^"]+\.js[^"]*)"', h.text)
+scripts = re.findall(r"src=\"?([^ >\"]+\.js)", h.text)
 res["scripts"] = scripts
 for s in scripts[:6]:
     u = s if s.startswith("http") else "https://biathlonresults.com/" + s.lstrip("/")

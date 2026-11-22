@@ -44,6 +44,9 @@ def get_json(url: str, params: dict | None = None, headers: dict | None = None,
             last = f"HTTP {r.status_code}"
             if r.status_code in (400, 401, 403, 404):
                 break
+            if r.status_code == 429:          # trop de requêtes → on patiente
+                time.sleep(30 * (attempt + 1))
+                continue
         except Exception as exc:  # réseau, JSON…
             last = f"{type(exc).__name__}: {exc}"
         time.sleep(2 * (attempt + 1))
