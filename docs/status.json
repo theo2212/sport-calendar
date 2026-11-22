@@ -105,26 +105,38 @@
  "esport": {
   "jeux": {
    "callofduty": {
-    "erreur": "https://liquipedia.net/callofduty/api.php -> HTTP 429"
+    "matchs_sur_la_page": 50,
+    "matchs_suivis": 7
    },
    "rocketleague": {
-    "erreur": "https://liquipedia.net/rocketleague/api.php -> HTTP 429"
+    "matchs_sur_la_page": 100,
+    "matchs_suivis": 0
    },
    "valorant": {
-    "erreur": "https://liquipedia.net/valorant/api.php -> HTTP 429"
+    "matchs_sur_la_page": 91,
+    "matchs_suivis": 0
    }
   },
   "ok": true,
-  "nb_evenements": 0
+  "nb_evenements": 7
  },
  "biathlon": {
-  "saisons": [
-   "2627"
+  "saison": "2627",
+  "etapes": [
+   "Kontiolahti : 6 courses",
+   "Hochfilzen : 0 courses",
+   "Le Grand Bornand : 0 courses",
+   "Pokljuka : 0 courses",
+   "Ruhpolding : 0 courses",
+   "Antholz-Anterselva : 0 courses",
+   "Nove Mesto na Morave : 0 courses",
+   "Otepaa : 0 courses",
+   "Oberhof : 0 courses",
+   "Oestersund : 0 courses",
+   "Oslo Holmenkollen : 0 courses"
   ],
-  "etapes": [],
-  "ok": false,
-  "erreur": "HttpError: https://biathlonresults.com/modules/sportapi/api/Events -> HTTP 401",
-  "trace": "Traceback (most recent call last):\n  File \"/home/runner/work/sport-calendar/sport-calendar/build.py\", line 49, in collect\n    res[sport] = biathlon.fetch(start, end, log) if _enabled(val) else []\n                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/sport-calendar/sport-calendar/sportcal/biathlon.py\", line 45, in fetch\n    events = get_json(f\"{BASE}/Events\", {\"SeasonId\": sid, \"Level\": 1})\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/sport-calendar/sport-calendar/sportcal/common.py\", line 53, in get_json\n    raise HttpError(f\"{url} -> {last}\")\nsportcal.common.HttpError: https://biathlonresults.com/modules/sportapi/api/Events -> HTTP 401\n"
+  "ok": true,
+  "nb_evenements": 6
  },
  "f1": {
   "2026": 23,
@@ -133,17 +145,17 @@
   "nb_evenements": 6
  },
  "_resume": {
-  "genere_le": "2026-11-22T03:51:17.195043+00:00",
-  "total": 166,
+  "genere_le": "2026-11-22T04:01:26.671777+00:00",
+  "total": 179,
   "par_sport": {
    "foot": 34,
    "basket": 79,
    "rugby": 43,
    "hand": 4,
+   "esport": 7,
+   "biathlon": 6,
    "f1": 6
   },
-  "sources_en_panne": [
-   "biathlon"
-  ]
+  "sources_en_panne": []
  }
 }

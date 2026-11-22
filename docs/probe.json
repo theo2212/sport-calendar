@@ -1,145 +1,45 @@
 {
- "https://www.biathlonworld.com/calendar?eventId=BT2627SWRLCP02": {
+ "matches.darts.web.gc.pdcservices.co.uk": "pas de DNS",
+ "fixtures.darts.web.gc.pdcservices.co.uk/v2/?page.size=3": {
   "code": 200,
-  "page": "/calendar",
-  "keys": [
-   "_nextI18Next",
-   "eventInitialState",
-   "seasonInitialState",
-   "competitionsInitialState",
-   "cupContainerInitialState",
-   "initialContentfulVenues"
-  ],
-  "n_comp": 6,
-  "first": "BT2627SWRLCP01SMIN",
-  "other": {
-   "competitionsInitialState": "[{\"RaceId\": \"BT2627SWRLCP01SMIN\", \"km\": \"20\", \"catId\": \"SM\", \"DisciplineId\": \"IN\", \"StatusId\": 1, \"StatusText\": \"Scheduled\", \"ScheduleStatus\": \"SCHEDULED\", \"ResultStatus\": \"NONE\", \"HasLiveData\": false, \"IsLive\": false, \"StartTime\": \"2026-11-26T15:15:00Z\", \"Description\": \"Men's 20km Individual\", \"ShortDescription\": \"Men's 20km Individual\", \"Location\": \"Biathlon Stadium Kontiolahti\", \"ResultsCredit\": null, \"TimingCredit\": null, \"HasAnalysis\": false, \"StartMode\": \"I\", \"NrShootings\": 4, \"NrSpareRounds\": 0, \"HasSpareRounds\": false, \"PenaltySeconds\": 60, \"NrLegs\": 0, \"ShootingPositions\": \"PSPS\", \"LocalUTCOffset\": 2, \"RSC\": \"BTHM20KMIS------------FNL-000100--\", \"GenderOrder\": null, \"PointsValid\": false}, {\"RaceId\": \"BT2627SWRLCP01SWIN\", \"km\": \"15\", \"catId\": \"SW\", \"DisciplineId\": \"IN\", \"StatusId\":"
-  }
+  "body": "{\"data\":[{\"type\":\"fixture\",\"id\":\"517029\",\"attributes\":{\"tournamentID\":\"10871\",\"tournamentRoundID\":\"88024\",\"tournamentStageID\":\"8\",\"name\":\"Player 1 to be confirmed vs Player 2 to be confirmed\",\"status\":\"Fixture\",\"startDate\":\"2026-11-22\",\"startTime\":\"19:45:00\",\"participant1ID\":\"35295\",\"participant2ID\":\"35296\",\"participant1Score\":0,\"participant2Score\":0,\"sportRadarID\":\"76636526\",\"dartBoardID\":null,\"dartBoardName\":null,\"winnerParticipantID\":null,\"tournament\":{\"tournamentID\":\"10871\",\"name\":\"2026 Grand Slam of Darts\",\"seasonID\":2026,\"venue\":\"Aldersley Leisure Village, Wolverhampton\",\"city\":\"Wolverhampton\",\"tournamentListingImage\":\"e6c7d150-be88-11f0-b683-1df3aa50a425.jpg\",\"tournamentLogo\":\"32ae9b40-6686-11f0-b0e1-2f7ff63d9a66.png\",\"tournamentLogoDarkBackground\":\"32ae9b40-6686-11f0-b0e1-2f7ff63d9a66.png\",\"tournamentBackgroundOverride\":\"ea3b00e0-0038-11f1-8cff-c50b889aaf99.jpg\",\"tournamentPromoImage\":\"e6b70870-be88-11f0-8ac7-3dbf71b97733.jpg\",\"informationPage\":\"/tournaments/mr-vegas-grand-slam-of-darts\",\"ticketingLink\":\"https://bit.ly/GSOD2026\",\"startDate\":\"2026-11-14\",\"endDate\":\"2026-11-22\",\"isRanked\":true,\"isTelevised\":true,\"tournamentTypeID\":\"9\",\"tournamentCategoryID\":\"2\",\"dartConnectID\":null,\"sportRadarTournamentID\":null},\"participant1\":{\"participantID\":\"35295\",\"firstName\":\"Player 1\",\"lastName\":\"to be confirmed\",\"nickname\":null,\"countryCode\":null},\"participant2\":{\"participantID\":\"35296\",\"firstName\":\"Player 2\",\"lastName\":\"to be confirmed\",\"nickname\":null,\"countryCode\":null},\"winne"
  },
- "https://www.biathlonworld.com/calendar/BT2627SWRLCP02": {
-  "code": 404,
-  "page": "/404",
-  "keys": [
-   "_nextI18Next"
-  ],
-  "n_comp": null,
-  "first": "None",
-  "other": {}
- },
- "https://www.biathlonworld.com/_next/data/build/calendar.json?eventId=BT2627SWRLCP02": "<!DOCTYPE html><html lang=\"en\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><title>We&#x27;re sorry, something went wrong here! - International Biathlon Union</title><meta property=\"og:site_name\" content=\"International Biathlon Union - IBU\"/><meta property=\"og:title\" content=\"International Biathlon Union - IBU\"/><meta property=\"og:url\" content=\"https://www.biathlonworld.com\"/><meta property=\"og:image\" content=\"https://assets.biathlonworld.com/v1635279521/static/banner.jpg\"/><meta property=\"og:type\" content=\"website\"/><meta name=\"twitter:card\" content=\"app\"/><meta name=\"twitter:site\" content=\"@biathlonworld\"/><meta name=\"twitter:creator\" content=\"@biathlonworld\"/><meta name=\"twitter:description\" content=\"Never miss a shot again with the official app of the International Biathlon Union.\"/><meta name=\"twitter:app:country\" content=\"AT\"/><meta name=\"twitter:app:name:iphone\" content=\"Official IBU App\"/><meta name=\"twitter:app:id:iphone\" content=\"1581415457\"/><meta name=\"twitter:app:name:ipad\" content=\"Official IBU App\"/><meta name=\"twitter:app:id:ipad\" content=\"1581415457\"/><meta name=\"twitter:app:name:googleplay\" content=\"Official IBU App\"/><meta name=\"twitter:app:id:googleplay\" content=\"at.ibu.app\"/><link rel=\"preload\" as=\"image\" imagesrcset=\"https://assets.biathlonworld.com/image/upload/ar_3:1,c_fill,f_auto,g_auto,q_auto,w_640/static/hero/news 640w, https://assets.biathlonworld.com/image/upload/ar_3:1,c_fill,f_auto,g_auto,q_au",
- "https://www.biathlonworld.com/results": {
+ "fixtures.darts.web.gc.pdcservices.co.uk/v2/": {
   "code": 200,
-  "page": "/results",
-  "keys": [
-   "_nextI18Next",
-   "seasonInitialState",
-   "initialLatestResults",
-   "initialLatestResultsError",
-   "fallbackEvents"
-  ],
-  "n_comp": null,
-  "first": "None",
-  "other": {
-   "initialLatestResults": "[{\"RaceId\": \"BT2526SWRLCP09SMMS\", \"km\": \"15\", \"catId\": \"SM\", \"DisciplineId\": \"MS\", \"StatusId\": 11, \"StatusText\": \"Final\", \"ScheduleStatus\": \"FINISHED\", \"ResultStatus\": \"OFFICIAL\", \"HasLiveData\": false, \"IsLive\": false, \"StartTime\": \"2026-03-22T14:45:00Z\", \"Description\": \"Men's 15km Mass Start\", \"ShortDescription\": \"Men's 15km Mass Start\", \"Location\": \"Holmenkollen\", \"ResultsCredit\": null, \"TimingCredit\": null, \"HasAnalysis\": true, \"StartMode\": \"M\", \"NrShootings\": 4, \"NrSpareRounds\": 0, \"HasSpareRounds\": false, \"PenaltySeconds\": 0, \"NrLegs\": 0, \"ShootingPositions\": \"PPSS\", \"LocalUTCOffset\": 1, \"RSC\": \"BTHM15KMMS------------FNL-000100--\", \"GenderOrder\": null, \"PointsValid\": false}, {\"RaceId\": \"BT2526SWRLCP09SWMS\", \"km\": \"12.5\", \"catId\": \"SW\", \"DisciplineId\": \"MS\", \"StatusId\": 11, \"StatusText",
-   "initialLatestResultsError": "null",
-   "fallbackEvents": "[{\"SeasonId\": \"2526\", \"Trimester\": null, \"EventId\": \"SB2526SIBUL1__\", \"StartDate\": \"2025-10-18T12:00:00Z\", \"EndDate\": \"2025-10-19T12:00:00Z\", \"FirstCompetitionDate\": \"2025-10-18T14:00:00Z\", \"Description\": \"Loop One Festival\", \"EventSeriesNr\": \"\", \"ShortDescription\": \"Munich\", \"Altitude\": \"520\", \"OrganizerId\": \"MUC\", \"Organizer\": \"Munich\", \"OrganizerColor\": \"#321a80\", \"Nat\": \"GER\", \"NatLong\": \"Germany\", \"MedalSetId\": null, \"EventClassificationId\": \"SBSIBUL1\", \"Level\": 4, \"UTCOffset\": 2, \"IsActual\": false, \"IsCurrent\": false, \"EventStatusId\": 0, \"EventStatus\": \"\", \"Notes\": null}, {\"SeasonId\": \"2526\", \"Trimester\": \"1\", \"EventId\": \"BT2526SWRLCP01\", \"StartDate\": \"2025-11-29T12:00:00Z\", \"EndDate\": \"2025-12-07T12:00:00Z\", \"FirstCompetitionDate\": \"2025-11-29T12:15:00Z\", \"Description\": \"BMW IBU Wor"
-  }
+  "body": "{\"data\":[{\"type\":\"fixture\",\"id\":\"517029\",\"attributes\":{\"tournamentID\":\"10871\",\"tournamentRoundID\":\"88024\",\"tournamentStageID\":\"8\",\"name\":\"Player 1 to be confirmed vs Player 2 to be confirmed\",\"status\":\"Fixture\",\"startDate\":\"2026-11-22\",\"startTime\":\"19:45:00\",\"participant1ID\":\"35295\",\"participant2ID\":\"35296\",\"participant1Score\":0,\"participant2Score\":0,\"sportRadarID\":\"76636526\",\"dartBoardID\":null,\"dartBoardName\":null,\"winnerParticipantID\":null,\"tournament\":{\"tournamentID\":\"10871\",\"name\":\"2026 Grand Slam of Darts\",\"seasonID\":2026,\"venue\":\"Aldersley Leisure Village, Wolverhampton\",\"city\":\"Wolverhampton\",\"tournamentListingImage\":\"e6c7d150-be88-11f0-b683-1df3aa50a425.jpg\",\"tournamentLogo\":\"32ae9b40-6686-11f0-b0e1-2f7ff63d9a66.png\",\"tournamentLogoDarkBackground\":\"32ae9b40-6686-11f0-b0e1-2f7ff63d9a66.png\",\"tournamentBackgroundOverride\":\"ea3b00e0-0038-11f1-8cff-c50b889aaf99.jpg\",\"tournamentPromoImage\":\"e6b70870-be88-11f0-8ac7-3dbf71b97733.jpg\",\"informationPage\":\"/tournaments/mr-vegas-grand-slam-of-darts\",\"ticketingLink\":\"https://bit.ly/GSOD2026\",\"startDate\":\"2026-11-14\",\"endDate\":\"2026-11-22\",\"isRanked\":true,\"isTelevised\":true,\"tournamentTypeID\":\"9\",\"tournamentCategoryID\":\"2\",\"dartConnectID\":null,\"sportRadarTournamentID\":null},\"participant1\":{\"participantID\":\"35295\",\"firstName\":\"Player 1\",\"lastName\":\"to be confirmed\",\"nickname\":null,\"countryCode\":null},\"participant2\":{\"participantID\":\"35296\",\"firstName\":\"Player 2\",\"lastName\":\"to be confirmed\",\"nickname\":null,\"countryCode\":null},\"winne"
  },
- "https://www.biathlonworld.com/results?raceId=BT2526SWRLCP01SMIN": {
+ "schedules.darts.web.gc.pdcservices.co.uk": "pas de DNS",
+ "schedule.darts.web.gc.pdcservices.co.uk": "pas de DNS",
+ "events.darts.web.gc.pdcservices.co.uk": "pas de DNS",
+ "tournaments.darts.web.gc.pdcservices.co.uk/v2/?page.size=3": {
   "code": 200,
-  "page": "/results",
-  "keys": [
-   "_nextI18Next",
-   "seasonInitialState",
-   "initialLatestResults",
-   "initialLatestResultsError",
-   "fallbackEvents"
-  ],
-  "n_comp": null,
-  "first": "None",
-  "other": {
-   "initialLatestResults": "[{\"RaceId\": \"BT2526SWRLCP09SMMS\", \"km\": \"15\", \"catId\": \"SM\", \"DisciplineId\": \"MS\", \"StatusId\": 11, \"StatusText\": \"Final\", \"ScheduleStatus\": \"FINISHED\", \"ResultStatus\": \"OFFICIAL\", \"HasLiveData\": false, \"IsLive\": false, \"StartTime\": \"2026-03-22T14:45:00Z\", \"Description\": \"Men's 15km Mass Start\", \"ShortDescription\": \"Men's 15km Mass Start\", \"Location\": \"Holmenkollen\", \"ResultsCredit\": null, \"TimingCredit\": null, \"HasAnalysis\": true, \"StartMode\": \"M\", \"NrShootings\": 4, \"NrSpareRounds\": 0, \"HasSpareRounds\": false, \"PenaltySeconds\": 0, \"NrLegs\": 0, \"ShootingPositions\": \"PPSS\", \"LocalUTCOffset\": 1, \"RSC\": \"BTHM15KMMS------------FNL-000100--\", \"GenderOrder\": null, \"PointsValid\": false}, {\"RaceId\": \"BT2526SWRLCP09SWMS\", \"km\": \"12.5\", \"catId\": \"SW\", \"DisciplineId\": \"MS\", \"StatusId\": 11, \"StatusText",
-   "initialLatestResultsError": "null",
-   "fallbackEvents": "[{\"SeasonId\": \"2526\", \"Trimester\": null, \"EventId\": \"SB2526SIBUL1__\", \"StartDate\": \"2025-10-18T12:00:00Z\", \"EndDate\": \"2025-10-19T12:00:00Z\", \"FirstCompetitionDate\": \"2025-10-18T14:00:00Z\", \"Description\": \"Loop One Festival\", \"EventSeriesNr\": \"\", \"ShortDescription\": \"Munich\", \"Altitude\": \"520\", \"OrganizerId\": \"MUC\", \"Organizer\": \"Munich\", \"OrganizerColor\": \"#321a80\", \"Nat\": \"GER\", \"NatLong\": \"Germany\", \"MedalSetId\": null, \"EventClassificationId\": \"SBSIBUL1\", \"Level\": 4, \"UTCOffset\": 2, \"IsActual\": false, \"IsCurrent\": false, \"EventStatusId\": 0, \"EventStatus\": \"\", \"Notes\": null}, {\"SeasonId\": \"2526\", \"Trimester\": \"1\", \"EventId\": \"BT2526SWRLCP01\", \"StartDate\": \"2025-11-29T12:00:00Z\", \"EndDate\": \"2025-12-07T12:00:00Z\", \"FirstCompetitionDate\": \"2025-11-29T12:15:00Z\", \"Description\": \"BMW IBU Wor"
-  }
+  "body": "{\"data\":[{\"type\":\"tournament\",\"id\":\"8303\",\"attributes\":{\"name\":\"1992 UK Masters\",\"venue\":\"The Talk, Norwich\",\"city\":\"Norwich\",\"winnerParticipantID\":\"11568\",\"seasonID\":1992,\"dartConnectID\":null,\"sportRadarTournamentID\":null,\"tournamentTypeID\":\"78\",\"tournamentCategoryID\":\"1\",\"tournamentListingImage\":null,\"tournamentLogo\":null,\"tournamentLogoDarkBackground\":null,\"tournamentBackgroundOverride\":null,\"tournamentPromoImage\":null,\"informationPage\":null,\"ticketingLink\":null,\"startDate\":\"1992-10-11\",\"endDate\":\"1992-10-11\",\"isRanked\":true,\"isTelevised\":true,\"fixtureCount\":15,\"winner\":{\"participantID\":\"11568\",\"firstName\":\"Mike\",\"lastName\":\"Gregory\",\"nickname\":null,\"participantSlug\":\"mike-gregory-11568\",\"dob\":null,\"countryCode\":null,\"isTourCardHolder\":false,\"ranking\":null,\"prizeMoney\":12000,\"meta\":{\"participantID\":\"11568\",\"homeTown\":null,\"placeOfBirth\":null,\"startedPlayingYear\":null,\"makeOfDart\":null,\"weightOfDart\":null,\"walkOnSongMusic\":null,\"facebook\":null,\"instagram\":null,\"twitter\":null,\"officialWebsite\":null,\"middleNames\":null,\"isLeftHanded\":false,\"retiredFromPlaying\":null,\"biography\":null},\"media\":[]}},\"links\":{\"self\":\"https://tournaments.darts.web.gc.pdcservices.co.uk/v2/8303\"}},{\"type\":\"tournament\",\"id\":\"8304\",\"attributes\":{\"name\":\"1993 Dutch Open\",\"venue\":\"De Bonte Wever\",\"city\":\"Assen\",\"winnerParticipantID\":\"1490\",\"seasonID\":1993,\"dartConnectID\":null,\"sportRadarTournamentID\":null,\"tournamentTypeID\":\"81\",\"tournamentCategoryID\":\"1\",\"tournamentListingImage\":null,\"tournamentLogo\":nul"
  },
- "bw_links": [
-  "/apple-touch-icon.png",
-  "/athlete",
-  "/calendar",
-  "/calendar?CupLevel=1&amp;SeasonId=2627&amp;EventId=BT2627SWRLCH__",
-  "/calendar?CupLevel=1&amp;SeasonId=2627&amp;EventId=BT2627SWRLCP01",
-  "/calendar?CupLevel=1&amp;SeasonId=2627&amp;EventId=BT2627SWRLCP02",
-  "/calendar?CupLevel=1&amp;SeasonId=2627&amp;EventId=BT2627SWRLCP03",
-  "/calendar?CupLevel=1&amp;SeasonId=2627&amp;EventId=BT2627SWRLCP04",
-  "/calendar?CupLevel=1&amp;SeasonId=2627&amp;EventId=BT2627SWRLCP05",
-  "/calendar?CupLevel=1&amp;SeasonId=2627&amp;EventId=BT2627SWRLCP06",
-  "/calendar?CupLevel=1&amp;SeasonId=2627&amp;EventId=BT2627SWRLCP07",
-  "/calendar?CupLevel=1&amp;SeasonId=2627&amp;EventId=BT2627SWRLCP08",
-  "/calendar?CupLevel=1&amp;SeasonId=2627&amp;EventId=BT2627SWRLCP09",
-  "/calendar?CupLevel=1&amp;SeasonId=2627&amp;EventId=BT2627SWRLCP10",
-  "/contact",
-  "/de/calendar",
-  "/discover-biathlon",
-  "/favicon-16x16.png",
-  "/favicon-32x32.png",
-  "/favicon.ico",
-  "/fonts/roboto-condensed-v31-latin-700.woff2",
-  "/fonts/roboto-condensed-v31-latin-regular.woff2",
-  "/fonts/roboto-v51-latin-regular.woff2",
-  "/fr/calendar",
-  "/imprint",
-  "/inside-ibu",
-  "/inside-ibu/anti-doping",
-  "/inside-ibu/marketing/sponsors",
-  "/inside-ibu/sports-and-event",
-  "/login",
-  "/news",
-  "/newsletter",
-  "/privacy-policy",
-  "/profile/favorites",
-  "/results",
-  "/ru/calendar",
-  "/safari-pinned-tab.svg",
-  "/search",
-  "/site.webmanifest",
-  "/standings",
-  "/startlist/BT2627SWRLCP01MXRL",
-  "/startlist/BT2627SWRLCP01MXSR",
-  "/startlist/BT2627SWRLCP01SMIN",
-  "/startlist/BT2627SWRLCP01SMSP",
-  "/startlist/BT2627SWRLCP01SWIN",
-  "/startlist/BT2627SWRLCP01SWSP",
-  "/termsofuse",
-  "/venue/KON",
-  "/watchlive"
- ],
- "https://participants.darts.web.gc.pdcservices.co.uk/v2/?page.size=5": {
+ "tournaments.darts.web.gc.pdcservices.co.uk/v2/": {
   "code": 200,
-  "body": "{\"data\":[{\"type\":\"participant\",\"id\":\"40676\",\"attributes\":{\"firstName\":\"Luke\",\"lastName\":\"Littler\",\"nickname\":\"The Nuke\",\"participantSlug\":\"luke-littler\",\"dob\":\"2007-01-21\",\"countryCode\":\"GB-ENG\",\"ranking\":1,\"prizeMoney\":4925425,\"meta\":{\"homeTown\":\"Warrington\",\"placeOfBirth\":\"Warrington\",\"startedPlayingYear\":2017,\"makeOfDart\":\"Target\",\"weightOfDart\":23,\"walkOnSongMusic\":\"Green Light - Pitbull\",\"facebook\":null,\"instagram\":null,\"twitter\":null,\"officialWebsite\":null,\"middleNames\":null,\"isLeftHanded\":false,\"retiredFromPlaying\":null,\"biography\":\"\"},\"media\":{\"image\":\"7843dbf0-f21a-11f0-a2b2-337f630ef140.png\",\"type\":\"profile\",\"meta\":{\"side\":\"\"}},\"isCurrentTourCardHolder\":true,\"tourCardYears\":[2026,2025,2024]},\"links\":{\"self\":\"https://participants.darts.web.gc.pdcservices.co.uk/v2/40676\"}},{\"type\":\"participant\",\"id\":\"32102\",\"attributes\":{\"firstName\":\"Luke\",\"lastName\":\"Humphries\",\"nickname\":\"Cool Hand\",\"participantSlug\":\"luke-humphries\",\"dob\":\"1995-02-11\",\"countryCode\":\"GB-ENG\",\"ranking\":2,\"prizeMoney\":4535975,\"meta\":{\"homeTown\":\"Crewe\",\"placeOfBirth\":\"Reading\",\"startedPlayingYear\":2007,\"makeOfDart\":\"Red Dragon\",\"weightOfDart\":22,\"walkOnSongMusic\":\"I Predict A Riot - Kaiser Chiefs\",\"facebook\":null,\"instagram\":null,\"twitter\":\"https://twitter.com/lukeh180\",\"officialWebsite\":\"http://lukehumphries.co.uk/\",\"middleNames\":null,\"isLeftHanded\":false,\"retiredFromPlaying\":null,\"biography\":\"\"},\"media\":{\"image\":\"f62be0d0-f233-11f0-b703-63c53945660f.png\",\"type\":\"profile\",\"meta\":{\"side\":\"\"}},\"isCurrentTourCardHolder\":true,\"tourCardYears\":[2026,2025,2024,2023,2022,2021,2020,2019]},\"links\":{\"self\":\"https://participants.darts.web.gc.pdcservices.co.uk/v2/32102\"}},{\"type\":\"participant\",\"id\":\"33091\",\"attributes\":{\"firstName\":\"Gian\",\"lastName\":\"van Veen\",\"nickname\":\"The Giant\",\"participantSlug\":\"gian-van-veen\",\"dob\":\"2002-04-23\",\"countryCode\":\"NL\",\"ranking\":3,\"prizeMoney\":1692450,\"meta\":{\"homeTown\":\"Poederoijen\",\"placeOfBirth\":\"Poederoijen\",\"startedPlayingYear\":2010,\"makeOfDart\":\"Winmau\",\"weightOfDart\":21,\"walkOnSongMusic\":\"Astronomia - Tony Igy & Vicetone\",\"facebook\":null,\"instagram\":\"Gianmachdarts\",\"twitter\":\"https://twitter.com/GianVanVeen\",\"officialWebsite\":\"www.gvvdarts.com\",\"middleNames\":null,\"isLeftHanded\":false,\"retiredFromPlaying\":null,\"biography\":null},\"media\":{\"image\":\"f5b2b930-f233-11f0-9c7f-3f5eeb7c3f65.png\",\"type\":\"profile\",\"meta\":{\"side\":\"\"}},\"isCurrentTourCardHolder\":true,\"tourCardYears\":[2026,2025,2024,2023]},\"links\":{\"self\":\"https://participants.darts.web.gc.pdcservices"
+  "body": "{\"data\":[{\"type\":\"tournament\",\"id\":\"8303\",\"attributes\":{\"name\":\"1992 UK Masters\",\"venue\":\"The Talk, Norwich\",\"city\":\"Norwich\",\"winnerParticipantID\":\"11568\",\"seasonID\":1992,\"dartConnectID\":null,\"sportRadarTournamentID\":null,\"tournamentTypeID\":\"78\",\"tournamentCategoryID\":\"1\",\"tournamentListingImage\":null,\"tournamentLogo\":null,\"tournamentLogoDarkBackground\":null,\"tournamentBackgroundOverride\":null,\"tournamentPromoImage\":null,\"informationPage\":null,\"ticketingLink\":null,\"startDate\":\"1992-10-11\",\"endDate\":\"1992-10-11\",\"isRanked\":true,\"isTelevised\":true,\"fixtureCount\":15,\"winner\":{\"participantID\":\"11568\",\"firstName\":\"Mike\",\"lastName\":\"Gregory\",\"nickname\":null,\"participantSlug\":\"mike-gregory-11568\",\"dob\":null,\"countryCode\":null,\"isTourCardHolder\":false,\"ranking\":null,\"prizeMoney\":12000,\"meta\":{\"participantID\":\"11568\",\"homeTown\":null,\"placeOfBirth\":null,\"startedPlayingYear\":null,\"makeOfDart\":null,\"weightOfDart\":null,\"walkOnSongMusic\":null,\"facebook\":null,\"instagram\":null,\"twitter\":null,\"officialWebsite\":null,\"middleNames\":null,\"isLeftHanded\":false,\"retiredFromPlaying\":null,\"biography\":null},\"media\":[]}},\"links\":{\"self\":\"https://tournaments.darts.web.gc.pdcservices.co.uk/v2/8303\"}},{\"type\":\"tournament\",\"id\":\"8304\",\"attributes\":{\"name\":\"1993 Dutch Open\",\"venue\":\"De Bonte Wever\",\"city\":\"Assen\",\"winnerParticipantID\":\"1490\",\"seasonID\":1993,\"dartConnectID\":null,\"sportRadarTournamentID\":null,\"tournamentTypeID\":\"81\",\"tournamentCategoryID\":\"1\",\"tournamentListingImage\":null,\"tournamentLogo\":nul"
  },
- "https://participants.darts.web.gc.pdcservices.co.uk/v2/?search=Littler": {
-  "code": 200,
-  "body": "{\"data\":[{\"type\":\"participant\",\"id\":\"40676\",\"attributes\":{\"firstName\":\"Luke\",\"lastName\":\"Littler\",\"nickname\":\"The Nuke\",\"participantSlug\":\"luke-littler\",\"dob\":\"2007-01-21\",\"countryCode\":\"GB-ENG\",\"ranking\":1,\"prizeMoney\":4925425,\"meta\":{\"homeTown\":\"Warrington\",\"placeOfBirth\":\"Warrington\",\"startedPlayingYear\":2017,\"makeOfDart\":\"Target\",\"weightOfDart\":23,\"walkOnSongMusic\":\"Green Light - Pitbull\",\"facebook\":null,\"instagram\":null,\"twitter\":null,\"officialWebsite\":null,\"middleNames\":null,\"isLeftHanded\":false,\"retiredFromPlaying\":null,\"biography\":\"\"},\"media\":{\"image\":\"7843dbf0-f21a-11f0-a2b2-337f630ef140.png\",\"type\":\"profile\",\"meta\":{\"side\":\"\"}},\"isCurrentTourCardHolder\":true,\"tourCardYears\":[2026,2025,2024]},\"links\":{\"self\":\"https://participants.darts.web.gc.pdcservices.co.uk/v2/40676\"}},{\"type\":\"participant\",\"id\":\"32102\",\"attributes\":{\"firstName\":\"Luke\",\"lastName\":\"Humphries\",\"nickname\":\"Cool Hand\",\"participantSlug\":\"luke-humphries\",\"dob\":\"1995-02-11\",\"countryCode\":\"GB-ENG\",\"ranking\":2,\"prizeMoney\":4535975,\"meta\":{\"homeTown\":\"Crewe\",\"placeOfBirth\":\"Reading\",\"startedPlayingYear\":2007,\"makeOfDart\":\"Red Dragon\",\"weightOfDart\":22,\"walkOnSongMusic\":\"I Predict A Riot - Kaiser Chiefs\",\"facebook\":null,\"instagram\":null,\"twitter\":\"https://twitter.com/lukeh180\",\"officialWebsite\":\"http://lukehumphries.co.uk/\",\"middleNames\":null,\"isLeftHanded\":false,\"retiredFromPlaying\":null,\"biography\":\"\"},\"media\":{\"image\":\"f62be0d0-f233-11f0-b703-63c53945660f.png\",\"type\":\"profile\",\"meta\":{\"side\":\"\"}},\"isCurrentTourCardHolder\":true,\"tourCardYears\":[2026,2025,2024,2023,2022,2021,2020,2019]},\"links\":{\"self\":\"https://participants.darts.web.gc.pdcservices.co.uk/v2/32102\"}},{\"type\":\"participant\",\"id\":\"33091\",\"attributes\":{\"firstName\":\"Gian\",\"lastName\":\"van Veen\",\"nickname\":\"The Giant\",\"participantSlug\":\"gian-van-veen\",\"dob\":\"2002-04-23\",\"countryCode\":\"NL\",\"ranking\":3,\"prizeMoney\":1692450,\"meta\":{\"homeTown\":\"Poederoijen\",\"placeOfBirth\":\"Poederoijen\",\"startedPlayingYear\":2010,\"makeOfDart\":\"Winmau\",\"weightOfDart\":21,\"walkOnSongMusic\":\"Astronomia - Tony Igy & Vicetone\",\"facebook\":null,\"instagram\":\"Gianmachdarts\",\"twitter\":\"https://twitter.com/GianVanVeen\",\"officialWebsite\":\"www.gvvdarts.com\",\"middleNames\":null,\"isLeftHanded\":false,\"retiredFromPlaying\":null,\"biography\":null},\"media\":{\"image\":\"f5b2b930-f233-11f0-9c7f-3f5eeb7c3f65.png\",\"type\":\"profile\",\"meta\":{\"side\":\"\"}},\"isCurrentTourCardHolder\":true,\"tourCardYears\":[2026,2025,2024,2023]},\"links\":{\"self\":\"https://participants.darts.web.gc.pdcservices"
- },
- "https://matches.darts.web.gc.pdcservices.co.uk/v2/?page.size=5": "HTTPSConnectionPool(host='matches.darts.web.gc.pdcservices.co.uk', port=443): Max retries exceeded with url: /v2/?page.size=5 (Caused by NameResolutionError(\"HTTPSConnection(host='matches.darts.web.gc.pdcservices.co.uk', port=443): Failed to resolve 'matches.darts.web.gc.pdcservices.co.uk' ([Errno -2] Name or service not known)\"))",
- "https://matches.darts.web.gc.pdcservices.co.uk/v2/matches?page.size=5": "HTTPSConnectionPool(host='matches.darts.web.gc.pdcservices.co.uk', port=443): Max retries exceeded with url: /v2/matches?page.size=5 (Caused by NameResolutionError(\"HTTPSConnection(host='matches.darts.web.gc.pdcservices.co.uk', port=443): Failed to resolve 'matches.darts.web.gc.pdcservices.co.uk' ([Errno -2] Name or service not known)\"))",
- "https://matches.darts.web.gc.pdcservices.co.uk/v2/fixtures?page.size=5": "HTTPSConnectionPool(host='matches.darts.web.gc.pdcservices.co.uk', port=443): Max retries exceeded with url: /v2/fixtures?page.size=5 (Caused by NameResolutionError(\"HTTPSConnection(host='matches.darts.web.gc.pdcservices.co.uk', port=443): Failed to resolve 'matches.darts.web.gc.pdcservices.co.uk' ([Errno -2] Name or service not known)\"))",
- "https://matches.darts.web.gc.pdcservices.co.uk/v2/tournaments?page.size=5": "HTTPSConnectionPool(host='matches.darts.web.gc.pdcservices.co.uk', port=443): Max retries exceeded with url: /v2/tournaments?page.size=5 (Caused by NameResolutionError(\"HTTPSConnection(host='matches.darts.web.gc.pdcservices.co.uk', port=443): Failed to resolve 'matches.darts.web.gc.pdcservices.co.uk' ([Errno -2] Name or service not known)\"))",
- "https://cms.gc.pdcservices.co.uk/v2/tournaments": {
-  "code": 200,
-  "body": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><link rel=\"icon\" href=\"/favicon.ico\"><link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"/apple-touch-icon.png\"><link rel=\"icon\" type=\"image/png\" sizes=\"32x32\" href=\"/favicon-32x32.png\"><link rel=\"icon\" type=\"image/png\" sizes=\"16x16\" href=\"/favicon-16x16.png\"><link rel=\"manifest\" href=\"/site.webmanifest\"><link rel=\"mask-icon\" href=\"/safari-pinned-tab.svg\" color=\"#67247c\"><meta name=\"msapplication-TileColor\" content=\"#67247c\"><meta name=\"theme-color\" content=\"#67247c\"><title>Gamechanger</title><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css?family=Rubik:300,400,500\"><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css?family=Material+Icons\"><script defer=\"defer\" src=\"/js/chunk-vendors.97658b6d.js\"></script><script defer=\"defer\" src=\"/js/app.0adf7ee5.js\"></script><link href=\"/css/chunk-vendors.aa3ad967.css\" rel=\"stylesheet\"><link href=\"/css/app.1f8098dc.css\" rel=\"stylesheet\"></head><body><noscript><strong>We're sorry but the Gamechanger Admin doesn't work properly without JavaScript enabled. Please enable it to continue.</strong></noscript><div id=\"app\"></div><script src=\"https://cdn.usefathom.com/script.js\" data-spa=\"auto\" data-site=\"FJJKFIWI\" defer=\"defer\"></script></body></html>"
- },
- "pdc_js_routes": [
-  "darts.web().getParticipants())",
-  "darts.web.gc.${NP(this",
-  "darts.web.gc.${this.url}/v2`",
-  "v2/${n}?token=${t.idToken.jwtToken}",
-  "v2/${n}?token=${t}",
-  "v2/channels?countryCode=${e}",
-  "v2/users/${e}",
-  "v2/users/entitlements/${e}",
-  "v2/users/entitlements/${n}",
-  "v2/users/entitlements/${t}"
- ]
+ "results.darts.web.gc.pdcservices.co.uk": "pas de DNS",
+ "competitions.darts.web.gc.pdcservices.co.uk": "pas de DNS",
+ "stats.darts.web.gc.pdcservices.co.uk": "pas de DNS",
+ "draws.darts.web.gc.pdcservices.co.uk": "pas de DNS",
+ "match.darts.web.gc.pdcservices.co.uk": "pas de DNS",
+ "scores.darts.web.gc.pdcservices.co.uk": "pas de DNS",
+ "livescores.darts.web.gc.pdcservices.co.uk": "pas de DNS",
+ "orderofplay.darts.web.gc.pdcservices.co.uk": "pas de DNS",
+ "podium_test": {
+  "vainqueur": "🇳🇴 BOTN J.",
+  "lignes": [
+   "",
+   "Podium :",
+   "🥇 🇳🇴 BOTN J.",
+   "🥈 🇩🇪 NAWRATH P.",
+   "🥉 🇫🇷 PERROT E.",
+   "",
+   "🇫🇷 Français :",
+   "3e – PERROT E.",
+   "5e – JACQUELIN E.",
+   "7e – LOMBARDOT O."
+  ]
+ }
 }

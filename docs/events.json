@@ -2879,6 +2879,240 @@
   "seq": 0,
   "sport": "f1"
  },
+ "ibu-BT2627SWRLCP01MXRL": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Coupe du monde IBU – Kontiolahti (Finland)",
+   "duration_min": 60,
+   "location": "Biathlon Stadium Kontiolahti",
+   "sport": "biathlon",
+   "start": "2026-11-28T14:15:00+00:00",
+   "state": "pre",
+   "title": "🎿 Relais mixte 4x6km – Kontiolahti",
+   "uid": "ibu-BT2627SWRLCP01MXRL",
+   "url": "https://www.biathlonworld.com/results/BT2627SWRLCP01MXRL"
+  },
+  "hash": "e5334b6f152e3272ccb9348d190945aa63bd5896",
+  "modified": "2026-11-22T04:01:26.671777+00:00",
+  "seq": 0,
+  "sport": "biathlon"
+ },
+ "ibu-BT2627SWRLCP01MXSR": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Coupe du monde IBU – Kontiolahti (Finland)",
+   "duration_min": 60,
+   "location": "Biathlon Stadium Kontiolahti",
+   "sport": "biathlon",
+   "start": "2026-11-28T12:10:00+00:00",
+   "state": "pre",
+   "title": "🎿 Relais simple mixte – Kontiolahti",
+   "uid": "ibu-BT2627SWRLCP01MXSR",
+   "url": "https://www.biathlonworld.com/results/BT2627SWRLCP01MXSR"
+  },
+  "hash": "bb4b4cb54596c9e6a704aa3c78de215bb381ecc5",
+  "modified": "2026-11-22T04:01:26.671777+00:00",
+  "seq": 0,
+  "sport": "biathlon"
+ },
+ "ibu-BT2627SWRLCP01SMIN": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Coupe du monde IBU – Kontiolahti (Finland)",
+   "duration_min": 60,
+   "location": "Biathlon Stadium Kontiolahti",
+   "sport": "biathlon",
+   "start": "2026-11-26T15:15:00+00:00",
+   "state": "pre",
+   "title": "🎿 Hommes 20km Individuel – Kontiolahti",
+   "uid": "ibu-BT2627SWRLCP01SMIN",
+   "url": "https://www.biathlonworld.com/results/BT2627SWRLCP01SMIN"
+  },
+  "hash": "57c8708ec49cfd7fa6861be22c4fc396f0a58a21",
+  "modified": "2026-11-22T04:01:26.671777+00:00",
+  "seq": 0,
+  "sport": "biathlon"
+ },
+ "ibu-BT2627SWRLCP01SMSP": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Coupe du monde IBU – Kontiolahti (Finland)",
+   "duration_min": 60,
+   "location": "Biathlon Stadium Kontiolahti",
+   "sport": "biathlon",
+   "start": "2026-11-29T12:00:00+00:00",
+   "state": "pre",
+   "title": "🎿 Hommes 10km Sprint – Kontiolahti",
+   "uid": "ibu-BT2627SWRLCP01SMSP",
+   "url": "https://www.biathlonworld.com/results/BT2627SWRLCP01SMSP"
+  },
+  "hash": "573492af2b0fa5ef23dea1d81ad692b535d6a4c7",
+  "modified": "2026-11-22T04:01:26.671777+00:00",
+  "seq": 0,
+  "sport": "biathlon"
+ },
+ "ibu-BT2627SWRLCP01SWIN": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Coupe du monde IBU – Kontiolahti (Finland)",
+   "duration_min": 60,
+   "location": "Biathlon Stadium Kontiolahti",
+   "sport": "biathlon",
+   "start": "2026-11-27T15:15:00+00:00",
+   "state": "pre",
+   "title": "🎿 Femmes 15km Individuel – Kontiolahti",
+   "uid": "ibu-BT2627SWRLCP01SWIN",
+   "url": "https://www.biathlonworld.com/results/BT2627SWRLCP01SWIN"
+  },
+  "hash": "ed7a10a45c49b1577b64ea2d861ebab15a4a3fcb",
+  "modified": "2026-11-22T04:01:26.671777+00:00",
+  "seq": 0,
+  "sport": "biathlon"
+ },
+ "ibu-BT2627SWRLCP01SWSP": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Coupe du monde IBU – Kontiolahti (Finland)",
+   "duration_min": 60,
+   "location": "Biathlon Stadium Kontiolahti",
+   "sport": "biathlon",
+   "start": "2026-11-29T15:15:00+00:00",
+   "state": "pre",
+   "title": "🎿 Femmes 7.5km Sprint – Kontiolahti",
+   "uid": "ibu-BT2627SWRLCP01SWSP",
+   "url": "https://www.biathlonworld.com/results/BT2627SWRLCP01SWSP"
+  },
+  "hash": "16eb68c806c5458aed7275a55316de6c936f23bd",
+  "modified": "2026-11-22T04:01:26.671777+00:00",
+  "seq": 0,
+  "sport": "biathlon"
+ },
+ "lq-callofduty-1793995200-paris_gentle-cloud9_new_y": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Monster Launch Inv '27\nGroup D - Bo5",
+   "duration_min": 180,
+   "location": "",
+   "sport": "esport",
+   "start": "2026-11-06T20:00:00+00:00",
+   "state": "post",
+   "title": "🎮 [CoD] Paris Gentle Mates 3–0 Cloud9 New York ✅",
+   "uid": "lq-callofduty-1793995200-paris_gentle-cloud9_new_y",
+   "url": "https://liquipedia.net/callofduty/"
+  },
+  "hash": "48f4163481802c7f1a22bcf648d2aeadcc132f7f",
+  "modified": "2026-11-22T04:01:26.671777+00:00",
+  "seq": 0,
+  "sport": "esport"
+ },
+ "lq-callofduty-1794009600-los_angeles_-paris_gentle": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Monster Launch Inv '27\nGroup D - Bo5",
+   "duration_min": 180,
+   "location": "",
+   "sport": "esport",
+   "start": "2026-11-07T00:00:00+00:00",
+   "state": "post",
+   "title": "🎮 [CoD] Los Angeles Thieves 2–3 Paris Gentle Mates ✅",
+   "uid": "lq-callofduty-1794009600-los_angeles_-paris_gentle",
+   "url": "https://liquipedia.net/callofduty/"
+  },
+  "hash": "2c516a8cd22ce1b2586e68046bf59df70f5fa6d2",
+  "modified": "2026-11-22T04:01:26.671777+00:00",
+  "seq": 0,
+  "sport": "esport"
+ },
+ "lq-callofduty-1794074400-paris_gentle-g2_minnesota": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Monster Launch Inv '27\nPlayoffs - Bo5",
+   "duration_min": 180,
+   "location": "",
+   "sport": "esport",
+   "start": "2026-11-07T18:00:00+00:00",
+   "state": "post",
+   "title": "🎮 [CoD] Paris Gentle Mates 3–0 G2 Minnesota ✅",
+   "uid": "lq-callofduty-1794074400-paris_gentle-g2_minnesota",
+   "url": "https://liquipedia.net/callofduty/"
+  },
+  "hash": "2a47ffbe83722ee8a5a39f815d0b802e66e56eeb",
+  "modified": "2026-11-22T04:01:26.671777+00:00",
+  "seq": 0,
+  "sport": "esport"
+ },
+ "lq-callofduty-1794082800-faze_vegas-paris_gentle": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Monster Launch Inv '27\nPlayoffs - Bo5",
+   "duration_min": 180,
+   "location": "",
+   "sport": "esport",
+   "start": "2026-11-07T20:20:00+00:00",
+   "state": "post",
+   "title": "🎮 [CoD] FaZe Vegas 1–3 Paris Gentle Mates ✅",
+   "uid": "lq-callofduty-1794082800-faze_vegas-paris_gentle",
+   "url": "https://liquipedia.net/callofduty/"
+  },
+  "hash": "6595519e5236fac156a751389d8557e98503702a",
+  "modified": "2026-11-22T04:01:26.671777+00:00",
+  "seq": 0,
+  "sport": "esport"
+ },
+ "lq-callofduty-1794168600-toronto_koi-paris_gentle": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Monster Launch Inv '27\nPlayoffs - Bo5",
+   "duration_min": 180,
+   "location": "",
+   "sport": "esport",
+   "start": "2026-11-08T20:10:00+00:00",
+   "state": "post",
+   "title": "🎮 [CoD] Toronto KOI 3–1 Paris Gentle Mates ❌",
+   "uid": "lq-callofduty-1794168600-toronto_koi-paris_gentle",
+   "url": "https://liquipedia.net/callofduty/"
+  },
+  "hash": "d271067ab39b8830521460d30f1eb939c6a8c2a6",
+  "modified": "2026-11-22T04:01:26.671777+00:00",
+  "seq": 0,
+  "sport": "esport"
+ },
+ "lq-callofduty-1794174600-paris_gentle-cloud9_new_y": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Monster Launch Inv '27\nPlayoffs - Bo5",
+   "duration_min": 180,
+   "location": "",
+   "sport": "esport",
+   "start": "2026-11-08T21:50:00+00:00",
+   "state": "post",
+   "title": "🎮 [CoD] Paris Gentle Mates 3–1 Cloud9 New York ✅",
+   "uid": "lq-callofduty-1794174600-paris_gentle-cloud9_new_y",
+   "url": "https://liquipedia.net/callofduty/"
+  },
+  "hash": "9f258bf146c81a00382d5a4117900038b5a62a7c",
+  "modified": "2026-11-22T04:01:26.671777+00:00",
+  "seq": 0,
+  "sport": "esport"
+ },
+ "lq-callofduty-1794182400-toronto_koi-paris_gentle": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Monster Launch Inv '27\nPlayoffs - Bo7",
+   "duration_min": 180,
+   "location": "",
+   "sport": "esport",
+   "start": "2026-11-09T00:00:00+00:00",
+   "state": "post",
+   "title": "🎮 [CoD] Toronto KOI 4–1 Paris Gentle Mates ❌",
+   "uid": "lq-callofduty-1794182400-toronto_koi-paris_gentle",
+   "url": "https://liquipedia.net/callofduty/"
+  },
+  "hash": "575fc557837ccc7d403ec6e2a2e5e4cd9e326d7f",
+  "modified": "2026-11-22T04:01:26.671777+00:00",
+  "seq": 0,
+  "sport": "esport"
+ },
  "tsdb-2449615": {
   "event": {
    "all_day": false,
