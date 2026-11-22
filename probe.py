@@ -6,29 +6,23 @@ E = "https://site.api.espn.com/apis/site/v2/sports"
 SOFA_H = {"Referer": "https://www.sofascore.com/", "Origin": "https://www.sofascore.com"}
 IBU_H = {"Referer": "https://biathlonresults.com/", "Origin": "https://biathlonresults.com"}
 P = [
- ("r", f"{E}/soccer/fra.1/scoreboard?dates=20261122", {}),
- ("r", f"{E}/soccer/fra.1/scoreboard?dates=20261101-20261130", {}),
- ("r", f"{E}/soccer/fra.1/scoreboard?dates=20261101-20261130&limit=100", {}),
- ("r", f"{E}/soccer/fra.1/teams", {}),
- ("r", f"{E}/soccer/fra.1/teams/176/schedule", {}),
- ("r", f"{E}/soccer/fra.1/teams/176/schedule?fixture=true", {}),
- ("r", f"{E}/basketball/nba/scoreboard?dates=20261101-20261130", {}),
- ("r", f"{E}/basketball/nba/teams/sa/schedule", {}),
- ("r", f"{E}/rugby/270559/scoreboard", {}),
- ("r", f"{E}/rugby/270559/scoreboard?dates=20261122", {}),
- ("r", f"{E}/rugby/270559/teams", {}),
- ("r", f"{E}/soccer/uefa.nations/teams", {}),
- ("r", "https://api.sofascore.app/api/v1/search/all?q=Littler&page=0", SOFA_H),
- ("c", "https://api.sofascore.app/api/v1/search/all?q=Littler&page=0", SOFA_H),
- ("c", "https://www.sofascore.com/api/v1/search/all?q=Littler&page=0", SOFA_H),
- ("c", "https://api.sofascore.com/api/v1/search/all?q=Littler&page=0", SOFA_H),
- ("r", "https://biathlonresults.com/modules/sportapi/api/Events?SeasonId=2627&Level=1", IBU_H),
- ("c", "https://biathlonresults.com/modules/sportapi/api/Events?SeasonId=2627&Level=1", IBU_H),
- ("r", "https://biathlonresults.com/modules/sportapi/api/Seasons", IBU_H),
- ("r", "https://www.thesportsdb.com/api/v1/json/123/searchteams.php?t=Paris%20Saint-Germain", {}),
- ("r", "https://www.thesportsdb.com/api/v1/json/123/searchplayers.php?p=Luke%20Littler", {}),
- ("r", "https://liquipedia.net/valorant/api.php?action=parse&page=Gentle_Mates&format=json&prop=text", {"Accept-Encoding": "gzip"}),
- ("r", "https://api.pandascore.co/teams?search[name]=Gentle", {}),
+ ("r", f"{E}/rugby/270559/teams/25912/schedule", {}),
+ ("r", f"{E}/rugby/270559/teams/25912/schedule?fixture=true", {}),
+ ("r", f"{E}/soccer/uefa.nations/teams/478/schedule?fixture=true", {}),
+ ("r", f"{E}/soccer/all/teams/176/schedule?fixture=true", {}),
+ ("r", "https://api.sofascore.app/api/v1/sport/darts/scheduled-events/2026-11-22", SOFA_H),
+ ("r", "https://api.sofascore.app/api/v1/search/teams?q=Littler", SOFA_H),
+ ("r", "https://api.sofascore.app/api/v1/team/2817/events/last/0", SOFA_H),
+ ("c", "https://api.sofascore.app/api/v1/sport/handball/scheduled-events/2026-11-22", {}),
+ ("r", "https://api.sofascore.app/api/v1/sport/handball/scheduled-events/2026-11-22", {"User-Agent": "SofaScore/24.11.0 (iPhone; iOS 18.0; Scale/3.00)"}),
+ ("r", "https://biathlonresults.com/modules/sportapi/api/Events?SeasonId=2627", IBU_H),
+ ("r", "https://biathlonresults.com/modules/sportapi/api/Events?SeasonId=2526&Level=1", IBU_H),
+ ("r", "https://biathlonresults.com/modules/sportapi/api/Competitions?EventId=BT2627SWRLCP01", IBU_H),
+ ("r", "https://biathlonresults.com/modules/sportapi/api/CupResults?CupId=BT2627SWRLCP__SMTS", IBU_H),
+ ("r", "https://www.thesportsdb.com/api/v1/json/123/search_all_leagues.php?s=Biathlon", {}),
+ ("r", "https://www.thesportsdb.com/api/v1/json/123/searchteams.php?t=Paris%20SG", {}),
+ ("r", "https://www.thesportsdb.com/api/v1/json/123/search_all_leagues.php?s=Darts", {}),
+ ("r", "https://liquipedia.net/valorant/api.php?action=parse&page=Gentle_Mates&format=json&prop=text", {"User-Agent": "sport-calendar/1.0 (https://github.com/theo2212/sport-calendar; theo2212@users.noreply.github.com)", "Accept-Encoding": "gzip"}),
 ]
 out = []
 for kind, url, h in P:
@@ -37,7 +31,8 @@ for kind, url, h in P:
             r = creq.get(url, headers=h, impersonate="chrome", timeout=25)
         else:
             r = requests.get(url, headers={"User-Agent": UA, "Accept": "application/json", **h}, timeout=25)
-        out.append({"k": kind, "url": url, "code": r.status_code, "body": r.text[:900]})
+        h2 = dict(r.headers)
+        out.append({"k": kind, "url": url, "code": r.status_code, "body": r.text[:900], "len": len(r.content), "ctype": r.headers.get("content-type")})
     except Exception as e:
         out.append({"k": kind, "url": url, "err": str(e)[:300]})
 import os; os.makedirs("docs", exist_ok=True)
