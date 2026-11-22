@@ -105,20 +105,17 @@
  "esport": {
   "jeux": {
    "callofduty": {
-    "matchs_sur_la_page": 50,
-    "matchs_suivis": 7
+    "erreur": "https://liquipedia.net/callofduty/api.php -> HTTP 429"
    },
    "rocketleague": {
-    "matchs_sur_la_page": 100,
-    "matchs_suivis": 0
+    "erreur": "https://liquipedia.net/rocketleague/api.php -> HTTP 429"
    },
    "valorant": {
-    "matchs_sur_la_page": 91,
-    "matchs_suivis": 0
+    "erreur": "https://liquipedia.net/valorant/api.php -> HTTP 429"
    }
   },
   "ok": true,
-  "nb_evenements": 7
+  "nb_evenements": 0
  },
  "biathlon": {
   "saison": "2627",
@@ -145,14 +142,13 @@
   "nb_evenements": 6
  },
  "_resume": {
-  "genere_le": "2026-11-22T04:01:26.671777+00:00",
-  "total": 179,
+  "genere_le": "2026-11-22T04:07:42.610329+00:00",
+  "total": 172,
   "par_sport": {
    "foot": 34,
    "basket": 79,
    "rugby": 43,
    "hand": 4,
-   "esport": 7,
    "biathlon": 6,
    "f1": 6
   },
