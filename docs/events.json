@@ -344,19 +344,19 @@
  "espn-basket-401910027": {
   "event": {
    "all_day": false,
-   "description": "🏆 Regular Season",
+   "description": "🏆 Regular Season\nStatut : Final",
    "duration_min": 150,
    "location": "Frost Bank Center, San Antonio",
    "sport": "basket",
    "start": "2026-11-22T01:00:00+00:00",
-   "state": "pre",
-   "title": "🏀 Spurs – Pelicans",
+   "state": "post",
+   "title": "🏀 Spurs 114–91 Pelicans ✅",
    "uid": "espn-basket-401910027",
-   "url": "https://www.espn.com/nba/game?gameId=401910027"
+   "url": "https://www.espn.com/nba/game/_/gameId/401910027/pelicans-spurs"
   },
-  "hash": "64c7b42e4e8cf783c43ff5d08f8867742afdc52b",
-  "modified": "2026-11-22T03:08:13.177273+00:00",
-  "seq": 1,
+  "hash": "833f7c80ce6877d09086e0a0a03b2f435c82ffcc",
+  "modified": "2026-11-22T03:39:55.497466+00:00",
+  "seq": 2,
   "sport": "basket"
  },
  "espn-basket-401910045": {

@@ -113,7 +113,7 @@
     "matchs_suivis": 0
    },
    "valorant": {
-    "matchs_sur_la_page": 85,
+    "matchs_sur_la_page": 91,
     "matchs_suivis": 0
    }
   },
@@ -136,7 +136,7 @@
   "nb_evenements": 6
  },
  "_resume": {
-  "genere_le": "2026-11-22T03:13:53.971809+00:00",
+  "genere_le": "2026-11-22T03:39:55.497466+00:00",
   "total": 173,
   "par_sport": {
    "foot": 34,
