@@ -58,10 +58,10 @@
   },
   "par_equipe": {
    "Toulouse": {
-    "matchs": 0
+    "matchs": 21
    },
    "Bordeaux": {
-    "matchs": 21
+    "matchs": 20
    },
    "France": {
     "matchs": 0
@@ -69,9 +69,6 @@
   },
   "repli_thesportsdb": {
    "equipes": {
-    "Toulouse": {
-     "erreur": "introuvable sur TheSportsDB"
-    },
     "France": {
      "trouve": "France Rugby (id 137128)",
      "matchs": 2
@@ -79,29 +76,27 @@
    }
   },
   "ok": true,
-  "nb_evenements": 23
+  "nb_evenements": 43
  },
  "hand": {
   "equipes": {
    "Paris Saint-Germain": {
-    "erreur": "introuvable sur TheSportsDB"
+    "trouve": "Paris Saint-Germain (id 136776)",
+    "matchs": 2
    },
    "France": {
     "trouve": "France Handball (id 140566)",
-    "avertissements": [
-     "eventsnext: https://www.thesportsdb.com/api/v1/json/123/eventsnext.php?id=140566 -> HTTP 429",
-     "eventslast: https://www.thesportsdb.com/api/v1/json/123/eventslast.php?id=140566 -> HTTP 429"
-    ],
-    "matchs": 0
+    "matchs": 2
    }
   },
   "ok": true,
-  "nb_evenements": 0
+  "nb_evenements": 4
  },
  "flechettes": {
   "equipes": {
    "Luke Littler": {
-    "erreur": "recherche : https://www.thesportsdb.com/api/v1/json/123/searchteams.php?t=Luke%20Littler -> HTTP 429"
+    "trouve": "PDC Mens (id 136716) – joueur Luke Littler",
+    "matchs": 0
    }
   },
   "ok": true,
@@ -132,7 +127,7 @@
   "etapes": [],
   "ok": false,
   "erreur": "HttpError: https://biathlonresults.com/modules/sportapi/api/Events -> HTTP 401",
-  "trace": "Traceback (most recent call last):\n  File \"/home/runner/work/sport-calendar/sport-calendar/build.py\", line 49, in collect\n    res[sport] = biathlon.fetch(start, end, log) if _enabled(val) else []\n                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/sport-calendar/sport-calendar/sportcal/biathlon.py\", line 45, in fetch\n    events = get_json(f\"{BASE}/Events\", {\"SeasonId\": sid, \"Level\": 1})\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/sport-calendar/sport-calendar/sportcal/common.py\", line 50, in get_json\n    raise HttpError(f\"{url} -> {last}\")\nsportcal.common.HttpError: https://biathlonresults.com/modules/sportapi/api/Events -> HTTP 401\n"
+  "trace": "Traceback (most recent call last):\n  File \"/home/runner/work/sport-calendar/sport-calendar/build.py\", line 49, in collect\n    res[sport] = biathlon.fetch(start, end, log) if _enabled(val) else []\n                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/sport-calendar/sport-calendar/sportcal/biathlon.py\", line 45, in fetch\n    events = get_json(f\"{BASE}/Events\", {\"SeasonId\": sid, \"Level\": 1})\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/sport-calendar/sport-calendar/sportcal/common.py\", line 53, in get_json\n    raise HttpError(f\"{url} -> {last}\")\nsportcal.common.HttpError: https://biathlonresults.com/modules/sportapi/api/Events -> HTTP 401\n"
  },
  "f1": {
   "2026": 23,
@@ -141,12 +136,13 @@
   "nb_evenements": 6
  },
  "_resume": {
-  "genere_le": "2026-11-22T03:04:40.876568+00:00",
-  "total": 149,
+  "genere_le": "2026-11-22T03:08:13.177273+00:00",
+  "total": 173,
   "par_sport": {
    "foot": 34,
    "basket": 79,
-   "rugby": 23,
+   "rugby": 43,
+   "hand": 4,
    "esport": 7,
    "f1": 6
   },

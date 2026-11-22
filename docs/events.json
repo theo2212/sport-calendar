@@ -344,19 +344,19 @@
  "espn-basket-401910027": {
   "event": {
    "all_day": false,
-   "description": "🏆 Regular Season\nStatut : In Progress",
+   "description": "🏆 Regular Season",
    "duration_min": 150,
    "location": "Frost Bank Center, San Antonio",
    "sport": "basket",
    "start": "2026-11-22T01:00:00+00:00",
-   "state": "in",
-   "title": "🏀 🔴 Spurs None–None Pelicans",
+   "state": "pre",
+   "title": "🏀 Spurs – Pelicans",
    "uid": "espn-basket-401910027",
    "url": "https://www.espn.com/nba/game?gameId=401910027"
   },
-  "hash": "a8ee23938f358f5d75f998800afaebbb564e0ae1",
-  "modified": "2026-11-22T03:04:40.876568+00:00",
-  "seq": 0,
+  "hash": "64c7b42e4e8cf783c43ff5d08f8867742afdc52b",
+  "modified": "2026-11-22T03:08:13.177273+00:00",
+  "seq": 1,
   "sport": "basket"
  },
  "espn-basket-401910045": {
@@ -2033,6 +2033,24 @@
   "seq": 0,
   "sport": "foot"
  },
+ "espn-rugby-604260": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Champions Cup",
+   "duration_min": 120,
+   "location": "Ellis Park, Johannesburg",
+   "sport": "rugby",
+   "start": "2026-12-12T13:00:00+00:00",
+   "state": "pre",
+   "title": "🏉 Lions – Stade Toulousain",
+   "uid": "espn-rugby-604260",
+   "url": "https://www.espn.com/rugby/match/_/gameId/604260/league/271937"
+  },
+  "hash": "c663af2600863b5b4559486a1f1592e9772e1f88",
+  "modified": "2026-11-22T03:08:13.177273+00:00",
+  "seq": 0,
+  "sport": "rugby"
+ },
  "espn-rugby-604268": {
   "event": {
    "all_day": false,
@@ -2048,6 +2066,24 @@
   },
   "hash": "3f6408e62a7e5612feee9844042ce2e32c6feaa9",
   "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "rugby"
+ },
+ "espn-rugby-604276": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Champions Cup",
+   "duration_min": 120,
+   "location": "Dexcom Stadium, Galway",
+   "sport": "rugby",
+   "start": "2027-01-09T20:00:00+00:00",
+   "state": "pre",
+   "title": "🏉 Connacht – Stade Toulousain",
+   "uid": "espn-rugby-604276",
+   "url": "https://www.espn.com/rugby/match/_/gameId/604276/league/271937"
+  },
+  "hash": "825400891a088d66d3fb2a4a500bd3f3fc1c1f09",
+  "modified": "2026-11-22T03:08:13.177273+00:00",
   "seq": 0,
   "sport": "rugby"
  },
@@ -2087,6 +2123,24 @@
   "seq": 0,
   "sport": "rugby"
  },
+ "espn-rugby-604292": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Champions Cup",
+   "duration_min": 120,
+   "location": "Stade Ernest-Wallon, Toulouse",
+   "sport": "rugby",
+   "start": "2027-01-17T15:15:00+00:00",
+   "state": "pre",
+   "title": "🏉 Stade Toulousain – Saracens",
+   "uid": "espn-rugby-604292",
+   "url": "https://www.espn.com/rugby/match/_/gameId/604292/league/271937"
+  },
+  "hash": "4f955edf587fb3587a8ba9c26e8fa3b621036da7",
+  "modified": "2026-11-22T03:08:13.177273+00:00",
+  "seq": 0,
+  "sport": "rugby"
+ },
  "espn-rugby-604406": {
   "event": {
    "all_day": false,
@@ -2102,6 +2156,24 @@
   },
   "hash": "157e351cb4ecaa69ed0c64cbbd4ed2dc2f8748b2",
   "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "rugby"
+ },
+ "espn-rugby-604409": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Top 14\nStatut : FT",
+   "duration_min": 120,
+   "location": "Stade Ernest-Wallon, Toulouse",
+   "sport": "rugby",
+   "start": "2026-10-24T14:35:00+00:00",
+   "state": "post",
+   "title": "🏉 Stade Toulousain 38–33 Perpignan ✅",
+   "uid": "espn-rugby-604409",
+   "url": "https://www.espn.com/rugby/match/_/gameId/604409/league/270559"
+  },
+  "hash": "7e3ca3a9bc275ff3ed52d532733786eb575b5b48",
+  "modified": "2026-11-22T03:08:13.177273+00:00",
   "seq": 0,
   "sport": "rugby"
  },
@@ -2123,6 +2195,24 @@
   "seq": 0,
   "sport": "rugby"
  },
+ "espn-rugby-604416": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Top 14\nStatut : FT",
+   "duration_min": 120,
+   "location": "Stade du Hameau, Pau",
+   "sport": "rugby",
+   "start": "2026-11-01T20:05:00+00:00",
+   "state": "post",
+   "title": "🏉 Pau 34–14 Stade Toulousain ❌",
+   "uid": "espn-rugby-604416",
+   "url": "https://www.espn.com/rugby/match/_/gameId/604416/league/270559"
+  },
+  "hash": "39895e033b88296cd2e1f7b8ef312eb3bc2d55a6",
+  "modified": "2026-11-22T03:08:13.177273+00:00",
+  "seq": 0,
+  "sport": "rugby"
+ },
  "espn-rugby-604417": {
   "event": {
    "all_day": false,
@@ -2138,6 +2228,24 @@
   },
   "hash": "cb625833db3e1494488d3155ff2b2e4bca009071",
   "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "rugby"
+ },
+ "espn-rugby-604423": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Top 14\nStatut : FT",
+   "duration_min": 120,
+   "location": "Stade Ernest-Wallon, Toulouse",
+   "sport": "rugby",
+   "start": "2026-11-07T13:30:00+00:00",
+   "state": "post",
+   "title": "🏉 Stade Toulousain 28–18 Clermont Auvergne ✅",
+   "uid": "espn-rugby-604423",
+   "url": "https://www.espn.com/rugby/match/_/gameId/604423/league/270559"
+  },
+  "hash": "995e8eef58e4e04c5fc8d0a42c7fad7d313ef86f",
+  "modified": "2026-11-22T03:08:13.177273+00:00",
   "seq": 0,
   "sport": "rugby"
  },
@@ -2159,6 +2267,24 @@
   "seq": 0,
   "sport": "rugby"
  },
+ "espn-rugby-604428": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Top 14",
+   "duration_min": 120,
+   "location": "Matmut Stadium de Gerland, Lyon",
+   "sport": "rugby",
+   "start": "2026-11-28T20:00:00+00:00",
+   "state": "pre",
+   "title": "🏉 Lyon – Stade Toulousain",
+   "uid": "espn-rugby-604428",
+   "url": "https://www.espn.com/rugby/match/_/gameId/604428/league/270559"
+  },
+  "hash": "321af9562d7903fdbea28629fa4adfd71228d4f8",
+  "modified": "2026-11-22T03:08:13.177273+00:00",
+  "seq": 0,
+  "sport": "rugby"
+ },
  "espn-rugby-604436": {
   "event": {
    "all_day": false,
@@ -2174,6 +2300,24 @@
   },
   "hash": "8615ce60909932c5e587b988d54cd1b7778721ff",
   "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "rugby"
+ },
+ "espn-rugby-604437": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Top 14",
+   "duration_min": 120,
+   "location": "Stade Ernest-Wallon, Toulouse",
+   "sport": "rugby",
+   "start": "2026-12-05T13:30:00+00:00",
+   "state": "pre",
+   "title": "🏉 Stade Toulousain – Racing 92",
+   "uid": "espn-rugby-604437",
+   "url": "https://www.espn.com/rugby/match/_/gameId/604437/league/270559"
+  },
+  "hash": "03a790a43c73f7e11847a516e20b685dd526c6b4",
+  "modified": "2026-11-22T03:08:13.177273+00:00",
   "seq": 0,
   "sport": "rugby"
  },
@@ -2195,6 +2339,24 @@
   "seq": 0,
   "sport": "rugby"
  },
+ "espn-rugby-604443": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Top 14",
+   "duration_min": 120,
+   "location": "Stade de France, Saint-Denis",
+   "sport": "rugby",
+   "start": "2026-12-19T20:00:00+00:00",
+   "state": "pre",
+   "title": "🏉 Stade Francais Paris – Stade Toulousain",
+   "uid": "espn-rugby-604443",
+   "url": "https://www.espn.com/rugby/match/_/gameId/604443/league/270559"
+  },
+  "hash": "76328765886e0b276b7d6f53931b361109e5984d",
+  "modified": "2026-11-22T03:08:13.177273+00:00",
+  "seq": 0,
+  "sport": "rugby"
+ },
  "espn-rugby-604447": {
   "event": {
    "all_day": false,
@@ -2210,6 +2372,42 @@
   },
   "hash": "6352dfc0d3c6b80157a8fde56efe9d11195992a8",
   "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "rugby"
+ },
+ "espn-rugby-604451": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Top 14\n⏰ Horaire à confirmer",
+   "duration_min": 120,
+   "location": "Stade Ernest-Wallon, Toulouse",
+   "sport": "rugby",
+   "start": "2026-12-26T00:00:00+00:00",
+   "state": "pre",
+   "title": "🏉 Stade Toulousain – Toulon",
+   "uid": "espn-rugby-604451",
+   "url": "https://www.espn.com/rugby/match/_/gameId/604451/league/270559"
+  },
+  "hash": "a57dcd380870545ec4e4e0be7a9ac9bf960adc38",
+  "modified": "2026-11-22T03:08:13.177273+00:00",
+  "seq": 0,
+  "sport": "rugby"
+ },
+ "espn-rugby-604452": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Top 14\n⏰ Horaire à confirmer",
+   "duration_min": 120,
+   "location": "Stade Jean Dauger, Bayonne",
+   "sport": "rugby",
+   "start": "2027-01-02T00:00:00+00:00",
+   "state": "pre",
+   "title": "🏉 Bayonne – Stade Toulousain",
+   "uid": "espn-rugby-604452",
+   "url": "https://www.espn.com/rugby/match/_/gameId/604452/league/270559"
+  },
+  "hash": "92419c119dd0ca58f55a1c3773ec5c271cfc5b66",
+  "modified": "2026-11-22T03:08:13.177273+00:00",
   "seq": 0,
   "sport": "rugby"
  },
@@ -2249,6 +2447,24 @@
   "seq": 0,
   "sport": "rugby"
  },
+ "espn-rugby-604465": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Top 14\n⏰ Horaire à confirmer",
+   "duration_min": 120,
+   "location": "Stade Ernest-Wallon, Toulouse",
+   "sport": "rugby",
+   "start": "2027-01-23T00:00:00+00:00",
+   "state": "pre",
+   "title": "🏉 Stade Toulousain – La Rochelle",
+   "uid": "espn-rugby-604465",
+   "url": "https://www.espn.com/rugby/match/_/gameId/604465/league/270559"
+  },
+  "hash": "e4383b0b475a64b8056b525f85317459ed3a04df",
+  "modified": "2026-11-22T03:08:13.177273+00:00",
+  "seq": 0,
+  "sport": "rugby"
+ },
  "espn-rugby-604467": {
   "event": {
    "all_day": false,
@@ -2264,6 +2480,24 @@
   },
   "hash": "59e055bd508d585711ea4c9f103a030994c180a9",
   "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "rugby"
+ },
+ "espn-rugby-604468": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Top 14\n⏰ Horaire à confirmer",
+   "duration_min": 120,
+   "location": "Stade Marcel Michelin, Clermont-Ferrand",
+   "sport": "rugby",
+   "start": "2027-01-30T00:00:00+00:00",
+   "state": "pre",
+   "title": "🏉 Clermont Auvergne – Stade Toulousain",
+   "uid": "espn-rugby-604468",
+   "url": "https://www.espn.com/rugby/match/_/gameId/604468/league/270559"
+  },
+  "hash": "cd2193f7d5757d839f05e0abdf2637b5fabefbf1",
+  "modified": "2026-11-22T03:08:13.177273+00:00",
   "seq": 0,
   "sport": "rugby"
  },
@@ -2285,6 +2519,24 @@
   "seq": 0,
   "sport": "rugby"
  },
+ "espn-rugby-604479": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Top 14\n⏰ Horaire à confirmer",
+   "duration_min": 120,
+   "location": "Stade Ernest-Wallon, Toulouse",
+   "sport": "rugby",
+   "start": "2027-02-20T00:00:00+00:00",
+   "state": "pre",
+   "title": "🏉 Stade Toulousain – Lyon",
+   "uid": "espn-rugby-604479",
+   "url": "https://www.espn.com/rugby/match/_/gameId/604479/league/270559"
+  },
+  "hash": "eabbcfd4c2c4fcb0b9824eb0bbd099144ae8f2f8",
+  "modified": "2026-11-22T03:08:13.177273+00:00",
+  "seq": 0,
+  "sport": "rugby"
+ },
  "espn-rugby-604480": {
   "event": {
    "all_day": false,
@@ -2303,6 +2555,24 @@
   "seq": 0,
   "sport": "rugby"
  },
+ "espn-rugby-604486": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Top 14",
+   "duration_min": 120,
+   "location": "Stade Pierre Mauroy, Lille",
+   "sport": "rugby",
+   "start": "2027-02-27T20:00:00+00:00",
+   "state": "pre",
+   "title": "🏉 Racing 92 – Stade Toulousain",
+   "uid": "espn-rugby-604486",
+   "url": "https://www.espn.com/rugby/match/_/gameId/604486/league/270559"
+  },
+  "hash": "522e4925ad02d281e79e1ba8b8f0f34a1f5dc4f4",
+  "modified": "2026-11-22T03:08:13.177273+00:00",
+  "seq": 0,
+  "sport": "rugby"
+ },
  "espn-rugby-604487": {
   "event": {
    "all_day": false,
@@ -2318,6 +2588,24 @@
   },
   "hash": "242bdb4ab1bf1c91ef13b47d2cff9fd4566cf4a1",
   "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "rugby"
+ },
+ "espn-rugby-604493": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Top 14\n⏰ Horaire à confirmer",
+   "duration_min": 120,
+   "location": "Stade Ernest-Wallon, Toulouse",
+   "sport": "rugby",
+   "start": "2027-03-20T00:00:00+00:00",
+   "state": "pre",
+   "title": "🏉 Stade Toulousain – Vannes",
+   "uid": "espn-rugby-604493",
+   "url": "https://www.espn.com/rugby/match/_/gameId/604493/league/270559"
+  },
+  "hash": "74f286dbca06c1be74024ee861db15df4adc3c54",
+  "modified": "2026-11-22T03:08:13.177273+00:00",
   "seq": 0,
   "sport": "rugby"
  },
@@ -2357,6 +2645,24 @@
   "seq": 0,
   "sport": "rugby"
  },
+ "espn-rugby-604507": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Top 14\n⏰ Horaire à confirmer",
+   "duration_min": 120,
+   "location": "Stade Mayol, Toulon",
+   "sport": "rugby",
+   "start": "2027-04-17T00:00:00+00:00",
+   "state": "pre",
+   "title": "🏉 Toulon – Stade Toulousain",
+   "uid": "espn-rugby-604507",
+   "url": "https://www.espn.com/rugby/match/_/gameId/604507/league/270559"
+  },
+  "hash": "a605bc228132bc63c92fe1c2249c6a04e9a71688",
+  "modified": "2026-11-22T03:08:13.177273+00:00",
+  "seq": 0,
+  "sport": "rugby"
+ },
  "espn-rugby-604510": {
   "event": {
    "all_day": false,
@@ -2372,6 +2678,42 @@
   },
   "hash": "e1cee5cc32ab1071355fd27ae1edf3097d91af13",
   "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "rugby"
+ },
+ "espn-rugby-604514": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Top 14\n⏰ Horaire à confirmer",
+   "duration_min": 120,
+   "location": "Stade Ernest-Wallon, Toulouse",
+   "sport": "rugby",
+   "start": "2027-04-24T00:00:00+00:00",
+   "state": "pre",
+   "title": "🏉 Stade Toulousain – Castres Olympique",
+   "uid": "espn-rugby-604514",
+   "url": "https://www.espn.com/rugby/match/_/gameId/604514/league/270559"
+  },
+  "hash": "c5fcf171d42fa5823874ddab97748be33ef7809c",
+  "modified": "2026-11-22T03:08:13.177273+00:00",
+  "seq": 0,
+  "sport": "rugby"
+ },
+ "espn-rugby-604518": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Top 14\n⏰ Horaire à confirmer",
+   "duration_min": 120,
+   "location": "Septeo Stadium, Montpellier",
+   "sport": "rugby",
+   "start": "2027-05-08T00:00:00+00:00",
+   "state": "pre",
+   "title": "🏉 Montpellier Herault – Stade Toulousain",
+   "uid": "espn-rugby-604518",
+   "url": "https://www.espn.com/rugby/match/_/gameId/604518/league/270559"
+  },
+  "hash": "73707143d0cea665ccda14dde43cf1f96a3a343c",
+  "modified": "2026-11-22T03:08:13.177273+00:00",
   "seq": 0,
   "sport": "rugby"
  },
@@ -2411,6 +2753,24 @@
   "seq": 0,
   "sport": "rugby"
  },
+ "espn-rugby-604528": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Top 14\n⏰ Horaire à confirmer",
+   "duration_min": 120,
+   "location": "Stade Ernest-Wallon, Toulouse",
+   "sport": "rugby",
+   "start": "2027-05-15T00:00:00+00:00",
+   "state": "pre",
+   "title": "🏉 Stade Toulousain – Pau",
+   "uid": "espn-rugby-604528",
+   "url": "https://www.espn.com/rugby/match/_/gameId/604528/league/270559"
+  },
+  "hash": "8c3c286b21bbf83e7a77b6a1a4a77b9cd7d496f8",
+  "modified": "2026-11-22T03:08:13.177273+00:00",
+  "seq": 0,
+  "sport": "rugby"
+ },
  "f1-2026-18": {
   "event": {
    "all_day": false,
@@ -2420,13 +2780,13 @@
    "sport": "f1",
    "start": "2026-10-25T20:00:00+00:00",
    "state": "post",
-   "title": "🏎️ GP United States · 🏆 Antonelli (Mercedes)",
+   "title": "🏎️ GP États-Unis · 🏆 Antonelli (Mercedes)",
    "uid": "f1-2026-18",
    "url": "https://en.wikipedia.org/wiki/2026_United_States_Grand_Prix"
   },
-  "hash": "64c0212b54c26c65aa0e7b47638cf720fdf4f13a",
-  "modified": "2026-11-22T02:47:37.266512+00:00",
-  "seq": 0,
+  "hash": "d1bede6e6d6266c108fc818702b7d3d81418a09e",
+  "modified": "2026-11-22T03:08:13.177273+00:00",
+  "seq": 1,
   "sport": "f1"
  },
  "f1-2026-19": {
@@ -2438,13 +2798,13 @@
    "sport": "f1",
    "start": "2026-11-01T20:00:00+00:00",
    "state": "post",
-   "title": "🏎️ GP Mexico City · 🏆 Verstappen (Red Bull)",
+   "title": "🏎️ GP Mexico · 🏆 Verstappen (Red Bull)",
    "uid": "f1-2026-19",
    "url": "https://en.wikipedia.org/wiki/2026_Mexico_City_Grand_Prix"
   },
-  "hash": "66e2171af1098bfdf2dd4f6d17071773b3343f8f",
-  "modified": "2026-11-22T02:47:37.266512+00:00",
-  "seq": 0,
+  "hash": "e032399496ebcc8db0af2de9f8f75b8f236a58c8",
+  "modified": "2026-11-22T03:08:13.177273+00:00",
+  "seq": 1,
   "sport": "f1"
  },
  "f1-2026-20": {
@@ -2456,13 +2816,13 @@
    "sport": "f1",
    "start": "2026-11-08T17:00:00+00:00",
    "state": "post",
-   "title": "🏎️ GP Brazilian · 🏆 Norris (McLaren)",
+   "title": "🏎️ GP Brésil · 🏆 Norris (McLaren)",
    "uid": "f1-2026-20",
    "url": "https://en.wikipedia.org/wiki/2026_Brazilian_Grand_Prix"
   },
-  "hash": "d925da8a14a8d93d9345fd13c7a84982f6d8e5cf",
-  "modified": "2026-11-22T02:47:37.266512+00:00",
-  "seq": 0,
+  "hash": "d389b6bf27ae8763a9512f4b2f0cb65913c607b0",
+  "modified": "2026-11-22T03:08:13.177273+00:00",
+  "seq": 1,
   "sport": "f1"
  },
  "f1-2026-21": {
@@ -2663,6 +3023,24 @@
   "seq": 0,
   "sport": "rugby"
  },
+ "tsdb-2457890": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 European Mens Handball Championship\nJournée 0",
+   "duration_min": 90,
+   "location": "",
+   "sport": "hand",
+   "start": "2026-11-05T19:00:00+00:00",
+   "state": "post",
+   "title": "🤾 France Handball 34–27 Romania Handball ✅",
+   "uid": "tsdb-2457890",
+   "url": ""
+  },
+  "hash": "0791c907ea4e7d14acaf21294d20231025a94629",
+  "modified": "2026-11-22T03:08:13.177273+00:00",
+  "seq": 0,
+  "sport": "hand"
+ },
  "tsdb-2465532": {
   "event": {
    "all_day": false,
@@ -2680,5 +3058,59 @@
   "modified": "2026-11-22T03:04:40.876568+00:00",
   "seq": 0,
   "sport": "rugby"
+ },
+ "tsdb-2489018": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 World Mens Handball Championship\nJournée 1",
+   "duration_min": 90,
+   "location": "Porsche-Arena",
+   "sport": "hand",
+   "start": "2027-01-14T17:00:00+00:00",
+   "state": "pre",
+   "title": "🤾 France Handball – Kuwait Handball",
+   "uid": "tsdb-2489018",
+   "url": ""
+  },
+  "hash": "f235c59cee6452a351088181763b8bb2c27a283c",
+  "modified": "2026-11-22T03:08:13.177273+00:00",
+  "seq": 0,
+  "sport": "hand"
+ },
+ "tsdb-2602920": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 French LNH Division 1\nJournée 11",
+   "duration_min": 90,
+   "location": "Stade Pierre-de-Coubertin Paris",
+   "sport": "hand",
+   "start": "2026-11-22T16:00:00+00:00",
+   "state": "pre",
+   "title": "🤾 Paris Saint-Germain Handball – Tremblay-en-France Handball",
+   "uid": "tsdb-2602920",
+   "url": ""
+  },
+  "hash": "e85f681bcf7b4ec5213e1ad0a3db2568274807fe",
+  "modified": "2026-11-22T03:08:13.177273+00:00",
+  "seq": 0,
+  "sport": "hand"
+ },
+ "tsdb-2625992": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 EHF Champions League\nJournée 0",
+   "duration_min": 90,
+   "location": "Stade Pierre-de-Coubertin Paris",
+   "sport": "hand",
+   "start": "2026-11-18T16:00:00+00:00",
+   "state": "pre",
+   "title": "🤾 Paris Saint-Germain Handball – Aalborg Håndbold",
+   "uid": "tsdb-2625992",
+   "url": ""
+  },
+  "hash": "c3180249beca0c80ea352237d516acc618919c17",
+  "modified": "2026-11-22T03:08:13.177273+00:00",
+  "seq": 0,
+  "sport": "hand"
  }
 }
