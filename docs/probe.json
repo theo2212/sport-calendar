@@ -1,101 +1,101 @@
-[
- {
-  "url": "https://www.biathlonworld.com/calendar",
-  "code": 200,
-  "len": 191386,
-  "ctype": "text/html; charset=utf-8",
-  "body": "<!DOCTYPE html><html lang=\"en\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><title>International Biathlon Union - Event calendar - Kontiolahti, Finland - International Biathlon Union</title><meta property=\"og:site_name\" content=\"International Biathlon Union - IBU\"/><meta property=\"og:title\" content=\"International Biathlon Union - Event calendar - Kontiolahti, Finland\"/><meta property=\"og:url\" content=\"https://www.biathlonworld.com/calendar\"/><meta property=\"og:image\" content=\"https://assets.biathlonworld.com/v1635279521/static/banner.jpg\"/><meta property=\"og:type\" content=\"website\"/><meta name=\"description\" content=\"International Biathlon Union - Event calendar - Kontiolahti, Finland\"/><meta property=\"og:description\" content=\"International Biathlon Union - Event calendar - Kontiolahti, Finland\"/><meta property=\"og:locale\" content=\"en\"/><meta name=\"twitter:card\" content=\"app\"/><meta name=\"twitter:site\" content=\"@biathlonworld\"/><meta name=\"twitter:creator\" content=\"@biathlonworld\"/><meta name=\"twitter:description\" content=\"Never miss a shot again with the official app of the International Biathlon Union.\"/><meta name=\"twitter:app:country\" content=\"AT\"/><meta name=\"twitter:app:name:iphone\" content=\"Official IBU App\"/><meta name=\"twitter:app:id:iphone\" content=\"1581415457\"/><meta name=\"twitter:app:name:ipad\" content=\"Official IBU App\"/><meta name=\"twitter:app:id:ipad\" content=\"1581415457\"/><meta name=\"twitter:app:name:googlepl",
-  "next": "{\"props\":{\"pageProps\":{\"_nextI18Next\":{\"initialI18nStore\":{\"en\":{\"calendar\":{\"calendar_notAvailable\":\"Event calendar will be announced later. Stay tuned to see where and when the events will be held.\",\"competitionData_notAvailable\":\"Competition data is not available\",\"error_competitionsList_noEventSelected\":\"No event selected, select an event from the timeline\",\"error_fetch_competitionsList\":\"Unable to fetch the list of competitions\",\"eventResults\":\"Event results\",\"heroTitle\":\"IBU World Championships Biathlon\",\"hero_venueInfo\":\"Venue info\",\"previousCompetitions\":\"Previous competitions\",\"seoDescription\":\"International Biathlon Union - Event calendar\",\"seoTitle\":\"International Biathlon Union - Event calendar\",\"upcomingCompetitions\":\"Upcoming competitions\"},\"common\":{\"appPromotion_getTheApp\":\"Get the app\",\"athlete_unfollow\":\"Unfollow\",\"athlete_unfollow_prompt\":\"Are you sure you want to unfollow the athlete?\",\"button_follow\":\"Follow\",\"button_following\":\"Following\",\"button_ok\":\"Ok\",\"button_viewAll\":\"Show all\",\"button_viewMore\":\"View more\",\"cancel\":\"Cancel\",\"climatePledge_clickHereForCZ\":\"Pro čestinu klikni zde\",\"competitionStatus_cancelled\":\"Cancelled\",\"competitionStatus_comingUp\":\"Coming up\",\"competitionStatus_complete\":\"Completed\",\"competitionStatus_delayed\":\"Delayed\",\"competitionStatus_final\":\"Final results\",\"competitionStatus_inProgress\":\"In progress\",\"competitionStatus_live\":\"Live\",\"competitionStatus_postponed\":\"Postponed\",\"competitionStatus_provisionalStartList\":\"Provisional",
-  "api_hits": []
- },
- {
-  "url": "https://www.biathlonworld.com/calendar/season-2026-2027",
-  "code": 404,
-  "len": 114881,
-  "ctype": "text/html; charset=utf-8",
-  "body": "<!DOCTYPE html><html lang=\"en\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><title>We&#x27;re sorry, something went wrong here! - International Biathlon Union</title><meta property=\"og:site_name\" content=\"International Biathlon Union - IBU\"/><meta property=\"og:title\" content=\"International Biathlon Union - IBU\"/><meta property=\"og:url\" content=\"https://www.biathlonworld.com\"/><meta property=\"og:image\" content=\"https://assets.biathlonworld.com/v1635279521/static/banner.jpg\"/><meta property=\"og:type\" content=\"website\"/><meta name=\"twitter:card\" content=\"app\"/><meta name=\"twitter:site\" content=\"@biathlonworld\"/><meta name=\"twitter:creator\" content=\"@biathlonworld\"/><meta name=\"twitter:description\" content=\"Never miss a shot again with the official app of the International Biathlon Union.\"/><meta name=\"twitter:app:country\" content=\"AT\"/><meta name=\"twitter:app:name:iphone\" content=\"Official IBU App\"/><meta name=\"twitter:app:id:iphone\" content=\"1581415457\"/><meta name=\"twitter:app:name:ipad\" content=\"Official IBU App\"/><meta name=\"twitter:app:id:ipad\" content=\"1581415457\"/><meta name=\"twitter:app:name:googleplay\" content=\"Official IBU App\"/><meta name=\"twitter:app:id:googleplay\" content=\"at.ibu.app\"/><link rel=\"preload\" as=\"image\" imagesrcset=\"https://assets.biathlonworld.com/image/upload/ar_3:1,c_fill,f_auto,g_auto,q_auto,w_640/static/hero/news 640w, https://assets.biathlonworld.com/image/upload/ar_3:1,c_fill,f_auto,g_auto,q_au",
-  "next": "{\"props\":{\"pageProps\":{\"_nextI18Next\":{\"initialI18nStore\":{\"en\":{\"404\":{\"ctaButtonText\":\"Return to homepage\",\"pageHeroCode\":\"Error: 404\",\"pageHeroTitle\":\"We're sorry, something went wrong here!\"},\"common\":{\"appPromotion_getTheApp\":\"Get the app\",\"athlete_unfollow\":\"Unfollow\",\"athlete_unfollow_prompt\":\"Are you sure you want to unfollow the athlete?\",\"button_follow\":\"Follow\",\"button_following\":\"Following\",\"button_ok\":\"Ok\",\"button_viewAll\":\"Show all\",\"button_viewMore\":\"View more\",\"cancel\":\"Cancel\",\"climatePledge_clickHereForCZ\":\"Pro čestinu klikni zde\",\"competitionStatus_cancelled\":\"Cancelled\",\"competitionStatus_comingUp\":\"Coming up\",\"competitionStatus_complete\":\"Completed\",\"competitionStatus_delayed\":\"Delayed\",\"competitionStatus_final\":\"Final results\",\"competitionStatus_inProgress\":\"In progress\",\"competitionStatus_live\":\"Live\",\"competitionStatus_postponed\":\"Postponed\",\"competitionStatus_provisionalStartList\":\"Provisional start list\",\"competitionStatus_scheduled\":\"Scheduled\",\"competitionStatus_startList\":\"Start list\",\"competitionStatus_stopped\":\"Stopped\",\"competitionStatus_unknown\":\"Unknown\",\"competitionStatus_unofficial\":\"Unofficial results\",\"consentGate_instagram\":\"Accept targeting cookies to view this Instagram post\",\"consentGate_issuu\":\"Accept performance, functional and targeting cookies to view this Issuu document\",\"consentGate_socialStream\":\"Accept functional and targeting cookies to view the social stream\",\"consentGate_youtube\":\"Accept functional and targeting cookies to ",
-  "api_hits": []
- },
- {
-  "url": "https://en.wikipedia.org/w/api.php?action=parse&page=2026%E2%80%9327_Biathlon_World_Cup&prop=wikitext&format=json&section=1",
-  "code": 200,
-  "len": 1646,
-  "ctype": "application/json; charset=utf-8",
-  "body": "{\"parse\":{\"title\":\"2026\\u201327 Biathlon World Cup\",\"pageid\":82924387,\"wikitext\":{\"*\":\"== Map of World Cup Hosts ==\\n{| class=\\\"wikitable\\\"\\n|+\\n!{{Flag icon|Finland}} [[Kontiolahti]]\\n! rowspan=\\\"10\\\" |{{Location map+|Northern and Central Europe|places=|width=600|float=center|caption=Location of all 11 World Cup hosts of the season (including Otep\\u00e4\\u00e4 \\u2013 venue of the 2027 Biathlon World Championships)}}\\n!{{Flag icon|Italy}} [[Rasen-Antholz|Antholz-Anterselva]]\\n|-\\n|[[File:Kontiolahden ampumahiihtokeskus 2014.jpg|thumb|252x252px]]\\n|[[File:Antholz - Biathlon-Anlage 1.jpg|thumb]]\\n|-\\n!{{Flag icon|Austria}} [[Hochfilzen]]\\n!{{Flag icon|Czech Republic}} [[Nov\\u00e9 M\\u011bsto na Morav\\u011b]]\\n|-\\n|[[File:WM Hochfilzen 2017-3.jpg|thumb]]\\n|[[File:Biathlon World Cup 2023 Nov\\u00e9 M\\u011bsto 9329.jpg|thumb]]\\n|-\\n!{{Flag icon|France}} [[Annecy|Annecy-Le Grand-Bornand]]\\n!{{Flag icon|Estonia}} [[Otep\\u00e4\\u00e4]]\\n|-\\n|[[File:Biathlon World Cup 2019 - Le Grand Bornand - 04.jpg|thumb]]\\n|[[File:Kontiolahden ampumahiihtokeskus 2014.jpg|thumb]]\\n|-\\n!{{Flag icon|Slovenia}} [[Pokljuka]]\\n!{{Flag icon|Germany}} [[Oberhof, Germany|Oberhof]]\\n|-\\n|[[File:Pokljuka Biathlon World Cup 2012 (2).jpg|thumb]]\\n|[[File:LottoArenaOberhof.jpg|thumb]]\\n|-\\n!{{Flag icon|Germany}} [[Ruhpolding]]\\n!{{Flag icon|Sweden}} [[\\u00d6stersund]]\\n|-\\n|[[File:Rhpdg ChiemgauArenaArena.jpg|thumb]]\\n|[[File:Swedish national biathlon arena from Arctura.JPG|thumb]]\\n|-\\n! colspan=\\\"3\\\" |{{Flag icon|",
-  "next": null,
-  "api_hits": []
- },
- {
-  "url": "https://biathlonresults.com/modules/sportapi/api/Events?SeasonId=2627&Level=1",
-  "code": 401,
-  "len": 0,
-  "ctype": null,
-  "body": "",
-  "next": null,
-  "api_hits": []
- },
- {
-  "url": "https://api.biathlonresults.com/modules/sportapi/api/Events?SeasonId=2627&Level=1",
-  "code": 401,
-  "len": 0,
-  "ctype": null,
-  "body": "",
-  "next": null,
-  "api_hits": []
- },
- {
-  "url": "https://www.thesportsdb.com/api/v1/json/123/eventsnext.php?id=136716",
-  "code": 200,
-  "len": 15,
-  "ctype": "application/json; charset=utf-8",
-  "body": "{\"events\":null}",
-  "next": null,
-  "api_hits": []
- },
- {
-  "url": "https://www.thesportsdb.com/api/v1/json/123/eventslast.php?id=136716",
-  "code": 200,
-  "len": 16,
-  "ctype": "application/json; charset=utf-8",
-  "body": "{\"results\":null}",
-  "next": null,
-  "api_hits": []
- },
- {
-  "url": "https://www.thesportsdb.com/api/v1/json/123/search_all_leagues.php?s=Darts",
-  "code": 200,
-  "len": 7219,
-  "ctype": "application/json; charset=utf-8",
-  "body": "{\"countries\":[{\"idLeague\":\"4561\",\"idAPIfootball\":null,\"idAPIfootballv3\":null,\"strSport\":\"Darts\",\"strLeague\":\"BDO Darts\",\"strLeagueAlternate\":\"British Darts Organisation\",\"intDivision\":\"200\",\"idCup\":\"0\",\"strCurrentSeason\":\"2020\",\"intFormedYear\":\"0\",\"dateFirstEvent\":\"2019-01-05\",\"strGender\":\"Male\",\"strCountry\":\"England\",\"strWebsite\":\"www.bdodarts.com\",\"strFacebook\":\"\",\"strInstagram\":\"\",\"strTwitter\":\"\",\"strYoutube\":\"\",\"strRSS\":\"\",\"strDescriptionEN\":\"The British Darts Organisation (BDO) was a darts organisation founded on 7 January 1973 by Olly Croft, and dissolved in 2020 under the stewardship of Des Jacklin. Made up of 66 member counties, it oversaw professional, semi-professional and amateur darts competitions in Britain. The BDO was a founder member of the World Darts Federation in 1974. It also staged a World Professional Darts Championship from 1978 to 2020.\\r\\n\\r\\nIn the early 1990s, a dispute between Olly Croft and the top darts players over the decline in TV coverage and sponsorship led to an acrimonious split in the game, with the players breaking away to form their own governing body which became the Professional Darts Corporation (PDC). Henceforth, the BDO and PDC ran their own separate tours, each with its own world championship.\\r\\n\\r\\nThe BDO suffered an increasing number of problems in its later years. Many of its top players defected to the more lucrative PDC. Irregularities at the 2019 World Masters led to the BDO being demoted to associate member status by the ",
-  "next": null,
-  "api_hits": []
- },
- {
-  "url": "https://www.flashscore.com/player/littler-luke/",
-  "code": 404,
-  "len": 6077,
-  "ctype": "text/html; charset=utf-8",
-  "body": "\n<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 5 Transitional//EN\">\n<html>\n<head>\n    <meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">\n    <meta name=\"robots\" content=\"nofollow,noindex\">\n    <meta http-equiv=\"cache-control\" content=\"no-cache\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, minimal-ui\">\n    <style type=\"text/css\">\n        body { font-family: Arial, Helvetica, sans-serif; background-color: #001e28; width: 100%; height: 100vh; display: flex; justify-content: center; align-items: center; color: white; padding: 0; margin: 0; }\n        main { max-width: 320px; padding: 28px; display: flex; flex-direction: column; }\n        svg { max-width: 320px; max-height: 50px; width: 100%; height: 100%; }\n        p { text-align: center; font-size: 15px; line-height: 20px; margin: 40px 0 28px; }\n        a { font-size: 14px; font-weight: bold; letter-spacing: 0.4px; text-align: center; color: #fff; padding: 12px 35px 12px 36px; border-radius: 8px; background-color: #0f2d37; align-self: center; cursor: pointer; text-decoration: none; }\n        a:hover { background-color: #555e61; }\n    </style>\n</head>\n<body>\n<main>\n    <svg enable-background=\"new 0 0 615 100\" height=\"100\" viewBox=\"0 0 615 100\" width=\"615\" xmlns=\"http://www.w3.org/2000/svg\"><g clip-rule=\"evenodd\" fill-rule=\"evenodd\"><g fill=\"#fff\"><path d=\"m180.8 24.9h-29.3c-.9 0-1.8.4-2.4 1l-6.6 6.6c-.6.6-1 1.5-1 2.4v39.6c0 .2.2.3.3.3h7.9c.2 0 .3-.2.3-.3v-18.6c0-1 .8-1.7 1.7-1.7h25.5c.2 0 .3-",
-  "next": null,
-  "api_hits": []
- },
- {
-  "url": "https://www.pdc.tv/tournaments",
+{
+ "bw_keys": [
+  "_nextI18Next",
+  "eventInitialState",
+  "seasonInitialState",
+  "competitionsInitialState",
+  "cupContainerInitialState",
+  "initialContentfulVenues"
+ ],
+ "bw_buildId": "build",
+ "bw_query": {},
+ "bw_page": "/calendar",
+ "bw_eventInitialState": "{\"events\": [{\"SeasonId\": \"2627\", \"Trimester\": \"1\", \"EventId\": \"BT2627SWRLCP01\", \"StartDate\": \"2026-11-23T12:00:00Z\", \"EndDate\": \"2026-11-29T12:00:00Z\", \"FirstCompetitionDate\": \"2026-11-26T15:15:00Z\", \"Description\": \"LaVita IBU World Cup Biathlon\", \"EventSeriesNr\": \"1 \", \"ShortDescription\": \"Kontiolahti\", \"Altitude\": \"124\", \"OrganizerId\": \"KON\", \"Organizer\": \"Kontiolahti\", \"OrganizerColor\": \"#ed6827\", \"Nat\": \"FIN\", \"NatLong\": \"Finland\", \"MedalSetId\": null, \"EventClassificationId\": \"BTSWRLCP\", \"Level\": 1, \"UTCOffset\": 2, \"IsActual\": true, \"IsCurrent\": true, \"EventStatusId\": 0, \"EventStatus\": \"\", \"Notes\": null}, {\"SeasonId\": \"2627\", \"Trimester\": \"1\", \"EventId\": \"BT2627SWRLCP02\", \"StartDate\": \"2026-11-30T12:00:00Z\", \"EndDate\": \"2026-12-06T12:00:00Z\", \"FirstCompetitionDate\": \"2026-12-04T10:25:00Z\", \"Description\": \"LaVita IBU World Cup Biathlon\", \"EventSeriesNr\": \"2 \", \"ShortDescription\": \"Hochfilzen\", \"Altitude\": \"1010\", \"OrganizerId\": \"HOC\", \"Organizer\": \"Hochfilzen\", \"OrganizerColor\": \"#E6302D\", \"Nat\": \"AUT\", \"NatLong\": \"Austria\", \"MedalSetId\": null, \"EventClassificationId\": \"BTSWRLCP\", \"Level\": 1, \"UTCOffset\": 1, \"IsActual\": false, \"IsCurrent\": false, \"EventStatusId\": 0, \"EventStatus\": \"\", \"Notes\": null}, {\"SeasonId\": \"2627\", \"Trimester\": \"1\", \"EventId\": \"BT2627SWRLCP03\", \"StartDate\": \"2026-12-07T12:00:00Z\", \"EndDate\": \"2026-12-13T12:00:00Z\", \"FirstCompetitionDate\": \"2026-12-10T13:15:00Z\", \"Description\": \"LaVita IBU World Cup Biathlon\", \"EventSeriesNr\": \"3 \", \"ShortDescription\": \"Le Grand Bornand\", \"Altitude\": \"928\", \"OrganizerId\": \"ANN\", \"Organizer\": \"Le Grand Bornand\", \"OrganizerColor\": \"#d88330\", \"Nat\": \"FRA\", \"NatLong\": \"France\", \"MedalSetId\": null, \"EventClassificationId\": \"BTSWRLCP\", \"Level\": 1, \"UTCOffset\": 1, \"IsActual\": false, \"IsCurrent\": false, \"EventStatusId\": 0, \"EventStatus\": \"\", \"Notes\": null}, {\"SeasonId\": \"2627\", \"Trimester\": \"2\", \"EventId\": \"BT2627SWRLCP04\", \"StartDate\": \"2026-12-31T12:00:00Z\", \"EndDate\": \"2027-01-03T12:00:00Z\", \"FirstCompetitionDate\": \"2027-01-02T10:25:00Z\", \"Description\": \"LaVita IBU World Cup Biathlon\", \"EventSeriesNr\": \"4 \", \"ShortDescription\": \"Pokljuka\", \"Altitude\": \"1340\", \"OrganizerId\": \"POK\", \"Organizer\": \"Pokljuka\", \"OrganizerColor\": \"#99bc13\", \"Nat\": \"SLO\", \"NatLong\": \"Slovenia\", \"MedalSetId\": null, \"EventClassificationId\": \"BTSWRLCP\", \"Level\": 1, \"UTCOffset\": 1, \"IsActual\": false, \"IsCurrent\": false, \"EventStatusId\": 0, \"EventStatus\": \"\", \"Notes\": null}, {\"SeasonId\": \"2627\", \"Trimester\": \"2\", \"EventId\": \"BT2627SWRLCP05\", \"StartDate\": \"2027-01-04T12:00:00Z\", \"EndDate\": \"2027-01-10T12:00:00Z\", \"FirstCompetitionDate\": \"2027-01-06T13:15:00Z\", \"Description\": \"LaVita IBU World Cup Biathlon\", \"EventSeriesNr\": \"5 \", \"ShortDescription\": \"Ruhpolding\", \"Altitude\": \"710\", \"OrganizerId\": \"RUH\", \"Organizer\": \"Ruhpolding\", \"OrganizerColor\": \"#006db1\", \"Nat\": \"GER\", \"NatLong\": \"Germany\", \"MedalSetId\": null, \"EventClassificationId\": \"BTSWRLCP\", \"Level\": 1, \"UTCOffset\": 1, \"IsActual\": false, \"IsCurrent\": false, \"EventStatusId\": 0, \"EventStatus\": \"\", \"Notes\": null}, {\"SeasonId\": \"2627\", \"Trimester\": \"2\", \"EventId\": \"BT2627SWRLCP06\", \"StartDate\": \"2027-01-11T12:00:00Z\", \"EndDate\": \"2027-01-17T12:00:00Z\", \"FirstCompetitionDate\": \"2027-01-14T13:15:00Z\", \"Description\": \"LaVita IBU World Cup Biathlon\", \"EventSeriesNr\": \"6 \", \"ShortDescription\": \"Antholz-Anterselva\", \"Altitude\": \"1634\", \"OrganizerId\": \"ANT\", \"Organizer\": \"Antholz-Anterselva\", \"OrganizerColor\": \"#009CD9\", \"Nat\": \"ITA\", \"NatLong\": \"Italy\", \"MedalSetId\": null, \"EventClassificationId\": \"BTSWRLCP\", \"Level\": 1, \"UTCOffset\": 1, \"IsActual\": false, \"IsCurrent\": false, \"EventStatusId\": 0, \"EventStatus\": \"\", \"Notes\": null}, {\"SeasonId\": \"2627\", \"Trimester\": \"2\", \"EventId\": \"BT2627SWRLCP07\", \"StartDate\": \"2027-01-18T12:00:00Z\", \"EndDate\": \"2027-01-24T12:00:00Z\", \"FirstCompetitionDate\": \"2027-01-21T15:30:00Z\", \"Description\": \"LaVita IBU World Cup Biathlon\", \"EventSeriesNr\": \"7 \", \"ShortDescription\": \"Nove Mesto na Morave\", \"Altitude\": \"625\", \"OrganizerI",
+ "bw_seasonInitialState": "{\"seasons\": [{\"SeasonId\": \"2627\", \"Description\": \"2026/2027\", \"SortOrder\": 149, \"IsCurrent\": true, \"IsCurrentResults\": false, \"IsCurrentScheduled\": true}, {\"SeasonId\": \"2728\", \"Description\": \"2027/2028\", \"SortOrder\": 150, \"IsCurrent\": false, \"IsCurrentResults\": false, \"IsCurrentScheduled\": false}, {\"SeasonId\": \"2829\", \"Description\": \"2028/2029\", \"SortOrder\": 151, \"IsCurrent\": false, \"IsCurrentResults\": false, \"IsCurrentScheduled\": false}, {\"SeasonId\": \"2930\", \"Description\": \"2029/2030\", \"SortOrder\": 152, \"IsCurrent\": false, \"IsCurrentResults\": false, \"IsCurrentScheduled\": false}], \"currentSeason\": {\"SeasonId\": \"2627\", \"Description\": \"2026/2027\", \"SortOrder\": 149, \"IsCurrent\": true, \"IsCurrentResults\": false, \"IsCurrentScheduled\": true}, \"selectedSeason\": {\"SeasonId\": \"2627\", \"Description\": \"2026/2027\", \"SortOrder\": 149, \"IsCurrent\": true, \"IsCurrentResults\": false, \"IsCurrentScheduled\": true}}",
+ "bw_competitionsInitialState": "[{\"RaceId\": \"BT2627SWRLCP01SMIN\", \"km\": \"20\", \"catId\": \"SM\", \"DisciplineId\": \"IN\", \"StatusId\": 1, \"StatusText\": \"Scheduled\", \"ScheduleStatus\": \"SCHEDULED\", \"ResultStatus\": \"NONE\", \"HasLiveData\": false, \"IsLive\": false, \"StartTime\": \"2026-11-26T15:15:00Z\", \"Description\": \"Men's 20km Individual\", \"ShortDescription\": \"Men's 20km Individual\", \"Location\": \"Biathlon Stadium Kontiolahti\", \"ResultsCredit\": null, \"TimingCredit\": null, \"HasAnalysis\": false, \"StartMode\": \"I\", \"NrShootings\": 4, \"NrSpareRounds\": 0, \"HasSpareRounds\": false, \"PenaltySeconds\": 60, \"NrLegs\": 0, \"ShootingPositions\": \"PSPS\", \"LocalUTCOffset\": 2, \"RSC\": \"BTHM20KMIS------------FNL-000100--\", \"GenderOrder\": null, \"PointsValid\": false}, {\"RaceId\": \"BT2627SWRLCP01SWIN\", \"km\": \"15\", \"catId\": \"SW\", \"DisciplineId\": \"IN\", \"StatusId\": 1, \"StatusText\": \"Scheduled\", \"ScheduleStatus\": \"SCHEDULED\", \"ResultStatus\": \"NONE\", \"HasLiveData\": false, \"IsLive\": false, \"StartTime\": \"2026-11-27T15:15:00Z\", \"Description\": \"Women's 15km Individual\", \"ShortDescription\": \"Women's 15km Individual\", \"Location\": \"Biathlon Stadium Kontiolahti\", \"ResultsCredit\": null, \"TimingCredit\": null, \"HasAnalysis\": false, \"StartMode\": \"I\", \"NrShootings\": 4, \"NrSpareRounds\": 0, \"HasSpareRounds\": false, \"PenaltySeconds\": 60, \"NrLegs\": 0, \"ShootingPositions\": \"PSPS\", \"LocalUTCOffset\": 2, \"RSC\": \"BTHW15KMIS------------FNL-000100--\", \"GenderOrder\": null, \"PointsValid\": false}, {\"RaceId\": \"BT2627SWRLCP01MXSR\", \"km\": \"\", \"catId\": \"MX\", \"DisciplineId\": \"SR\", \"StatusId\": 1, \"StatusText\": \"Scheduled\", \"ScheduleStatus\": \"SCHEDULED\", \"ResultStatus\": \"NONE\", \"HasLiveData\": false, \"IsLive\": false, \"StartTime\": \"2026-11-28T12:10:00Z\", \"Description\": \"Single Mixed Relay (W+M)\", \"ShortDescription\": \"Single Mixed Relay (W+M)\", \"Location\": \"Biathlon Stadium Kontiolahti\", \"ResultsCredit\": null, \"TimingCredit\": null, \"HasAnalysis\": false, \"StartMode\": \"M\", \"NrShootings\": 2, \"NrSpareRounds\": 3, \"HasSpareRounds\": true, \"PenaltySeconds\": 0, \"NrLegs\": 4, \"ShootingPositions\": \"PS\", \"LocalUTCOffset\": 2, \"RSC\": \"BTHXRELAY2------------FNL-000100--\", \"GenderOrder\": \"W+M\", \"PointsValid\": false}, {\"RaceId\": \"BT2627SWRLCP01MXRL\", \"km\": \"4x6\", \"catId\": \"MX\", \"DisciplineId\": \"RL\", \"StatusId\": 1, \"StatusText\": \"Scheduled\", \"ScheduleStatus\": \"SCHEDULED\", \"ResultStatus\": \"NONE\", \"HasLiveData\": false, \"IsLive\": false, \"StartTime\": \"2026-11-28T14:15:00Z\", \"Description\": \"Mixed Relay 4x6km (W+M)\", \"ShortDescription\": \"Mixed Relay (W+M)\", \"Location\": \"Biathlon Stadium Kontiolahti\", \"ResultsCredit\": null, \"TimingCredit\": null, \"HasAnalysis\": false, \"StartMode\": \"M\", \"NrShootings\": 2, \"NrSpareRounds\": 3, \"HasSpareRounds\": true, \"PenaltySeconds\": 0, \"NrLegs\": 4, \"ShootingPositions\": \"PS\", \"LocalUTCOffset\": 2, \"RSC\": \"BTHXRELAY4------------FNL-000100--\", \"GenderOrder\": \"W+M\", \"PointsValid\": false}, {\"RaceId\": \"BT2627SWRLCP01SMSP\", \"km\": \"10\", \"catId\": \"SM\", \"DisciplineId\": \"SP\", \"StatusId\": 1, \"StatusText\": \"Scheduled\", \"ScheduleStatus\": \"SCHEDULED\", \"ResultStatus\": \"NONE\", \"HasLiveData\": false, \"IsLive\": false, \"StartTime\": \"2026-11-29T12:00:00Z\", \"Description\": \"Men's 10km Sprint\", \"ShortDescription\": \"Men's 10km Sprint\", \"Location\": \"Biathlon Stadium Kontiolahti\", \"ResultsCredit\": null, \"TimingCredit\": null, \"HasAnalysis\": false, \"StartMode\": \"I\", \"NrShootings\": 2, \"NrSpareRounds\": 0, \"HasSpareRounds\": false, \"PenaltySeconds\": 0, \"NrLegs\": 0, \"ShootingPositions\": \"PS\", \"LocalUTCOffset\": 2, \"RSC\": \"BTHM10KMSP------------FNL-000100--\", \"GenderOrder\": null, \"PointsValid\": false}, {\"RaceId\": \"BT2627SWRLCP01SWSP\", \"km\": \"7.5\", \"catId\": \"SW\", \"DisciplineId\": \"SP\", \"StatusId\": 1, \"StatusText\": \"Scheduled\", \"ScheduleStatus\": \"SCHEDULED\", \"ResultStatus\": \"NONE\", \"HasLiveData\": false, \"IsLive\": false, \"StartTime\": \"2026-11-29T15:15:00Z\", \"Description\": \"Women's 7.5km Sprint\", \"ShortDescription\": \"Women's 7.5km Sprint\", \"Location\": \"Biathlon Stadium Kontiolahti\", \"ResultsCredit\": null, \"TimingCredit\": null, \"HasAnalysis\": false, \"StartMode\": \"I\", \"NrShooting",
+ "bw_cupContainerInitialState": "{\"selectedLevel\": {\"level\": 1, \"eventTypes\": [{\"Id\": \"BTSWRLOG\", \"Description\": \"Olympic Games\", \"Level\": 1}, {\"Id\": \"BTSWRLCH\", \"Description\": \"World Championships\", \"Level\": 1}, {\"Id\": \"BTSWRLCP\", \"Description\": \"World Cup\", \"Level\": 1}]}}",
+ "bw_initialContentfulVenues": "{\"locVenueCollection\": {\"items\": [{\"name\": \"Loop One Festival\", \"organizerId\": \"MUC\", \"countryCode\": \"GER\"}, {\"name\": \"Oslo Holmenkollen\", \"organizerId\": \"OSL\", \"countryCode\": \"NOR\"}, {\"name\": \"Oestersund\", \"organizerId\": \"OST\", \"countryCode\": \"SWE\"}, {\"name\": \"Pokljuka\", \"organizerId\": \"POK\", \"countryCode\": \"SLO\"}, {\"name\": \"Ruhpolding\", \"organizerId\": \"RUH\", \"countryCode\": \"GER\"}, {\"name\": \"Oberhof\", \"organizerId\": \"OBE\", \"countryCode\": \"GER\"}, {\"name\": \"Annecy - Le Grand Bornand\", \"organizerId\": \"ANN\", \"countryCode\": \"FRA\"}, {\"name\": \"Hochfilzen\", \"organizerId\": \"HOC\", \"countryCode\": \"AUT\"}, {\"name\": \"Nove Mesto Na Morave\", \"organizerId\": \"NMS\", \"countryCode\": \"CZE\"}, {\"name\": \"Kontiolahti\", \"organizerId\": \"KON\", \"countryCode\": \"FIN\"}, {\"name\": \"Antholz-Anterselva\", \"organizerId\": \"ANT\", \"countryCode\": \"ITA\"}, {\"name\": \"Lenzerheide\", \"organizerId\": \"LEN\", \"countryCode\": \"SUI\"}, {\"name\": \"Canmore \", \"organizerId\": \"CAN\", \"countryCode\": \"CAN\"}, {\"name\": \"Soldier Hollow\", \"organizerId\": \"SLC\", \"countryCode\": \"USA\"}]}}",
+ "pdc_urls": [
+  "https://admin-users.cms.admin.gc.pdcservices.co.uk/v2",
+  "https://cms.gc.pdcservices.co.uk",
+  "https://images.gc.pdcservices.co.uk",
+  "https://images.gc.pdcservices.co.uk/",
+  "https://images.gc.pdcservices.co.uk/0d491290-fdc6-11f0-8695-9deff57ffbf9.jpg)]",
+  "https://images.gc.pdcservices.co.uk/280c1ce0-fc49-11f0-9a2a-dfaa669f4967.png",
+  "https://matches.darts.admin.gc.pdcservices.co.uk/v2",
+  "https://matches.football.admin.gc.pdcservices.co.uk",
+  "https://media.cms.admin.gc.pdcservices.co.uk/v1",
+  "https://news.cms.admin.gc.pdcservices.co.uk/v2",
+  "https://pages.cms.admin.gc.pdcservices.co.uk/v2",
+  "https://participants.darts.admin.gc.pdcservices.co.uk/v2",
+  "https://participants.darts.web.gc.pdcservices.co.uk/v2/?page.size=100",
+  "https://www.pdcservices.co.uk/"
+ ],
+ "pdc_nuxt": [
+  "window.__NUXT__={};window.__NUXT__.config=(function(){let a=\"Your home of darts, featuring PDC darts schedule, darts scores, and official darts tickets for upcoming tournaments, plus essential tournament information.\";return {public:{clientTeamDefaults:[],memberships:{free:{backgroundColour:\"\",benefitIcons:[],benefits:[],buttonLink:\"\",buttonText:\"\",createdAt:\"2026-01-27T12:40:22Z\",description:\"\",displayImage:false,lockedVideoMessage:\"\",lockedVideoTitle:\"\",loginButtonText:\"\",logoKey:\"\",logoMediaLibraryID:\"\",mappedEntitlements:\"free\",membershipID:\"eca0a984-794a-4238-9f05-5ee55c53624b\",orderPosition:0,renderLabel:true,textColour:\"\",title:\"Free\",updatedAt:\"2026-07-13T08:52:43Z\"},Annual:{backgroundColour:\"\",benefitIcons:[],benefits:[\"Live streaming of European Tour Players Championship & World Series events*\",\"First opportunity for tickets for every PDC event, ahead of any second ticket window**\",\"Full on-demand archive & highlights\",\"The Darts Show, features & interviews\",\"*Local restrictions may apply\",\"**PDCTV Annual Membership doesnât guarantee tickets\"],buttonLink:\"https://www.pdc.tv/videos/subscriptions\",buttonText:\"SUBSCRIBE NOW\",createdAt:\"2026-07-09T13:09:30Z\",description:\"\\u003Cdiv>A full year of PDCTV - every live stream, tickets and the full archive and all our shows just &pound;59.99 for 12 months.\\u003C/div>\\n\\u003Cdiv>&nbsp;\\u003C/div>\\n\\u003Cdiv>&nbsp;\\u003C/div>\\n\\u003Cdiv>&nbsp;\\u003C/div>\\n\\u003Cdiv>&nbsp;\\u003C/div>\\n\\u003Cdiv>&nbsp;\\u003C/div>\",displayImage:false,lockedVideoMessage:\"\",lockedVideoTitle:\"\",loginButtonText:\"\",logoKey:\"cdeae430-7b96-11f1-9581-6100a6ef96b5.jpg\",logoMediaLibraryID:\"cdeae430-7b96-11f1-9581-6100a6ef96b5\",mappedEntitlements:\"Annual\",membershipID:\"f6480d77-80e7-4adb-9909-8da36b764b3d\",orderPosition:3,renderLabel:false,textColour:\"\",title:\"ANNUAL MEMBERS\",updatedAt:\"2026-07-13T09:11:07Z\"},Monthly:{backgroundColour:\"\",benefitIcons:[],benefits:[\"Live streaming of European Tour Players Championship & World Series events*\",\"Full on-demand archive & highlights\",\"The Darts Show, features & interviews\",\"*Local restrictions may apply\"],buttonLink:\"https://www.pdc.tv/videos/subscriptions\",buttonText:\"SUBSCRIBE NOW\",createdAt:\"2026-07-09T13:13:21Z\",description:\"\\u003Cdiv>No long-term commitment. All the live streams, archive and shows - month to month.\\u003C/div>\\n\\u003Cdiv>&nbsp;\\u003C/div>\\n\\u003Cdiv>&nbsp;\\u003C/div>\\n\\u003Cdiv>&nbsp;\\u003C/div>\\n\\u003Cdiv>&nbsp;\\u003C/div>\\n\\u003Cdiv>&nbsp;\\u003C/div>\",displayImage:false,",
+  "window.__NUXT__.config=(function(){let a=\"Your home of darts, featuring PDC darts schedule, darts scores, and official darts tickets for upcoming tournaments, plus essential tournament information.\";return {public:{clientTeamDefaults:[],memberships:{free:{backgroundColour:\"\",benefitIcons:[],benefits:[],buttonLink:\"\",buttonText:\"\",createdAt:\"2026-01-27T12:40:22Z\",description:\"\",displayImage:false,lockedVideoMessage:\"\",lockedVideoTitle:\"\",loginButtonText:\"\",logoKey:\"\",logoMediaLibraryID:\"\",mappedEntitlements:\"free\",membershipID:\"eca0a984-794a-4238-9f05-5ee55c53624b\",orderPosition:0,renderLabel:true,textColour:\"\",title:\"Free\",updatedAt:\"2026-07-13T08:52:43Z\"},Annual:{backgroundColour:\"\",benefitIcons:[],benefits:[\"Live streaming of European Tour Players Championship & World Series events*\",\"First opportunity for tickets for every PDC event, ahead of any second ticket window**\",\"Full on-demand archive & highlights\",\"The Darts Show, features & interviews\",\"*Local restrictions may apply\",\"**PDCTV Annual Membership doesnât guarantee tickets\"],buttonLink:\"https://www.pdc.tv/videos/subscriptions\",buttonText:\"SUBSCRIBE NOW\",createdAt:\"2026-07-09T13:09:30Z\",description:\"\\u003Cdiv>A full year of PDCTV - every live stream, tickets and the full archive and all our shows just &pound;59.99 for 12 months.\\u003C/div>\\n\\u003Cdiv>&nbsp;\\u003C/div>\\n\\u003Cdiv>&nbsp;\\u003C/div>\\n\\u003Cdiv>&nbsp;\\u003C/div>\\n\\u003Cdiv>&nbsp;\\u003C/div>\\n\\u003Cdiv>&nbsp;\\u003C/div>\",displayImage:false,lockedVideoMessage:\"\",lockedVideoTitle:\"\",loginButtonText:\"\",logoKey:\"cdeae430-7b96-11f1-9581-6100a6ef96b5.jpg\",logoMediaLibraryID:\"cdeae430-7b96-11f1-9581-6100a6ef96b5\",mappedEntitlements:\"Annual\",membershipID:\"f6480d77-80e7-4adb-9909-8da36b764b3d\",orderPosition:3,renderLabel:false,textColour:\"\",title:\"ANNUAL MEMBERS\",updatedAt:\"2026-07-13T09:11:07Z\"},Monthly:{backgroundColour:\"\",benefitIcons:[],benefits:[\"Live streaming of European Tour Players Championship & World Series events*\",\"Full on-demand archive & highlights\",\"The Darts Show, features & interviews\",\"*Local restrictions may apply\"],buttonLink:\"https://www.pdc.tv/videos/subscriptions\",buttonText:\"SUBSCRIBE NOW\",createdAt:\"2026-07-09T13:13:21Z\",description:\"\\u003Cdiv>No long-term commitment. All the live streams, archive and shows - month to month.\\u003C/div>\\n\\u003Cdiv>&nbsp;\\u003C/div>\\n\\u003Cdiv>&nbsp;\\u003C/div>\\n\\u003Cdiv>&nbsp;\\u003C/div>\\n\\u003Cdiv>&nbsp;\\u003C/div>\\n\\u003Cdiv>&nbsp;\\u003C/div>\",displayImage:false,lockedVideoMessage:"
+ ],
+ "https://www.pdc.tv/tournaments/_payload.json": {
   "code": 200,
   "len": 87872,
-  "ctype": "text/html",
-  "body": "<!DOCTYPE html><html><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"><link rel=\"preconnect\" href=\"https://images.gc.pdcservices.co.uk\"><script type=\"importmap\">{\"imports\":{\"#entry\":\"/_nuxt/Dl478jKw.js\"}}</script><script src></script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer',\"GTM-WML8L85\");</script><script>\n        window.fwSettings={\n            'widget_id':undefined\n        };\n            !function(){if(\"function\"!=typeof window.FreshworksWidget){var n=function(){n.q.push(arguments)};n.q=[],window.FreshworksWidget=n}}()</script><script src=\"https://boot.pbstck.com/v1/adm/dec9272d-fbf2-464a-9a3d-bf8bc4b57d93\" type=\"text/javascript\"></script><script id=\"cookieyes\" src=\"https://cdn-cookieyes.com/client_data/bcdc2abaef86de81ffe3f924bdeb3051/script.js\" type=\"text/javascript\"></script><link rel=\"stylesheet\" href=\"/flags.css\" defer><style>.page-enter-active,.page-leave-active{transition:all .3s}.page-enter-from,.page-leave-to{opacity:0;filter:blur(5px)}</style><style>.slide-fade-enter-active{transition:all .6s ease-out}.slide-fade-leave-active{transition:all .6s cubic-bezier(1,.5,.8,1)}.slide-fade-enter-from,.slide-fade-leave-to{opacity:0;transform",
-  "next": null,
-  "api_hits": []
+  "urls": [
+   "https://admin-users.cms.admin.gc.pdcservices.co.uk/v2",
+   "https://cms.gc.pdcservices.co.uk",
+   "https://images.gc.pdcservices.co.uk",
+   "https://images.gc.pdcservices.co.uk/",
+   "https://images.gc.pdcservices.co.uk/0d491290-fdc6-11f0-8695-9deff57ffbf9.jpg)]",
+   "https://images.gc.pdcservices.co.uk/280c1ce0-fc49-11f0-9a2a-dfaa669f4967.png",
+   "https://matches.darts.admin.gc.pdcservices.co.uk/v2",
+   "https://matches.football.admin.gc.pdcservices.co.uk",
+   "https://media.cms.admin.gc.pdcservices.co.uk/v1",
+   "https://news.cms.admin.gc.pdcservices.co.uk/v2",
+   "https://pages.cms.admin.gc.pdcservices.co.uk/v2",
+   "https://participants.darts.admin.gc.pdcservices.co.uk/v2",
+   "https://participants.darts.web.gc.pdcservices.co.uk/v2/?page.size=100",
+   "https://www.pdcservices.co.uk/"
+  ],
+  "head": "<!DOCTYPE html><html><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"><link rel=\"preconnect\" href=\"https://images.gc.pdcservices.co.uk\"><script type=\"importmap\">{\"imports\":{\"#entry\":\"/_nuxt/Dl478jKw.js\"}}</script><script src></script><script>(function(w"
  },
- {
-  "url": "https://www.dartsdatabase.co.uk/PlayerDetails.aspx?playerKey=41296",
-  "code": 403,
-  "len": 5816,
-  "ctype": "text/html; charset=UTF-8",
-  "body": "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><meta http-equiv=\"content-security-policy\" content=\"default-src &#39;none&#39;; script-src &#39;nonce-X5hiknZejGzEI2eAkAf62z&#39; &#39;unsafe-eval&#39; https://challenges.cloudflare.com; script-src-attr &#39;none&#39;; style-src &#39;unsafe-inline&#39;; img-src &#39;self&#39; https://challenges.cloudflare.com; connect-src &#39;self&#39; https://challenges.cloudflare.com; frame-src &#39;self&#39; https://challenges.cloudflare.com blob:; child-src &#39;self&#39; https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri &#39;self&#39;\"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url(\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zd",
-  "next": null,
-  "api_hits": []
+ "https://www.pdc.tv/fixtures-results": {
+  "code": 200,
+  "len": 87872,
+  "urls": [
+   "https://admin-users.cms.admin.gc.pdcservices.co.uk/v2",
+   "https://cms.gc.pdcservices.co.uk",
+   "https://images.gc.pdcservices.co.uk",
+   "https://images.gc.pdcservices.co.uk/",
+   "https://images.gc.pdcservices.co.uk/0d491290-fdc6-11f0-8695-9deff57ffbf9.jpg)]",
+   "https://images.gc.pdcservices.co.uk/280c1ce0-fc49-11f0-9a2a-dfaa669f4967.png",
+   "https://matches.darts.admin.gc.pdcservices.co.uk/v2",
+   "https://matches.football.admin.gc.pdcservices.co.uk",
+   "https://media.cms.admin.gc.pdcservices.co.uk/v1",
+   "https://news.cms.admin.gc.pdcservices.co.uk/v2",
+   "https://pages.cms.admin.gc.pdcservices.co.uk/v2",
+   "https://participants.darts.admin.gc.pdcservices.co.uk/v2",
+   "https://participants.darts.web.gc.pdcservices.co.uk/v2/?page.size=100",
+   "https://www.pdcservices.co.uk/"
+  ],
+  "head": "<!DOCTYPE html><html><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"><link rel=\"preconnect\" href=\"https://images.gc.pdcservices.co.uk\"><script type=\"importmap\">{\"imports\":{\"#entry\":\"/_nuxt/Dl478jKw.js\"}}</script><script src></script><script>(function(w"
+ },
+ "https://www.pdc.tv/players/luke-littler": {
+  "code": 200,
+  "len": 87872,
+  "urls": [
+   "https://admin-users.cms.admin.gc.pdcservices.co.uk/v2",
+   "https://cms.gc.pdcservices.co.uk",
+   "https://images.gc.pdcservices.co.uk",
+   "https://images.gc.pdcservices.co.uk/",
+   "https://images.gc.pdcservices.co.uk/0d491290-fdc6-11f0-8695-9deff57ffbf9.jpg)]",
+   "https://images.gc.pdcservices.co.uk/280c1ce0-fc49-11f0-9a2a-dfaa669f4967.png",
+   "https://matches.darts.admin.gc.pdcservices.co.uk/v2",
+   "https://matches.football.admin.gc.pdcservices.co.uk",
+   "https://media.cms.admin.gc.pdcservices.co.uk/v1",
+   "https://news.cms.admin.gc.pdcservices.co.uk/v2",
+   "https://pages.cms.admin.gc.pdcservices.co.uk/v2",
+   "https://participants.darts.admin.gc.pdcservices.co.uk/v2",
+   "https://participants.darts.web.gc.pdcservices.co.uk/v2/?page.size=100",
+   "https://www.pdcservices.co.uk/"
+  ],
+  "head": "<!DOCTYPE html><html><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"><link rel=\"preconnect\" href=\"https://images.gc.pdcservices.co.uk\"><script type=\"importmap\">{\"imports\":{\"#entry\":\"/_nuxt/Dl478jKw.js\"}}</script><script src></script><script>(function(w"
  }
-]
+}
