@@ -96,29 +96,26 @@
   "joueurs": {
    "Luke Littler": {
     "trouve": "Luke Littler (id 40676)",
-    "matchs": 6
+    "matchs": 5
    }
   },
   "ok": true,
-  "nb_evenements": 6
+  "nb_evenements": 5
  },
  "esport": {
   "jeux": {
    "callofduty": {
-    "matchs_sur_la_page": 50,
-    "matchs_suivis": 7
+    "erreur": "https://liquipedia.net/callofduty/api.php -> HTTP 429"
    },
    "rocketleague": {
-    "matchs_sur_la_page": 100,
-    "matchs_suivis": 0
+    "erreur": "https://liquipedia.net/rocketleague/api.php -> HTTP 429"
    },
    "valorant": {
-    "matchs_sur_la_page": 100,
-    "matchs_suivis": 0
+    "erreur": "https://liquipedia.net/valorant/api.php -> HTTP 429"
    }
   },
   "ok": true,
-  "nb_evenements": 7
+  "nb_evenements": 0
  },
  "biathlon": {
   "saison": "2627",
@@ -145,15 +142,14 @@
   "nb_evenements": 6
  },
  "_resume": {
-  "genere_le": "2026-11-22T12:40:09.738222+00:00",
-  "total": 249,
+  "genere_le": "2026-11-22T20:45:31.461564+00:00",
+  "total": 241,
   "par_sport": {
    "foot": 34,
    "basket": 79,
    "rugby": 43,
    "hand": 4,
-   "flechettes": 6,
-   "esport": 7,
+   "flechettes": 5,
    "biathlon": 70,
    "f1": 6
   },
