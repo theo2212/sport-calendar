@@ -1,44 +1,32 @@
-"""Diagnostic temporaire : teste les variantes d'API depuis GitHub Actions."""
-import json, requests
-from curl_cffi import requests as creq
-UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36"
-E = "https://site.api.espn.com/apis/site/v2/sports"
-SOFA_H = {"Referer": "https://www.sofascore.com/", "Origin": "https://www.sofascore.com"}
-IBU_H = {"Referer": "https://biathlonresults.com/", "Origin": "https://biathlonresults.com"}
-P = [
- ("r", "https://biathlonresults.com/modules/sportapi/api/Events?RT=385698&SeasonId=2627&Level=1", IBU_H),
- ("r", f"{E}/soccer/all/teams/478/schedule", {}),
- ("r", "https://www.thesportsdb.com/api/v1/json/123/searchteams.php?t=Paris%20Saint-Germain%20Handball", {}),
- ("r", "https://www.thesportsdb.com/api/v1/json/123/search_all_leagues.php?s=Handball", {}),
- ("r", "https://www.thesportsdb.com/api/v1/json/123/eventsnext.php?id=133714", {}),
- ("r", "https://www.thesportsdb.com/api/v1/json/123/eventsseason.php?id=4555&s=2026", {}),
- ("r", "https://www.thesportsdb.com/api/v1/json/123/eventsseason.php?id=4554&s=2026-2027", {}),
-]
-out = []
-for kind, url, h in P:
-    try:
-        if kind == "c":
-            r = creq.get(url, headers=h, impersonate="chrome", timeout=25)
-        else:
-            r = requests.get(url, headers={"User-Agent": UA, "Accept": "application/json", **h}, timeout=25)
-        h2 = dict(r.headers)
-        out.append({"k": kind, "url": url, "code": r.status_code, "body": r.text[:900], "len": len(r.content), "ctype": r.headers.get("content-type")})
-    except Exception as e:
-        out.append({"k": kind, "url": url, "err": str(e)[:300]})
-import os; os.makedirs("docs", exist_ok=True)
-json.dump(out, open("docs/probe.json", "w"), ensure_ascii=False, indent=1)
-
-# Liquipedia : structure de la page des matchs
-import re, time
+import json, re, time, requests
+T = "https://www.thesportsdb.com/api/v1/json/123"
 LQH = {"User-Agent": "sport-calendar/1.0 (https://github.com/theo2212/sport-calendar; theo2212@users.noreply.github.com)", "Accept-Encoding": "gzip"}
 res = {}
-for wiki in ["valorant"]:
-    r = requests.get(f"https://liquipedia.net/{wiki}/api.php?action=parse&page=Liquipedia:Matches&format=json&prop=text", headers=LQH, timeout=30)
-    html = r.json()["parse"]["text"]["*"]
-    i = html.find("data-timestamp")
-    res[wiki] = {"len": len(html), "sample": html[max(0,i-3000):i+3000], "n_ts": html.count("data-timestamp"), "gm": [m.start() for m in re.finditer("Gentle", html)][:5]}
-    j = html.find("Gentle")
-    res[wiki]["gm_sample"] = html[max(0,j-2500):j+1500] if j>=0 else ""
-r = requests.get(f"{E}/rugby/270559/scoreboard", timeout=25).json()
-res["rugby_cal"] = str((r.get("leagues") or [{}])[0].get("calendar"))[:1500]
-json.dump(res, open("docs/probe2.json","w"), ensure_ascii=False, indent=1)
+g = lambda u: requests.get(u, timeout=25).json()
+L = g(f"{T}/search_all_leagues.php?s=Handball")["countries"]
+res["hand_leagues"] = [(x["idLeague"], x["strLeague"], x["strCountry"], x.get("strCurrentSeason")) for x in L]
+for lid, name, c, s in res["hand_leagues"]:
+    if c in ("France", "World") or "EHF" in name or "Champions" in name or "International" in name or "Euro" in name:
+        try:
+            teams = g(f"{T}/lookup_all_teams.php?id={lid}").get("teams") or []
+            res[f"teams_{lid}_{name}"] = [(t["idTeam"], t["strTeam"]) for t in teams][:40]
+        except Exception as e:
+            res[f"teams_{lid}"] = str(e)
+for q in ["Paris SG Handball", "PSG Handball", "France Handball", "Paris Saint Germain HB", "France"]:
+    try:
+        res[f"search_{q}"] = [(t["idTeam"], t["strTeam"], t["strSport"]) for t in (g(f"{T}/searchteams.php?t={q}").get("teams") or [])]
+    except Exception as e:
+        res[f"search_{q}"] = str(e)
+for u in [f"{T}/eventsnext.php?id=136716", f"{T}/eventslast.php?id=136716", f"{T}/searchevents.php?e=Littler", f"{T}/searchevents.php?e=Luke_Littler"]:
+    try: res[u] = str(g(u))[:1500]
+    except Exception as e: res[u] = str(e)
+for wiki in ["rocketleague", "callofduty", "valorant"]:
+    time.sleep(31)
+    try:
+        r = requests.get(f"https://liquipedia.net/{wiki}/api.php?action=parse&page=Liquipedia:Matches&format=json&prop=text", headers=LQH, timeout=30)
+        html = r.json()["parse"]["text"]["*"]
+        names = sorted(set(re.findall(r'class="team-name">([^<]+)<', html)))
+        res[f"lq_{wiki}"] = {"code": r.status_code, "cards": html.count("match-ticker-card__header") + html.count("match-ticker-card&#95;&#95;header"), "gentle": [n for n in names if "entle" in n], "n_names": len(names)}
+    except Exception as e:
+        res[f"lq_{wiki}"] = str(e)
+json.dump(res, open("docs/probe2.json", "w"), ensure_ascii=False, indent=1)
