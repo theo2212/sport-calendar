@@ -1,0 +1,38 @@
+name: Mise à jour du calendrier
+
+on:
+  schedule:
+    - cron: "17 */2 * * *"   # toutes les 2 h
+  push:
+    branches: [main]
+    paths: ["config.yaml", "build.py", "sportcal/**", ".github/workflows/**"]
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: calendrier
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - run: python build.py
+      - name: Publier
+        run: |
+          git config user.name "sport-calendar-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add docs
+          git diff --cached --quiet && exit 0
+          git commit -m "Mise à jour du calendrier"
+          git pull --rebase -X ours origin main || true
+          git push

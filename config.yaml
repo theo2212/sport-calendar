@@ -1,0 +1,44 @@
+# ─────────────────────────────────────────────────────────────
+#  MES SPORTS — modifie ce fichier pour ajouter / retirer des équipes.
+#  Après chaque modification, le calendrier se régénère tout seul (~2 min).
+#
+#  Format simple : un nom par ligne sous le sport.
+#  Format avancé (si besoin) :
+#    - nom: France
+#      genre: F            # équipe féminine (par défaut : masculine)
+#      match: [Les Bleus]  # autres noms possibles dans les sources
+#      id: 1234            # identifiant Sofascore forcé
+#
+#  Sports reconnus : foot, basket, rugby, hand, flechettes, esport,
+#  tennis, volley, hockey, cyclisme… + biathlon et f1 (spéciaux).
+# ─────────────────────────────────────────────────────────────
+
+foot:
+  - Marseille
+  - France
+
+basket:
+  - Spurs
+
+rugby:
+  - Toulouse
+  - Bordeaux
+  - France
+
+hand:
+  - Paris Saint-Germain
+  - France
+
+flechettes:
+  - Luke Littler
+
+esport:
+  - nom: Gentle Mates
+    jeux: [Call of Duty, Rocket League, Valorant]
+
+biathlon: tout   # toutes les courses de Coupe du monde ("non" pour désactiver)
+f1: gp           # uniquement les Grands Prix ("non" pour désactiver)
+
+reglages:
+  jours_passes: 30    # garder les résultats des 30 derniers jours
+  jours_futurs: 180   # afficher les 6 prochains mois
