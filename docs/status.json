@@ -23,7 +23,7 @@
    },
    "uefa.europa.conf": {
     "evenements_vus": 0,
-    "erreur": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.europa.conf/scoreboard -> HTTP 400"
+    "erreur": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.europa.conf/scoreboard -> HTTP 403"
    },
    "uefa.nations": {
     "evenements_vus": 0,
@@ -95,23 +95,23 @@
    },
    "271937": {
     "evenements_vus": 0,
-    "erreur": "https://site.api.espn.com/apis/site/v2/sports/rugby/271937/scoreboard -> HTTP 400"
+    "erreur": "https://site.api.espn.com/apis/site/v2/sports/rugby/271937/scoreboard -> HTTP 403"
    },
    "272073": {
     "evenements_vus": 0,
-    "erreur": "https://site.api.espn.com/apis/site/v2/sports/rugby/272073/scoreboard -> HTTP 400"
+    "erreur": "https://site.api.espn.com/apis/site/v2/sports/rugby/272073/scoreboard -> HTTP 403"
    },
    "180659": {
     "evenements_vus": 0,
-    "erreur": "https://site.api.espn.com/apis/site/v2/sports/rugby/180659/scoreboard -> HTTP 400"
+    "erreur": "https://site.api.espn.com/apis/site/v2/sports/rugby/180659/scoreboard -> HTTP 403"
    },
    "289234": {
     "evenements_vus": 0,
-    "erreur": "https://site.api.espn.com/apis/site/v2/sports/rugby/289234/scoreboard -> HTTP 400"
+    "erreur": "https://site.api.espn.com/apis/site/v2/sports/rugby/289234/scoreboard -> HTTP 403"
    },
    "164205": {
     "evenements_vus": 0,
-    "erreur": "https://site.api.espn.com/apis/site/v2/sports/rugby/164205/scoreboard -> HTTP 400"
+    "erreur": "https://site.api.espn.com/apis/site/v2/sports/rugby/164205/scoreboard -> HTTP 403"
    }
   },
   "par_equipe": {
@@ -181,7 +181,7 @@
   "nb_evenements": 6
  },
  "_resume": {
-  "genere_le": "2026-11-22T02:59:02.775847+00:00",
+  "genere_le": "2026-11-22T03:01:56.021465+00:00",
   "total": 6,
   "par_sport": {
    "f1": 6
