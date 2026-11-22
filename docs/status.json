@@ -103,15 +103,15 @@
    },
    "180659": {
     "evenements_vus": 0,
-    "erreur": "https://site.api.espn.com/apis/site/v2/sports/rugby/180659/scoreboard -> HTTP 403"
+    "erreur": "https://site.api.espn.com/apis/site/v2/sports/rugby/180659/scoreboard -> HTTP 400"
    },
    "289234": {
     "evenements_vus": 0,
-    "erreur": "https://site.api.espn.com/apis/site/v2/sports/rugby/289234/scoreboard -> HTTP 403"
+    "erreur": "https://site.api.espn.com/apis/site/v2/sports/rugby/289234/scoreboard -> HTTP 400"
    },
    "164205": {
     "evenements_vus": 0,
-    "erreur": "https://site.api.espn.com/apis/site/v2/sports/rugby/164205/scoreboard -> HTTP 403"
+    "erreur": "https://site.api.espn.com/apis/site/v2/sports/rugby/164205/scoreboard -> HTTP 400"
    }
   },
   "par_equipe": {
@@ -181,7 +181,7 @@
   "nb_evenements": 6
  },
  "_resume": {
-  "genere_le": "2026-11-22T02:56:25.368499+00:00",
+  "genere_le": "2026-11-22T02:57:35.989235+00:00",
   "total": 6,
   "par_sport": {
    "f1": 6

@@ -1,140 +1,138 @@
 [
  {
   "k": "r",
-  "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1/scoreboard?dates=20261122",
+  "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/270559/teams/25912/schedule",
+  "code": 500,
+  "body": "{\"code\":1008,\"detail\":\"script error: unexpected exception or error processing script\"}",
+  "len": 86,
+  "ctype": "application/json;charset=UTF-8"
+ },
+ {
+  "k": "r",
+  "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/270559/teams/25912/schedule?fixture=true",
+  "code": 500,
+  "body": "{\"code\":1008,\"detail\":\"script error: unexpected exception or error processing script\"}",
+  "len": 86,
+  "ctype": "application/json;charset=UTF-8"
+ },
+ {
+  "k": "r",
+  "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.nations/teams/478/schedule?fixture=true",
   "code": 200,
-  "body": "{\"leagues\":[{\"id\":\"710\",\"uid\":\"s:600~l:710\",\"name\":\"French Ligue 1\",\"abbreviation\":\"Ligue 1\",\"midsizeName\":\"FRA.1\",\"slug\":\"fra.1\",\"season\":{\"year\":2026,\"startDate\":\"2026-06-01T04:00Z\",\"endDate\":\"2027-06-01T03:59Z\",\"displayName\":\"2026-27 French Ligue 1\",\"type\":{\"id\":\"1\",\"type\":14252,\"name\":\"2026-27 Ligue 1\",\"abbreviation\":\"2026-27 Ligue 1\"}},\"logos\":[{\"href\":\"https://a.espncdn.com/i/leaguelogos/soccer/500/9.png\",\"width\":500,\"height\":500,\"alt\":\"\",\"rel\":[\"full\",\"default\"],\"lastUpdated\":\"2019-05-08T16:07Z\"},{\"href\":\"https://a.espncdn.com/i/leaguelogos/soccer/500-dark/9.png\",\"width\":500,\"height\":500,\"alt\":\"\",\"rel\":[\"full\",\"dark\"],\"lastUpdated\":\"2019-05-08T16:07Z\"}],\"calendarType\":\"day\",\"calendarIsWhitelist\":true,\"calendarStartDate\":\"2026-06-01T04:00Z\",\"calendarEndDate\":\"2027-06-01T03:59Z\",\"calendar\":[\"2026-08-21T07:00Z\",\"2026-08-22T07:00Z\",\"2026-08-23T07:00Z\",\"2026-08-28T07:00Z\",\"2026-08-29T0"
+  "body": "{\"timestamp\":\"2026-11-22T02:51:21Z\",\"status\":\"success\",\"season\":{\"year\":2026,\"type\":14104,\"name\":\"Quarterfinals\",\"displayName\":\"2026-27 UEFA Nations League\",\"half\":1},\"team\":{\"id\":\"478\",\"abbreviation\":\"FRA\",\"location\":\"France\",\"name\":\"France\",\"displayName\":\"France\",\"clubhouse\":\"https://www.espn.com/soccer/team/_/id/478/france\",\"color\":\"000080\",\"logo\":\"https://a.espncdn.com/i/teamlogos/countries/500/fra.png\",\"logoDark\":\"https://a.espncdn.com/i/teamlogos/countries/500-dark/fra.png\",\"seasonSummary\":\"2026\",\"standingSummary\":\"1st in UEFA Nations League\",\"isNational\":true,\"groups\":{\"id\":\"1\",\"parent\":{\"id\":\"2395\"}}},\"events\":[{\"id\":\"401936104\",\"date\":\"2027-03-25T19:45Z\",\"name\":\"France at Spain\",\"shortName\":\"FRA @ ESP\",\"season\":{\"year\":2026,\"displayName\":\"2026-27 UEFA Nations League\"},\"seasonType\":{\"id\":\"2\",\"type\":14104,\"name\":\"Quarterfinals\",\"abbreviation\":\"Quarterfinals\"},\"timeValid\":true,\"com",
+  "len": 15716,
+  "ctype": "application/json;charset=UTF-8"
  },
  {
   "k": "r",
-  "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1/scoreboard?dates=20261101-20261130",
-  "code": 400,
-  "body": "{\"code\":400,\"message\":\"Failed to get events endpoint.\"}"
- },
- {
-  "k": "r",
-  "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1/scoreboard?dates=20261101-20261130&limit=100",
-  "code": 400,
-  "body": "{\"code\":400,\"message\":\"Failed to get events endpoint.\"}"
- },
- {
-  "k": "r",
-  "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1/teams",
+  "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/all/teams/176/schedule?fixture=true",
   "code": 200,
-  "body": "{\"sports\":[{\"id\":\"600\",\"leagues\":[{\"abbreviation\":\"Ligue 1\",\"id\":\"710\",\"name\":\"French Ligue 1\",\"season\":{\"displayName\":\"2026\",\"year\":2026},\"shortName\":\"Ligue 1\",\"slug\":\"fra.1\",\"teams\":[{\"team\":{\"abbreviation\":\"AUX\",\"alternateColor\":\"1a1a1a\",\"color\":\"ffffff\",\"displayName\":\"AJ Auxerre\",\"id\":\"172\",\"isActive\":true,\"isAllStar\":false,\"links\":[{\"href\":\"https://www.espn.com/soccer/club/_/id/172/aj-auxerre\",\"isExternal\":false,\"isHidden\":false,\"isPremium\":false,\"language\":\"en-US\",\"rel\":[\"clubhouse\",\"desktop\",\"team\"],\"shortText\":\"Clubhouse\",\"text\":\"Clubhouse\"},{\"href\":\"https://www.espn.com/soccer/team/stats/_/id/172/aj-auxerre\",\"isExternal\":false,\"isHidden\":false,\"isPremium\":false,\"language\":\"en-US\",\"rel\":[\"stats\",\"desktop\",\"team\"],\"shortText\":\"Stats\",\"text\":\"Stats\"},{\"href\":\"https://www.espn.com/soccer/team/fixtures/_/id/172/aj-auxerre\",\"isExternal\":false,\"isHidden\":false,\"isPremium\":false,\"langua"
+  "body": "{\"timestamp\":\"2026-11-22T02:57:20Z\",\"status\":\"success\",\"season\":{\"year\":2026,\"type\":14252,\"name\":\"2026-27 Ligue 1\",\"displayName\":\"2026-27 French Ligue 1\",\"half\":1},\"team\":{\"id\":\"176\",\"abbreviation\":\"OLM\",\"location\":\"Marseille\",\"name\":\"Marseille\",\"displayName\":\"Marseille\",\"clubhouse\":\"https://www.espn.com/soccer/club/_/id/176/marseille\",\"color\":\"ffffff\",\"logo\":\"https://a.espncdn.com/i/teamlogos/soccer/500/176.png\",\"logoDark\":\"https://a.espncdn.com/i/teamlogos/soccer/500-dark/176.png\",\"recordSummary\":\"6-0-4\",\"seasonSummary\":\"2026-27\",\"standingSummary\":\"5th in French Ligue 1\",\"isNational\":false,\"groups\":{\"id\":\"1\"}},\"events\":[{\"id\":\"401876400\",\"date\":\"2026-11-22T19:45Z\",\"name\":\"Le Mans at Marseille\",\"shortName\":\"MNS @ OLM\",\"season\":{\"year\":2026,\"displayName\":\"2026-27 French Ligue 1\"},\"seasonType\":{\"id\":\"1\",\"type\":14252,\"name\":\"2026-27 Ligue 1\",\"abbreviation\":\"2026-27 Ligue 1\"},\"timeValid\":tr",
+  "len": 236753,
+  "ctype": "application/json;charset=UTF-8"
  },
  {
   "k": "r",
-  "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1/teams/176/schedule",
+  "url": "https://api.sofascore.app/api/v1/sport/darts/scheduled-events/2026-11-22",
   "code": 200,
-  "body": "{\"timestamp\":\"2026-11-22T02:51:57Z\",\"status\":\"success\",\"season\":{\"year\":2026,\"type\":14252,\"name\":\"2026-27 Ligue 1\",\"displayName\":\"2026-27 French Ligue 1\",\"half\":1},\"team\":{\"id\":\"176\",\"abbreviation\":\"OLM\",\"location\":\"Marseille\",\"name\":\"Marseille\",\"displayName\":\"Marseille\",\"clubhouse\":\"https://www.espn.com/soccer/club/_/id/176/marseille\",\"color\":\"ffffff\",\"logo\":\"https://a.espncdn.com/i/teamlogos/soccer/500/176.png\",\"logoDark\":\"https://a.espncdn.com/i/teamlogos/soccer/500-dark/176.png\",\"recordSummary\":\"6-0-4\",\"seasonSummary\":\"2026-27\",\"standingSummary\":\"5th in French Ligue 1\",\"isNational\":false,\"groups\":{\"id\":\"1\"}},\"events\":[{\"id\":\"401876404\",\"date\":\"2026-11-08T19:45Z\",\"name\":\"Marseille at Lens\",\"shortName\":\"OLM @ RCL\",\"season\":{\"year\":2026,\"displayName\":\"2026-27 French Ligue 1\"},\"seasonType\":{\"id\":\"1\",\"type\":14252,\"name\":\"2026-27 Ligue 1\",\"abbreviation\":\"2026-27 Ligue 1\"},\"timeValid\":true,"
+  "body": "",
+  "len": 0,
+  "ctype": null
  },
  {
   "k": "r",
-  "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1/teams/176/schedule?fixture=true",
+  "url": "https://api.sofascore.app/api/v1/search/teams?q=Littler",
   "code": 200,
-  "body": "{\"timestamp\":\"2026-11-22T02:50:10Z\",\"status\":\"success\",\"season\":{\"year\":2026,\"type\":14252,\"name\":\"2026-27 Ligue 1\",\"displayName\":\"2026-27 French Ligue 1\",\"half\":1},\"team\":{\"id\":\"176\",\"abbreviation\":\"OLM\",\"location\":\"Marseille\",\"name\":\"Marseille\",\"displayName\":\"Marseille\",\"clubhouse\":\"https://www.espn.com/soccer/club/_/id/176/marseille\",\"color\":\"ffffff\",\"logo\":\"https://a.espncdn.com/i/teamlogos/soccer/500/176.png\",\"logoDark\":\"https://a.espncdn.com/i/teamlogos/soccer/500-dark/176.png\",\"recordSummary\":\"6-0-4\",\"seasonSummary\":\"2026-27\",\"standingSummary\":\"5th in French Ligue 1\",\"isNational\":false,\"groups\":{\"id\":\"1\"}},\"events\":[{\"id\":\"401876400\",\"date\":\"2026-11-22T19:45Z\",\"name\":\"Le Mans at Marseille\",\"shortName\":\"MNS @ OLM\",\"season\":{\"year\":2026,\"displayName\":\"2026-27 French Ligue 1\"},\"seasonType\":{\"id\":\"1\",\"type\":14252,\"name\":\"2026-27 Ligue 1\",\"abbreviation\":\"2026-27 Ligue 1\"},\"timeValid\":tr"
+  "body": "",
+  "len": 0,
+  "ctype": null
  },
  {
   "k": "r",
-  "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261101-20261130",
-  "code": 400,
-  "body": "{\"code\":400,\"message\":\"Failed to get events endpoint.\"}"
- },
- {
-  "k": "r",
-  "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams/sa/schedule",
+  "url": "https://api.sofascore.app/api/v1/team/2817/events/last/0",
   "code": 200,
-  "body": "{\"timestamp\":\"2026-11-22T02:56:10Z\",\"status\":\"success\",\"season\":{\"year\":2027,\"type\":2,\"name\":\"Regular Season\",\"displayName\":\"2026-27\",\"half\":1},\"team\":{\"id\":\"24\",\"abbreviation\":\"SA\",\"location\":\"San Antonio\",\"name\":\"Spurs\",\"displayName\":\"San Antonio Spurs\",\"clubhouse\":\"https://www.espn.com/nba/team/_/name/sa/san-antonio-spurs\",\"color\":\"000000\",\"logo\":\"https://a.espncdn.com/i/teamlogos/nba/500/sa.png\",\"logoDark\":\"https://a.espncdn.com/i/teamlogos/nba/500-dark/sa.png\",\"recordSummary\":\"13-3\",\"seasonSummary\":\"2026-27\",\"standingSummary\":\"1st in Southwest Division\",\"groups\":{\"id\":\"10\",\"parent\":{\"id\":\"6\"},\"isConference\":false}},\"events\":[{\"id\":\"401909090\",\"date\":\"2026-10-21T01:50Z\",\"name\":\"Oklahoma City Thunder at San Antonio Spurs\",\"shortName\":\"OKC @ SA\",\"season\":{\"year\":2027,\"displayName\":\"2026-27\"},\"seasonType\":{\"id\":\"2\",\"type\":2,\"name\":\"Regular Season\",\"abbreviation\":\"reg\"},\"timeValid\":true,"
- },
- {
-  "k": "r",
-  "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/270559/scoreboard",
-  "code": 200,
-  "body": "{\"leagues\":[{\"id\":\"8005\",\"uid\":\"s:300~l:8005\",\"name\":\"French Top 14\",\"abbreviation\":\"TOP14\",\"midsizeName\":\"270559\",\"slug\":\"270559\",\"season\":{\"year\":2026,\"startDate\":\"2026-11-07T15:30Z\",\"endDate\":\"2026-07-02T03:59Z\",\"displayName\":\"2026\",\"type\":{\"id\":\"1\",\"type\":1,\"name\":\"Top 14\",\"abbreviation\":\"Top 14\"}},\"logos\":[{\"href\":\"https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-rugby.png\",\"width\":500,\"height\":500,\"alt\":\"\",\"rel\":[\"full\",\"default\"],\"lastUpdated\":\"2026-11-21T05:55Z\"}],\"isClubCompetition\":false,\"calendarType\":\"day\",\"calendarIsWhitelist\":true,\"calendarStartDate\":\"2026-11-07T15:30Z\",\"calendarEndDate\":\"2026-07-02T03:59Z\",\"calendar\":[\"2025-09-06T07:00Z\",\"2025-09-07T07:00Z\",\"2025-09-13T07:00Z\",\"2025-09-14T07:00Z\",\"2025-09-20T07:00Z\",\"2025-09-27T07:00Z\",\"2025-09-28T07:00Z\",\"2025-10-04T07:00Z\",\"2025-10-05T07:00Z\",\"2025-10-11T07:00Z\",\"2025-10-12T07:00Z\",\"2025-10-18T07"
- },
- {
-  "k": "r",
-  "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/270559/scoreboard?dates=20261122",
-  "code": 200,
-  "body": "{\"leagues\":[{\"id\":\"8005\",\"uid\":\"s:300~l:8005\",\"name\":\"French Top 14\",\"abbreviation\":\"TOP14\",\"midsizeName\":\"270559\",\"slug\":\"270559\",\"season\":{\"year\":2026,\"startDate\":\"2026-11-07T15:30Z\",\"endDate\":\"2026-07-02T03:59Z\",\"displayName\":\"2026\",\"type\":{\"id\":\"1\",\"type\":1,\"name\":\"Top 14\",\"abbreviation\":\"Top 14\"}},\"logos\":[{\"href\":\"https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-rugby.png\",\"width\":500,\"height\":500,\"alt\":\"\",\"rel\":[\"full\",\"default\"],\"lastUpdated\":\"2026-11-21T05:55Z\"}],\"isClubCompetition\":false,\"calendarType\":\"day\",\"calendarIsWhitelist\":true,\"calendarStartDate\":\"2026-11-07T15:30Z\",\"calendarEndDate\":\"2026-07-02T03:59Z\",\"calendar\":[\"2025-09-06T07:00Z\",\"2025-09-07T07:00Z\",\"2025-09-13T07:00Z\",\"2025-09-14T07:00Z\",\"2025-09-20T07:00Z\",\"2025-09-27T07:00Z\",\"2025-09-28T07:00Z\",\"2025-10-04T07:00Z\",\"2025-10-05T07:00Z\",\"2025-10-11T07:00Z\",\"2025-10-12T07:00Z\",\"2025-10-18T07"
- },
- {
-  "k": "r",
-  "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/270559/teams",
-  "code": 200,
-  "body": "{\"sports\":[{\"id\":\"300\",\"leagues\":[{\"abbreviation\":\"TOP14\",\"id\":\"8005\",\"name\":\"French Top 14\",\"season\":{\"displayName\":\"2026\",\"year\":2026},\"shortName\":\"TOP14\",\"slug\":\"270559\",\"teams\":[{\"team\":{\"abbreviation\":\"BAY\",\"color\":\"6699CC\",\"displayName\":\"Bayonne\",\"id\":\"25912\",\"isActive\":true,\"isAllStar\":false,\"links\":[{\"href\":\"https://www.espn.com/rugby/team/_/id/25912/bayonne\",\"isExternal\":false,\"isHidden\":false,\"isPremium\":false,\"language\":\"en-US\",\"rel\":[\"clubhouse\",\"desktop\",\"team\"],\"shortText\":\"Clubhouse\",\"text\":\"Clubhouse\"}],\"name\":\"Bayonne\",\"shortDisplayName\":\"Bayonne\",\"slug\":\"bayonne\",\"uid\":\"s:300~t:25912\"}},{\"team\":{\"abbreviation\":\"UNI\",\"color\":\"000099\",\"displayName\":\"Bordeaux Begles\",\"id\":\"143737\",\"isActive\":true,\"isAllStar\":false,\"links\":[{\"href\":\"https://www.espn.com/rugby/team/_/id/143737/bordeaux-begles\",\"isExternal\":false,\"isHidden\":false,\"isPremium\":false,\"language\":\"en-US\",\"rel\":[\"c"
- },
- {
-  "k": "r",
-  "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.nations/teams",
-  "code": 200,
-  "body": "{\"sports\":[{\"id\":\"600\",\"leagues\":[{\"abbreviation\":\"UEFA Nations League\",\"id\":\"2395\",\"name\":\"UEFA Nations League\",\"season\":{\"displayName\":\"2026\",\"year\":2026},\"shortName\":\"UEFA Nations League\",\"slug\":\"uefa.nations\",\"teams\":[{\"team\":{\"abbreviation\":\"ALB\",\"alternateColor\":\"ffffff\",\"color\":\"E70000\",\"displayName\":\"Albania\",\"id\":\"585\",\"isActive\":true,\"isAllStar\":false,\"links\":[{\"href\":\"https://www.espn.com/soccer/team/_/id/585/albania\",\"isExternal\":false,\"isHidden\":false,\"isPremium\":false,\"language\":\"en-US\",\"rel\":[\"clubhouse\",\"desktop\",\"team\"],\"shortText\":\"Clubhouse\",\"text\":\"Clubhouse\"},{\"href\":\"https://www.espn.com/soccer/team/stats/_/id/585/albania\",\"isExternal\":false,\"isHidden\":false,\"isPremium\":false,\"language\":\"en-US\",\"rel\":[\"stats\",\"desktop\",\"team\"],\"shortText\":\"Stats\",\"text\":\"Stats\"},{\"href\":\"https://www.espn.com/soccer/team/fixtures/_/id/585/albania\",\"isExternal\":false,\"isHidden\":false,"
- },
- {
-  "k": "r",
-  "url": "https://api.sofascore.app/api/v1/search/all?q=Littler&page=0",
-  "code": 200,
-  "body": ""
+  "body": "",
+  "len": 0,
+  "ctype": null
  },
  {
   "k": "c",
-  "url": "https://api.sofascore.app/api/v1/search/all?q=Littler&page=0",
+  "url": "https://api.sofascore.app/api/v1/sport/handball/scheduled-events/2026-11-22",
   "code": 200,
-  "body": ""
- },
- {
-  "k": "c",
-  "url": "https://www.sofascore.com/api/v1/search/all?q=Littler&page=0",
-  "code": 403,
-  "body": "{\"error\": {\"code\": 403, \"reason\": \"Forbidden\" }}"
- },
- {
-  "k": "c",
-  "url": "https://api.sofascore.com/api/v1/search/all?q=Littler&page=0",
-  "code": 403,
-  "body": "{\"error\": {\"code\": 403, \"reason\": \"Forbidden\" }}"
+  "body": "",
+  "len": 0,
+  "ctype": null
  },
  {
   "k": "r",
-  "url": "https://biathlonresults.com/modules/sportapi/api/Events?SeasonId=2627&Level=1",
+  "url": "https://api.sofascore.app/api/v1/sport/handball/scheduled-events/2026-11-22",
+  "code": 200,
+  "body": "",
+  "len": 0,
+  "ctype": null
+ },
+ {
+  "k": "r",
+  "url": "https://biathlonresults.com/modules/sportapi/api/Events?SeasonId=2627",
   "code": 401,
-  "body": ""
+  "body": "",
+  "len": 0,
+  "ctype": null
  },
  {
-  "k": "c",
-  "url": "https://biathlonresults.com/modules/sportapi/api/Events?SeasonId=2627&Level=1",
+  "k": "r",
+  "url": "https://biathlonresults.com/modules/sportapi/api/Events?SeasonId=2526&Level=1",
   "code": 401,
-  "body": ""
+  "body": "",
+  "len": 0,
+  "ctype": null
  },
  {
   "k": "r",
-  "url": "https://biathlonresults.com/modules/sportapi/api/Seasons",
-  "code": 200,
-  "body": "[{\"SeasonId\":\"2930\",\"Description\":\"2029/2030\",\"SortOrder\":152,\"IsCurrent\":false,\"IsCurrentResults\":false,\"IsCurrentScheduled\":false},{\"SeasonId\":\"2829\",\"Description\":\"2028/2029\",\"SortOrder\":151,\"IsCurrent\":false,\"IsCurrentResults\":false,\"IsCurrentScheduled\":false},{\"SeasonId\":\"2728\",\"Description\":\"2027/2028\",\"SortOrder\":150,\"IsCurrent\":false,\"IsCurrentResults\":false,\"IsCurrentScheduled\":false},{\"SeasonId\":\"2627\",\"Description\":\"2026/2027\",\"SortOrder\":149,\"IsCurrent\":true,\"IsCurrentResults\":false,\"IsCurrentScheduled\":true},{\"SeasonId\":\"2526\",\"Description\":\"2025/2026\",\"SortOrder\":148,\"IsCurrent\":false,\"IsCurrentResults\":true,\"IsCurrentScheduled\":false},{\"SeasonId\":\"2425\",\"Description\":\"2024/2025\",\"SortOrder\":147,\"IsCurrent\":false,\"IsCurrentResults\":false,\"IsCurrentScheduled\":false},{\"SeasonId\":\"2324\",\"Description\":\"2023/2024\",\"SortOrder\":145,\"IsCurrent\":false,\"IsCurrentResults\":false,\"IsCur"
+  "url": "https://biathlonresults.com/modules/sportapi/api/Competitions?EventId=BT2627SWRLCP01",
+  "code": 401,
+  "body": "",
+  "len": 0,
+  "ctype": null
  },
  {
   "k": "r",
-  "url": "https://www.thesportsdb.com/api/v1/json/123/searchteams.php?t=Paris%20Saint-Germain",
-  "code": 200,
-  "body": "{\"teams\":null}"
+  "url": "https://biathlonresults.com/modules/sportapi/api/CupResults?CupId=BT2627SWRLCP__SMTS",
+  "code": 401,
+  "body": "",
+  "len": 0,
+  "ctype": null
  },
  {
   "k": "r",
-  "url": "https://www.thesportsdb.com/api/v1/json/123/searchplayers.php?p=Luke%20Littler",
+  "url": "https://www.thesportsdb.com/api/v1/json/123/search_all_leagues.php?s=Biathlon",
   "code": 200,
-  "body": "{\"player\":[{\"idPlayer\":\"34227027\",\"idTeam\":\"136716\",\"strPlayer\":\"Luke Littler\",\"strTeam\":\"PDC Mens\",\"strSport\":\"Darts\",\"strThumb\":\"https:\\/\\/r2.thesportsdb.com\\/images\\/media\\/player\\/thumb\\/ftz3ve1704290336.jpg\",\"strCutout\":\"https:\\/\\/r2.thesportsdb.com\\/images\\/media\\/player\\/cutout\\/ymntrt1704290632.png\",\"strNationality\":\"England\",\"dateBorn\":\"2007-01-21\",\"strStatus\":\"Active\",\"strGender\":\"Male\",\"strPosition\":\"Darts Player\",\"relevance\":\"31.61965560913086\"}]}"
+  "body": "{\"countries\":null}",
+  "len": 18,
+  "ctype": "application/json; charset=utf-8"
+ },
+ {
+  "k": "r",
+  "url": "https://www.thesportsdb.com/api/v1/json/123/searchteams.php?t=Paris%20SG",
+  "code": 200,
+  "body": "{\"teams\":[{\"idTeam\":\"153855\",\"idESPN\":\"0\",\"idAPIfootball\":\"9967\",\"intLoved\":null,\"strTeam\":\"Torcy\",\"strTeamAlternate\":\"Union Sportive Torcy-Paris Vallée de la Marne Football\",\"strTeamShort\":\"\",\"intFormedYear\":\"1942\",\"strSport\":\"Soccer\",\"strLeague\":\"French National 2 Group F\",\"idLeague\":\"5782\",\"strLeague2\":\"\",\"idLeague2\":null,\"strLeague3\":\"\",\"idLeague3\":null,\"strLeague4\":\"\",\"idLeague4\":null,\"strLeague5\":\"\",\"idLeague5\":null,\"strLeague6\":\"\",\"idLeague6\":null,\"strLeague7\":\"\",\"idLeague7\":null,\"strDivision\":null,\"idVenue\":\"32458\",\"strStadium\":\"Stade du Frémoy\",\"strKeywords\":\"\",\"strRSS\":\"\",\"strLocation\":\"Torcy, Seine-et-Marne, Île-de-France, France\",\"strWebsite\":\"\",\"strFacebook\":\"\",\"strTwitter\":\"\",\"strInstagram\":\"\",\"strDescriptionEN\":\"Union Sportive Torcy-Paris Vallée de la Marne Football is a football club based in Torcy, Seine-et-Marne, France, founded in 1942.\\r\\n\\r\\nUS Torcy is known for its",
+  "len": 2540,
+  "ctype": "application/json; charset=utf-8"
+ },
+ {
+  "k": "r",
+  "url": "https://www.thesportsdb.com/api/v1/json/123/search_all_leagues.php?s=Darts",
+  "code": 200,
+  "body": "{\"countries\":[{\"idLeague\":\"4561\",\"idAPIfootball\":null,\"idAPIfootballv3\":null,\"strSport\":\"Darts\",\"strLeague\":\"BDO Darts\",\"strLeagueAlternate\":\"British Darts Organisation\",\"intDivision\":\"200\",\"idCup\":\"0\",\"strCurrentSeason\":\"2020\",\"intFormedYear\":\"0\",\"dateFirstEvent\":\"2019-01-05\",\"strGender\":\"Male\",\"strCountry\":\"England\",\"strWebsite\":\"www.bdodarts.com\",\"strFacebook\":\"\",\"strInstagram\":\"\",\"strTwitter\":\"\",\"strYoutube\":\"\",\"strRSS\":\"\",\"strDescriptionEN\":\"The British Darts Organisation (BDO) was a darts organisation founded on 7 January 1973 by Olly Croft, and dissolved in 2020 under the stewardship of Des Jacklin. Made up of 66 member counties, it oversaw professional, semi-professional and amateur darts competitions in Britain. The BDO was a founder member of the World Darts Federation in 1974. It also staged a World Professional Darts Championship from 1978 to 2020.\\r\\n\\r\\nIn the early 1990s, ",
+  "len": 7219,
+  "ctype": "application/json; charset=utf-8"
  },
  {
   "k": "r",
   "url": "https://liquipedia.net/valorant/api.php?action=parse&page=Gentle_Mates&format=json&prop=text",
-  "code": 403,
-  "body": "<!DOCTYPE html>\n<html>\n  <head>\n    <title>403 Forbidden. See liquipedia.net/api-terms-of-use</title>\n  </head>\n  <body>\n    <h1>Error 403 Forbidden. See liquipedia.net/api-terms-of-use</h1>\n    <p>Forbidden. See liquipedia.net/api-terms-of-use</p>\n    <h3>Guru Meditation:</h3>\n    <p>XID: 275347512</p>\n    <hr>\n    <p>Varnish cache server</p>\n  </body>\n</html>\n"
- },
- {
-  "k": "r",
-  "url": "https://api.pandascore.co/teams?search[name]=Gentle",
-  "code": 403,
-  "body": "{\"error\":\"Token is missing\"}"
+  "code": 200,
+  "body": "{\"parse\":{\"title\":\"Gentle Mates\",\"pageid\":44380,\"text\":{\"*\":\"<div class=\\\"mw-content-ltr mw-parser-output\\\" lang=\\\"en\\\" dir=\\\"ltr\\\"><div data-analytics-name=\\\"Navigation tab\\\"><div class=\\\"tabs-static\\\" data-nosnippet=\\\"\\\" data-tabs-static=\\\"\\\"><div class=\\\"tabs-nav-wrapper\\\" data-tabs-nav-wrapper=\\\"\\\"><div class=\\\"tabs-scroll-arrow-wrapper tabs-scroll-arrow-wrapper--left\\\" data-tabs-arrow-left=\\\"\\\"><div class=\\\"button button--ghost tabs-scroll-arrow tabs-scroll-arrow--left\\\" title=\\\"Previous\\\" role=\\\"button\\\" aria-label=\\\"Previous\\\" tabindex=\\\"0\\\"><span style=\\\"display:inline-flex\\\"><i class=\\\"fas fa-chevron-left fa-xs\\\"></i></span></div></div><ul class=\\\"nav nav-tabs navigation-not-searchable tabs tabs2\\\" data-nosnippet=\\\"\\\" data-tabs-nav=\\\"\\\"><li class=\\\"active\\\"><span><span class=\\\"team-template-team-standard\\\" data-highlighting-class=\\\"Gentle Mates\\\"><span class=\\\"team-template-imag",
+  "len": 317174,
+  "ctype": "application/json; charset=utf-8"
  }
 ]
