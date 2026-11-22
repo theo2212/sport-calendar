@@ -1,11 +1,13 @@
 """Source ESPN (API publique du site) : foot, basket, rugby.
 
-On interroge le « scoreboard » de chaque compétition par tranches de dates
-puis on garde les matchs où joue une équipe suivie. Pas besoin d'identifiant :
-le nom suffit.
+- foot / basket : on retrouve l'identifiant ESPN de l'équipe par son nom,
+  puis on lit son calendrier (toutes compétitions) + ses résultats.
+- rugby : le calendrier par équipe n'existe pas chez ESPN → on parcourt les
+  journées (vendredi→dimanche + dates connues) des compétitions suivies.
 """
 from __future__ import annotations
 
+from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timedelta, timezone
 
 from .common import DURATION_MIN, EMOJI, Event, get_json, matches, result_mark
@@ -13,34 +15,140 @@ from .common import DURATION_MIN, EMOJI, Event, get_json, matches, result_mark
 BASE = "https://site.api.espn.com/apis/site/v2/sports"
 SPORT_PATH = {"foot": "soccer", "basket": "basketball", "rugby": "rugby"}
 
-# Compétitions parcourues par défaut (complétables par équipe avec `ligues:`)
-DEFAULT_LEAGUES = {
-    "foot": [
-        "fra.1", "fra.coupe_de_france", "fra.super_cup",
-        "uefa.champions", "uefa.europa", "uefa.europa.conf",
-        "uefa.nations", "fifa.friendly", "fifa.worldq.uefa", "uefa.euroq",
-        "fifa.world", "uefa.euro",
-    ],
-    "basket": ["nba"],
-    "rugby": [
-        "270559",  # Top 14
-        "271937",  # Champions Cup
-        "272073",  # Challenge Cup
-        "180659",  # Six Nations
-        "289234",  # Tests internationaux
-        "164205",  # Coupe du monde
-    ],
+# Où chercher l'équipe (foot/basket)
+LOOKUP_LEAGUES = {
+    "foot": ["fra.1", "fra.2", "eng.1", "esp.1", "ita.1", "ger.1", "uefa.champions",
+             "uefa.nations", "fifa.world", "fifa.friendly"],
+    "basket": ["nba", "wnba"],
+}
+# Compétitions parcourues pour le rugby
+RUGBY_LEAGUES = {
+    "270559": "Top 14", "271937": "Champions Cup", "272073": "Challenge Cup",
+    "180659": "Tournoi des Six Nations", "289234": "Test-match", "164205": "Coupe du monde",
 }
 
 
-def _chunks(start: datetime, end: datetime, days: int = 28):
-    cur = start
-    while cur < end:
-        nxt = min(cur + timedelta(days=days), end)
-        yield cur, nxt
-        cur = nxt + timedelta(days=1)
+def fetch(sport: str, teams: list[dict], start: datetime, end: datetime, log: dict) -> list[Event]:
+    if sport == "rugby":
+        return _fetch_scan(sport, teams, start, end, log)
+    return _fetch_schedule(sport, teams, start, end, log)
 
 
+# ── foot / basket ────────────────────────────────────────────────────────────
+def _resolve(sport, spec, cache):
+    path = SPORT_PATH[sport]
+    leagues = [str(x) for x in (spec.get("ligues") or [])] + LOOKUP_LEAGUES[sport]
+    for lg in leagues:
+        if lg not in cache:
+            try:
+                data = get_json(f"{BASE}/{path}/{lg}/teams", retries=1)
+                cache[lg] = [t["team"] for t in data["sports"][0]["leagues"][0]["teams"]]
+            except Exception:
+                cache[lg] = []
+        exact = [t for t in cache[lg] if t.get("displayName", "").lower() == spec["nom"].lower()]
+        cands = exact or [t for t in cache[lg] if matches(
+            spec["match"], t.get("displayName", ""), t.get("shortDisplayName", ""),
+            t.get("name", ""), t.get("location", ""))]
+        if cands:
+            return cands[0], lg
+    return None, None
+
+
+def _fetch_schedule(sport, teams, start, end, log):
+    path = SPORT_PATH[sport]
+    found: dict[str, Event] = {}
+    cache: dict = {}
+    log["par_equipe"] = {}
+    for spec in teams:
+        info = log["par_equipe"].setdefault(spec["nom"], {})
+        if spec.get("espn_id"):
+            team, lg = {"id": spec["espn_id"], "displayName": spec["nom"]}, spec.get("ligue", "all")
+        else:
+            team, lg = _resolve(sport, spec, cache)
+        if not team:
+            info["erreur"] = "équipe introuvable chez ESPN"
+            info["matchs"] = 0
+            continue
+        info["trouve"] = f"{team.get('displayName')} (id {team['id']}, {lg})"
+        lg_path = "all" if sport == "foot" else lg
+        base = f"{BASE}/{path}/{lg_path}/teams/{team['id']}/schedule"
+        urls = [base, base + ("?fixture=true" if sport == "foot" else "?seasontype=3")]
+        n = 0
+        for u in urls:
+            try:
+                data = get_json(u, retries=1)
+            except Exception as exc:
+                if "seasontype" not in u:
+                    info.setdefault("avertissements", []).append(str(exc))
+                continue
+            for ev in data.get("events", []):
+                lname = (ev.get("league") or {}).get("name") or (ev.get("seasonType") or {}).get("name", "")
+                e = _build(sport, ev, lname, [spec], start, end)
+                if e and e.uid not in found:
+                    found[e.uid] = e
+                    n += 1
+        info["matchs"] = n
+    return list(found.values())
+
+
+# ── rugby ────────────────────────────────────────────────────────────────────
+def _fetch_scan(sport, teams, start, end, log):
+    path = SPORT_PATH[sport]
+    leagues = dict(RUGBY_LEAGUES)
+    for t in teams:
+        for lg in t.get("ligues", []) or []:
+            leagues.setdefault(str(lg), str(lg))
+
+    days, d = set(), start.date()
+    while d <= end.date():
+        if d.weekday() >= 4:          # ven, sam, dim
+            days.add(d)
+        d += timedelta(days=1)
+
+    jobs = []
+    for lg in leagues:
+        extra = set()
+        try:
+            cal = (get_json(f"{BASE}/{path}/{lg}/scoreboard", retries=1).get("leagues") or [{}])[0].get("calendar") or []
+            for c in cal:
+                s = c if isinstance(c, str) else c.get("startDate", "")
+                if s:
+                    dd = datetime.fromisoformat(s.replace("Z", "+00:00")).date()
+                    if start.date() <= dd <= end.date():
+                        extra.add(dd)
+        except Exception:
+            pass
+        jobs += [(lg, dd) for dd in sorted(days | extra)]
+
+    def one(job):
+        lg, dd = job
+        try:
+            return lg, get_json(f"{BASE}/{path}/{lg}/scoreboard", {"dates": f"{dd:%Y%m%d}"}, retries=1)
+        except Exception as exc:
+            return lg, exc
+
+    found: dict[str, Event] = {}
+    per_team = {t["nom"]: 0 for t in teams}
+    stats = {lg: {"requetes": 0, "erreurs": 0, "matchs_vus": 0} for lg in leagues}
+    with ThreadPoolExecutor(max_workers=8) as pool:
+        for lg, data in pool.map(one, jobs):
+            stats[lg]["requetes"] += 1
+            if isinstance(data, Exception):
+                stats[lg]["erreurs"] += 1
+                stats[lg]["derniere_erreur"] = str(data)[:200]
+                continue
+            for ev in data.get("events", []):
+                stats[lg]["matchs_vus"] += 1
+                e = _build(sport, ev, leagues[lg], teams, start, end)
+                if e and e.uid not in found:
+                    found[e.uid] = e
+                    per_team[e._team] += 1
+    log["ligues"] = stats
+    log["par_equipe"] = {k: {"matchs": v} for k, v in per_team.items()}
+    return list(found.values())
+
+
+# ── construction d'un événement ──────────────────────────────────────────────
 def _score(c):
     s = c.get("score")
     if isinstance(s, dict):
@@ -55,44 +163,16 @@ def _name(c):
 
 def _all_names(c):
     t = c.get("team", {})
-    return [t.get(k, "") for k in ("displayName", "shortDisplayName", "name", "location", "nickname")]
+    return [t.get(k, "") or "" for k in ("displayName", "shortDisplayName", "name", "location", "nickname")]
 
 
-def fetch(sport: str, teams: list[dict], start: datetime, end: datetime, log: dict) -> list[Event]:
-    path = SPORT_PATH[sport]
-    leagues = list(DEFAULT_LEAGUES[sport])
-    for t in teams:
-        for lg in t.get("ligues", []) or []:
-            if str(lg) not in leagues:
-                leagues.append(str(lg))
-
-    found: dict[str, Event] = {}
-    per_team = {t["nom"]: 0 for t in teams}
-    log["ligues"] = {}
-
-    for lg in leagues:
-        n_ev, err = 0, None
-        for s, e in _chunks(start, end):
-            try:
-                data = get_json(f"{BASE}/{path}/{lg}/scoreboard",
-                                {"dates": f"{s:%Y%m%d}-{e:%Y%m%d}", "limit": 1000})
-            except Exception as exc:
-                err = str(exc)
-                continue
-            league_name = (data.get("leagues") or [{}])[0].get("name", lg)
-            for ev in data.get("events", []):
-                n_ev += 1
-                ev_obj = _build(sport, ev, league_name, teams, per_team)
-                if ev_obj and ev_obj.uid not in found:
-                    found[ev_obj.uid] = ev_obj
-                    per_team[ev_obj._team] += 1
-        log["ligues"][lg] = {"evenements_vus": n_ev, **({"erreur": err} if err else {})}
-
-    log["par_equipe"] = per_team
-    return list(found.values())
-
-
-def _build(sport, ev, league_name, teams, per_team) -> Event | None:
+def _build(sport, ev, league_name, teams, start_w, end_w) -> Event | None:
+    try:
+        start = datetime.fromisoformat(ev["date"].replace("Z", "+00:00")).astimezone(timezone.utc)
+    except Exception:
+        return None
+    if not (start_w <= start <= end_w):
+        return None
     comp = (ev.get("competitions") or [{}])[0]
     comps = comp.get("competitors") or []
     if len(comps) < 2:
@@ -113,29 +193,25 @@ def _build(sport, ev, league_name, teams, per_team) -> Event | None:
     away = next((c for c in comps if c is not home), comps[1])
     st = (comp.get("status") or ev.get("status") or {}).get("type", {})
     state = st.get("state", "pre")
-    name_code = st.get("name", "")
+    code = st.get("name", "")
     emoji = EMOJI[sport]
 
-    start = datetime.fromisoformat(ev["date"].replace("Z", "+00:00")).astimezone(timezone.utc)
-
-    if "POSTPONED" in name_code:
+    prefix = ""
+    if "POSTPONED" in code:
         state, prefix = "postponed", "[Reporté] "
-    elif "CANCEL" in name_code:
+    elif "CANCEL" in code:
         state, prefix = "canceled", "[Annulé] "
-    else:
-        prefix = ""
 
     if state == "post":
-        hs, as_ = _score(home), _score(away)
         other = away if ours[1] is home else home
         mark = result_mark(_score(ours[1]), _score(other))
-        title = f"{emoji} {_name(home)} {hs}–{as_} {_name(away)} {mark}".strip()
+        title = f"{emoji} {_name(home)} {_score(home)}–{_score(away)} {_name(away)} {mark}".strip()
     elif state == "in":
         title = f"{emoji} 🔴 {_name(home)} {_score(home)}–{_score(away)} {_name(away)}"
     else:
         title = f"{emoji} {prefix}{_name(home)} – {_name(away)}"
 
-    desc = [f"🏆 {league_name}"]
+    desc = [f"🏆 {league_name}"] if league_name else []
     if comp.get("timeValid") is False or ev.get("timeValid") is False:
         desc.append("⏰ Horaire à confirmer")
     if st.get("description") and state != "pre":
@@ -145,9 +221,9 @@ def _build(sport, ev, league_name, teams, per_team) -> Event | None:
     link = next((l.get("href") for l in ev.get("links", []) if l.get("href")), "")
 
     e = Event(
-        uid=f"espn-{sport}-{ev['id']}",
-        sport=sport, title=title, start=start, duration_min=DURATION_MIN[sport],
-        description="\n".join(desc), location=loc, url=link, state=state,
+        uid=f"espn-{sport}-{ev['id']}", sport=sport, title=title, start=start,
+        duration_min=DURATION_MIN[sport], description="\n".join(desc), location=loc,
+        url=link, state=state,
     )
     e._team = ours[0]["nom"]
     return e

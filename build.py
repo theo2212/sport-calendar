@@ -15,7 +15,7 @@ from pathlib import Path
 
 import yaml
 
-from sportcal import biathlon, espn, f1, ics, sofascore
+from sportcal import biathlon, espn, f1, ics, liquipedia, thesportsdb
 from sportcal.common import Event, team_spec
 
 ROOT = Path(__file__).parent
@@ -51,15 +51,17 @@ def collect(cfg: dict, start, end, status: dict) -> dict[str, list[Event] | None
                 res[sport] = f1.fetch(start, end, log) if _enabled(val) else []
             else:
                 teams = [team_spec(x) for x in (val or [])]
-                if sport in espn.SPORT_PATH:
+                if sport == "esport":
+                    evs = liquipedia.fetch(teams, start, end, log)
+                elif sport in espn.SPORT_PATH:
                     evs = espn.fetch(sport, teams, start, end, log)
-                    # Équipe sans aucun match chez ESPN → on tente Sofascore
-                    missing = [t for t in teams if log.get("par_equipe", {}).get(t["nom"], 0) == 0]
+                    # Équipe sans aucun match chez ESPN → on tente TheSportsDB
+                    missing = [t for t in teams if log.get("par_equipe", {}).get(t["nom"], {}).get("matchs", 0) == 0]
                     if missing:
-                        log["repli_sofascore"] = {}
-                        evs += sofascore.fetch(sport, missing, start, end, log["repli_sofascore"])
+                        log["repli_thesportsdb"] = {}
+                        evs += thesportsdb.fetch(sport, missing, start, end, log["repli_thesportsdb"])
                 else:
-                    evs = sofascore.fetch(sport, teams, start, end, log)
+                    evs = thesportsdb.fetch(sport, teams, start, end, log)
                 res[sport] = evs
             log["ok"] = True
             log["nb_evenements"] = len(res[sport])
