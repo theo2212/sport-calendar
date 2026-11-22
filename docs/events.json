@@ -2828,19 +2828,19 @@
  "f1-2026-21": {
   "event": {
    "all_day": false,
-   "description": "🏆 Formule 1 2026 – manche 21\nLas Vegas Strip Street Circuit",
+   "description": "🏆 Formule 1 2026 – manche 21\nLas Vegas Strip Street Circuit\n\nPodium :\n🥇 Verstappen (Red Bull)\n🥈 Norris (McLaren)\n🥉 Piastri (McLaren)",
    "duration_min": 120,
    "location": "Las Vegas, USA",
    "sport": "f1",
    "start": "2026-11-22T04:00:00+00:00",
-   "state": "pre",
-   "title": "🏎️ GP Las Vegas",
+   "state": "post",
+   "title": "🏎️ GP Las Vegas · 🏆 Verstappen (Red Bull)",
    "uid": "f1-2026-21",
    "url": "https://en.wikipedia.org/wiki/2026_Las_Vegas_Grand_Prix"
   },
-  "hash": "22c833087be0d302d671258d6ac666d98c66e303",
-  "modified": "2026-11-22T02:47:37.266512+00:00",
-  "seq": 0,
+  "hash": "e20068e11f9fa6c7d37bc2c82c350289b184a438",
+  "modified": "2026-11-22T12:40:09.738222+00:00",
+  "seq": 1,
   "sport": "f1"
  },
  "f1-2026-22": {
@@ -4381,14 +4381,14 @@
    "location": "Stade de France",
    "sport": "rugby",
    "start": "2026-11-21T20:10:00+00:00",
-   "state": "pre",
-   "title": "🏉 France Rugby – Argentina Rugby",
+   "state": "post",
+   "title": "🏉 France Rugby 45–17 Argentina Rugby ✅",
    "uid": "tsdb-2449615",
    "url": ""
   },
-  "hash": "b15b05412db79981ccfc60b7bde926b34c147279",
-  "modified": "2026-11-22T03:04:40.876568+00:00",
-  "seq": 0,
+  "hash": "009e54ad5404817861a516dca68810b6378e0d94",
+  "modified": "2026-11-22T12:40:09.738222+00:00",
+  "seq": 1,
   "sport": "rugby"
  },
  "tsdb-2457890": {
