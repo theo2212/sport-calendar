@@ -17,3 +17,9 @@ Modifie `config.yaml` (même depuis l'app GitHub). Le calendrier se régénère 
 ## Sources
 ESPN (foot, basket, rugby) · TheSportsDB (hand, autres) · PDC (fléchettes) · biathlonworld.com (biathlon) · Liquipedia (esport) · Jolpica (F1).
 L'état de chaque source est visible dans `docs/status.json`.
+
+## Widget écran d'accueil (Scriptable)
+1. Installe l'app gratuite **Scriptable** (App Store).
+2. Ouvre `widget/MesSports.js` → bouton « Raw » → copie tout → dans Scriptable, **+** → colle → nomme-le « Mes sports ».
+3. Écran d'accueil → appui long → **+** → Scriptable → taille Grande → touche le widget → Script : « Mes sports ».
+   Paramètre (facultatif) : `foot`, `rugby`, `biathlon`… pour un widget par sport.
