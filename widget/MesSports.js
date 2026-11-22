@@ -121,6 +121,6 @@ for (const e of items) {
 w.addSpacer();
 w.refreshAfterDate = new Date(Date.now() + 30 * 60e3);
 
-if (config.runsInWidget) Script.setWidget(w);
-else await w.presentLarge();
+Script.setWidget(w);
+if (!config.runsInWidget) await w.presentLarge();
 Script.complete();
