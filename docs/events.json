@@ -1,4 +1,2416 @@
 {
+ "espn-basket-401909096": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Regular Season\nStatut : Final",
+   "duration_min": 150,
+   "location": "Moody Center, Austin",
+   "sport": "basket",
+   "start": "2026-10-24T01:30:00+00:00",
+   "state": "post",
+   "title": "🏀 Spurs 110–114 Rockets ❌",
+   "uid": "espn-basket-401909096",
+   "url": "https://www.espn.com/nba/game/_/gameId/401909096/rockets-spurs"
+  },
+  "hash": "44065dd748cec7736e322b1abf6f49205f6321fb",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "basket"
+ },
+ "espn-basket-401909097": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Regular Season",
+   "duration_min": 150,
+   "location": "Madison Square Garden, New York",
+   "sport": "basket",
+   "start": "2026-12-25T17:00:00+00:00",
+   "state": "pre",
+   "title": "🏀 Knicks – Spurs",
+   "uid": "espn-basket-401909097",
+   "url": "https://www.espn.com/nba/game/_/gameId/401909097/spurs-knicks"
+  },
+  "hash": "540b58a0e28d17845c1caeacaf55081ca6220bb8",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "basket"
+ },
+ "espn-basket-401909295": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Regular Season\nStatut : Final",
+   "duration_min": 150,
+   "location": "Golden 1 Center, Sacramento",
+   "sport": "basket",
+   "start": "2026-11-07T03:00:00+00:00",
+   "state": "post",
+   "title": "🏀 Kings 109–124 Spurs ✅",
+   "uid": "espn-basket-401909295",
+   "url": "https://www.espn.com/nba/game/_/gameId/401909295/spurs-kings"
+  },
+  "hash": "07c867bd90e9f9dfa67b9c957fd61b071966d560",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "basket"
+ },
+ "espn-basket-401909302": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Regular Season\nStatut : Final",
+   "duration_min": 150,
+   "location": "Frost Bank Center, San Antonio",
+   "sport": "basket",
+   "start": "2026-11-14T02:30:00+00:00",
+   "state": "post",
+   "title": "🏀 Spurs 123–85 Warriors ✅",
+   "uid": "espn-basket-401909302",
+   "url": "https://www.espn.com/nba/game/_/gameId/401909302/warriors-spurs"
+  },
+  "hash": "7a5c20c8a18395ebb4ad889e25e9e232acb04f25",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "basket"
+ },
+ "espn-basket-401909325": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Regular Season",
+   "duration_min": 150,
+   "location": "Moda Center, Portland",
+   "sport": "basket",
+   "start": "2026-11-26T03:00:00+00:00",
+   "state": "pre",
+   "title": "🏀 Trail Blazers – Spurs",
+   "uid": "espn-basket-401909325",
+   "url": "https://www.espn.com/nba/game/_/gameId/401909325/spurs-trail-blazers"
+  },
+  "hash": "8fcbcaabb3e82a7ce97d420eccd3372b2c87b5df",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "basket"
+ },
+ "espn-basket-401909333": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Regular Season",
+   "duration_min": 150,
+   "location": "Frost Bank Center, San Antonio",
+   "sport": "basket",
+   "start": "2026-11-28T02:30:00+00:00",
+   "state": "pre",
+   "title": "🏀 Spurs – Lakers",
+   "uid": "espn-basket-401909333",
+   "url": "https://www.espn.com/nba/game/_/gameId/401909333/lakers-spurs"
+  },
+  "hash": "fdf5f38736339256fa7b36d143183b57a3ccc865",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "basket"
+ },
+ "espn-basket-401909479": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Regular Season",
+   "duration_min": 150,
+   "location": "Kaseya Center, Miami",
+   "sport": "basket",
+   "start": "2027-02-15T22:00:00+00:00",
+   "state": "pre",
+   "title": "🏀 Heat – Spurs",
+   "uid": "espn-basket-401909479",
+   "url": "https://www.espn.com/nba/game/_/gameId/401909479/spurs-heat"
+  },
+  "hash": "486901d6838c335da173025ba4ab39526fcf8c89",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "basket"
+ },
+ "espn-basket-401909858": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Regular Season\nStatut : Final",
+   "duration_min": 150,
+   "location": "American Airlines Center, Dallas",
+   "sport": "basket",
+   "start": "2026-10-25T00:00:00+00:00",
+   "state": "post",
+   "title": "🏀 Mavericks 106–122 Spurs ✅",
+   "uid": "espn-basket-401909858",
+   "url": "https://www.espn.com/nba/game/_/gameId/401909858/spurs-mavericks"
+  },
+  "hash": "d83a901f099ebbbe8bf27dc2340d037efa9c9ea5",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "basket"
+ },
+ "espn-basket-401909879": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Regular Season\nStatut : Final",
+   "duration_min": 150,
+   "location": "Frost Bank Center, San Antonio",
+   "sport": "basket",
+   "start": "2026-10-28T00:00:00+00:00",
+   "state": "post",
+   "title": "🏀 Spurs 130–103 Kings ✅",
+   "uid": "espn-basket-401909879",
+   "url": "https://www.espn.com/nba/game/_/gameId/401909879/kings-spurs"
+  },
+  "hash": "74922bfc8d92350b9d02bfcc8539e0db9484d2ae",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "basket"
+ },
+ "espn-basket-401909890": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Regular Season\nStatut : Final",
+   "duration_min": 150,
+   "location": "Delta Center, Salt Lake City",
+   "sport": "basket",
+   "start": "2026-10-29T01:00:00+00:00",
+   "state": "post",
+   "title": "🏀 Jazz 111–117 Spurs ✅",
+   "uid": "espn-basket-401909890",
+   "url": "https://www.espn.com/nba/game/_/gameId/401909890/spurs-jazz"
+  },
+  "hash": "65eb2238765db0d72ad2180dc9479ca750ee26e7",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "basket"
+ },
+ "espn-basket-401909901": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Regular Season\nStatut : Final",
+   "duration_min": 150,
+   "location": "Frost Bank Center, San Antonio",
+   "sport": "basket",
+   "start": "2026-11-01T00:00:00+00:00",
+   "state": "post",
+   "title": "🏀 Spurs 121–111 Timberwolves ✅",
+   "uid": "espn-basket-401909901",
+   "url": "https://www.espn.com/nba/game/_/gameId/401909901/timberwolves-spurs"
+  },
+  "hash": "80f6754666badc76c649f516959007aa87727551",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "basket"
+ },
+ "espn-basket-401909917": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Regular Season\nStatut : Final",
+   "duration_min": 150,
+   "location": "Frost Bank Center, San Antonio",
+   "sport": "basket",
+   "start": "2026-11-03T01:30:00+00:00",
+   "state": "post",
+   "title": "🏀 Spurs 119–97 Jazz ✅",
+   "uid": "espn-basket-401909917",
+   "url": "https://www.espn.com/nba/game/_/gameId/401909917/jazz-spurs"
+  },
+  "hash": "ebe79b13a43665d0d66d5f9dd9b99321e3e5e9e0",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "basket"
+ },
+ "espn-basket-401909933": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Regular Season\nStatut : Final",
+   "duration_min": 150,
+   "location": "Frost Bank Center, San Antonio",
+   "sport": "basket",
+   "start": "2026-11-05T02:30:00+00:00",
+   "state": "post",
+   "title": "🏀 Spurs 112–111 Mavericks ✅",
+   "uid": "espn-basket-401909933",
+   "url": "https://www.espn.com/nba/game/_/gameId/401909933/mavericks-spurs"
+  },
+  "hash": "96d766d75acc9ec8d49bbcd54b8bb4c81914b6a1",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "basket"
+ },
+ "espn-basket-401909944": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Regular Season\nStatut : Final",
+   "duration_min": 150,
+   "location": "Moda Center, Portland",
+   "sport": "basket",
+   "start": "2026-11-08T03:00:00+00:00",
+   "state": "post",
+   "title": "🏀 Trail Blazers 103–125 Spurs ✅",
+   "uid": "espn-basket-401909944",
+   "url": "https://www.espn.com/nba/game/_/gameId/401909944/spurs-trail-blazers"
+  },
+  "hash": "7d6e4c3d68b27db446860edf40259087e519e630",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "basket"
+ },
+ "espn-basket-401909958": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Regular Season\nStatut : Final",
+   "duration_min": 150,
+   "location": "Mortgage Matchup Center, Phoenix",
+   "sport": "basket",
+   "start": "2026-11-10T02:00:00+00:00",
+   "state": "post",
+   "title": "🏀 Suns 96–122 Spurs ✅",
+   "uid": "espn-basket-401909958",
+   "url": "https://www.espn.com/nba/game/_/gameId/401909958/spurs-suns"
+  },
+  "hash": "2f3a62d2924c3b98bcda715313cab7a050e50a68",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "basket"
+ },
+ "espn-basket-401909969": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Regular Season\nStatut : Final",
+   "duration_min": 150,
+   "location": "United Center, Chicago",
+   "sport": "basket",
+   "start": "2026-11-12T01:00:00+00:00",
+   "state": "post",
+   "title": "🏀 Bulls 119–124 Spurs ✅",
+   "uid": "espn-basket-401909969",
+   "url": "https://www.espn.com/nba/game/_/gameId/401909969/spurs-bulls"
+  },
+  "hash": "ffb01215b314e79acc3537799b859f8724b41d5b",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "basket"
+ },
+ "espn-basket-401909988": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Regular Season\nStatut : Final",
+   "duration_min": 150,
+   "location": "Delta Center, Salt Lake City",
+   "sport": "basket",
+   "start": "2026-11-15T22:00:00+00:00",
+   "state": "post",
+   "title": "🏀 Jazz 102–110 Spurs ✅",
+   "uid": "espn-basket-401909988",
+   "url": "https://www.espn.com/nba/game/_/gameId/401909988/spurs-jazz"
+  },
+  "hash": "b8540d1dcdf1aae1252b1958e8a38d2026e3eaf6",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "basket"
+ },
+ "espn-basket-401910004": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Regular Season\nStatut : Final",
+   "duration_min": 150,
+   "location": "Frost Bank Center, San Antonio",
+   "sport": "basket",
+   "start": "2026-11-18T01:00:00+00:00",
+   "state": "post",
+   "title": "🏀 Spurs 93–105 Pistons ❌",
+   "uid": "espn-basket-401910004",
+   "url": "https://www.espn.com/nba/game/_/gameId/401910004/pistons-spurs"
+  },
+  "hash": "58f91581b428fa36f1f0b2215fff417d63720014",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "basket"
+ },
+ "espn-basket-401910022": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Regular Season\nStatut : Final",
+   "duration_min": 150,
+   "location": "Frost Bank Center, San Antonio",
+   "sport": "basket",
+   "start": "2026-11-20T01:00:00+00:00",
+   "state": "post",
+   "title": "🏀 Spurs 124–112 Clippers ✅",
+   "uid": "espn-basket-401910022",
+   "url": "https://www.espn.com/nba/game/_/gameId/401910022/clippers-spurs"
+  },
+  "hash": "b36505b0253d9272e25f7f17d6132e856dcaf1ec",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "basket"
+ },
+ "espn-basket-401910027": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Regular Season\nStatut : In Progress",
+   "duration_min": 150,
+   "location": "Frost Bank Center, San Antonio",
+   "sport": "basket",
+   "start": "2026-11-22T01:00:00+00:00",
+   "state": "in",
+   "title": "🏀 🔴 Spurs None–None Pelicans",
+   "uid": "espn-basket-401910027",
+   "url": "https://www.espn.com/nba/game?gameId=401910027"
+  },
+  "hash": "a8ee23938f358f5d75f998800afaebbb564e0ae1",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "basket"
+ },
+ "espn-basket-401910045": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Regular Season",
+   "duration_min": 150,
+   "location": "Golden 1 Center, Sacramento",
+   "sport": "basket",
+   "start": "2026-11-24T03:00:00+00:00",
+   "state": "pre",
+   "title": "🏀 Kings – Spurs",
+   "uid": "espn-basket-401910045",
+   "url": "https://www.espn.com/nba/game/_/gameId/401910045/spurs-kings"
+  },
+  "hash": "db20998be556a4f03b236f735c0d176f659e65b4",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "basket"
+ },
+ "espn-basket-401910052": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Regular Season",
+   "duration_min": 150,
+   "location": "Frost Bank Center, San Antonio",
+   "sport": "basket",
+   "start": "2026-11-29T21:00:00+00:00",
+   "state": "pre",
+   "title": "🏀 Spurs – Celtics",
+   "uid": "espn-basket-401910052",
+   "url": "https://www.espn.com/nba/game/_/gameId/401910052/celtics-spurs"
+  },
+  "hash": "23c0e8841107c256bafc7ada2cbfe11a45d97a41",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "basket"
+ },
+ "espn-basket-401910066": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Regular Season",
+   "duration_min": 150,
+   "location": "Fiserv Forum, Milwaukee",
+   "sport": "basket",
+   "start": "2026-12-01T01:00:00+00:00",
+   "state": "pre",
+   "title": "🏀 Bucks – Spurs",
+   "uid": "espn-basket-401910066",
+   "url": "https://www.espn.com/nba/game/_/gameId/401910066/spurs-bucks"
+  },
+  "hash": "fd1a9841960efecb67b20e4d6ca77c9848ee1bab",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "basket"
+ },
+ "espn-basket-401910088": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Regular Season",
+   "duration_min": 150,
+   "location": "Frost Bank Center, San Antonio",
+   "sport": "basket",
+   "start": "2026-12-04T01:00:00+00:00",
+   "state": "pre",
+   "title": "🏀 Spurs – Raptors",
+   "uid": "espn-basket-401910088",
+   "url": "https://www.espn.com/nba/game/_/gameId/401910088/raptors-spurs"
+  },
+  "hash": "9e4d7bea5152900e3aec36ce6fe14d65f053faa7",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "basket"
+ },
+ "espn-basket-401910102": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Regular Season",
+   "duration_min": 150,
+   "location": "Frost Bank Center, San Antonio",
+   "sport": "basket",
+   "start": "2026-12-14T00:00:00+00:00",
+   "state": "pre",
+   "title": "🏀 Spurs – Clippers",
+   "uid": "espn-basket-401910102",
+   "url": "https://www.espn.com/nba/game/_/gameId/401910102/clippers-spurs"
+  },
+  "hash": "eef232e5573aa3edf1566a27690b46ea4b00f2f2",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "basket"
+ },
+ "espn-basket-401910115": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Regular Season",
+   "duration_min": 150,
+   "location": "Rocket Arena, Cleveland",
+   "sport": "basket",
+   "start": "2026-12-16T01:00:00+00:00",
+   "state": "pre",
+   "title": "🏀 Cavaliers – Spurs",
+   "uid": "espn-basket-401910115",
+   "url": "https://www.espn.com/nba/game/_/gameId/401910115/spurs-cavaliers"
+  },
+  "hash": "ee7b16c534151da060dde354870a9b13db9e7284",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "basket"
+ },
+ "espn-basket-401910123": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Regular Season",
+   "duration_min": 150,
+   "location": "Scotiabank Arena, Toronto",
+   "sport": "basket",
+   "start": "2026-12-17T00:30:00+00:00",
+   "state": "pre",
+   "title": "🏀 Raptors – Spurs",
+   "uid": "espn-basket-401910123",
+   "url": "https://www.espn.com/nba/game/_/gameId/401910123/spurs-raptors"
+  },
+  "hash": "7fce68087957283d06be77c1c12a84abf43d2daf",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "basket"
+ },
+ "espn-basket-401910144": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Regular Season",
+   "duration_min": 150,
+   "location": "Frost Bank Center, San Antonio",
+   "sport": "basket",
+   "start": "2026-12-19T01:00:00+00:00",
+   "state": "pre",
+   "title": "🏀 Spurs – Bulls",
+   "uid": "espn-basket-401910144",
+   "url": "https://www.espn.com/nba/game/_/gameId/401910144/bulls-spurs"
+  },
+  "hash": "43cff850c34cf7c3e4bfa254acbeccd42b16e3e1",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "basket"
+ },
+ "espn-basket-401910155": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Regular Season",
+   "duration_min": 150,
+   "location": "Smoothie King Center, New Orleans",
+   "sport": "basket",
+   "start": "2026-12-21T00:00:00+00:00",
+   "state": "pre",
+   "title": "🏀 Pelicans – Spurs",
+   "uid": "espn-basket-401910155",
+   "url": "https://www.espn.com/nba/game/_/gameId/401910155/spurs-pelicans"
+  },
+  "hash": "cb539040191c0fb1c17d9c792029f13a660a9b67",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "basket"
+ },
+ "espn-basket-401910166": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Regular Season",
+   "duration_min": 150,
+   "location": "Frost Bank Center, San Antonio",
+   "sport": "basket",
+   "start": "2026-12-22T01:00:00+00:00",
+   "state": "pre",
+   "title": "🏀 Spurs – Bucks",
+   "uid": "espn-basket-401910166",
+   "url": "https://www.espn.com/nba/game/_/gameId/401910166/bucks-spurs"
+  },
+  "hash": "f1f5b4c04f628eb515200aeef59f9a405ec48fe9",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "basket"
+ },
+ "espn-basket-401910176": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Regular Season",
+   "duration_min": 150,
+   "location": "Barclays Center, Brooklyn",
+   "sport": "basket",
+   "start": "2026-12-24T00:30:00+00:00",
+   "state": "pre",
+   "title": "🏀 Nets – Spurs",
+   "uid": "espn-basket-401910176",
+   "url": "https://www.espn.com/nba/game/_/gameId/401910176/spurs-nets"
+  },
+  "hash": "79fa5ca1716d52fefbe77cf9b604f3ade556b885",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "basket"
+ },
+ "espn-basket-401910202": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Regular Season",
+   "duration_min": 150,
+   "location": "Frost Bank Center, San Antonio",
+   "sport": "basket",
+   "start": "2026-12-28T00:00:00+00:00",
+   "state": "pre",
+   "title": "🏀 Spurs – Hawks",
+   "uid": "espn-basket-401910202",
+   "url": "https://www.espn.com/nba/game/_/gameId/401910202/hawks-spurs"
+  },
+  "hash": "332c45757f5380537b20916a2a34311b7cec50de",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "basket"
+ },
+ "espn-basket-401910215": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Regular Season",
+   "duration_min": 150,
+   "location": "FedExForum, Memphis",
+   "sport": "basket",
+   "start": "2026-12-30T01:00:00+00:00",
+   "state": "pre",
+   "title": "🏀 Grizzlies – Spurs",
+   "uid": "espn-basket-401910215",
+   "url": "https://www.espn.com/nba/game/_/gameId/401910215/spurs-grizzlies"
+  },
+  "hash": "06795a39a64f90e5c1ca05bcd9f121b64730b7b1",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "basket"
+ },
+ "espn-basket-401910226": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Regular Season",
+   "duration_min": 150,
+   "location": "Spectrum Center, Charlotte",
+   "sport": "basket",
+   "start": "2026-12-31T18:00:00+00:00",
+   "state": "pre",
+   "title": "🏀 Hornets – Spurs",
+   "uid": "espn-basket-401910226",
+   "url": "https://www.espn.com/nba/game/_/gameId/401910226/spurs-hornets"
+  },
+  "hash": "74589f67a86a6d17bf1566a15ea741319f05d912",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "basket"
+ },
+ "espn-basket-401910235": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Regular Season",
+   "duration_min": 150,
+   "location": "Capital One Arena, Washington",
+   "sport": "basket",
+   "start": "2027-01-01T22:00:00+00:00",
+   "state": "pre",
+   "title": "🏀 Wizards – Spurs",
+   "uid": "espn-basket-401910235",
+   "url": "https://www.espn.com/nba/game/_/gameId/401910235/spurs-wizards"
+  },
+  "hash": "ecd639af0521c993bc32aa5720878ed9b8766749",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "basket"
+ },
+ "espn-basket-401910257": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Regular Season",
+   "duration_min": 150,
+   "location": "Target Center, Minneapolis",
+   "sport": "basket",
+   "start": "2027-01-04T00:00:00+00:00",
+   "state": "pre",
+   "title": "🏀 Timberwolves – Spurs",
+   "uid": "espn-basket-401910257",
+   "url": "https://www.espn.com/nba/game/_/gameId/401910257/spurs-timberwolves"
+  },
+  "hash": "d4be3d1caa8f9a81f293bb5c1dbf1873896abf31",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "basket"
+ },
+ "espn-basket-401910277": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Regular Season",
+   "duration_min": 150,
+   "location": "Frost Bank Center, San Antonio",
+   "sport": "basket",
+   "start": "2027-01-07T01:00:00+00:00",
+   "state": "pre",
+   "title": "🏀 Spurs – Pacers",
+   "uid": "espn-basket-401910277",
+   "url": "https://www.espn.com/nba/game/_/gameId/401910277/pacers-spurs"
+  },
+  "hash": "3750da277f1804b1c26b91a5ce09a18f22d81149",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "basket"
+ },
+ "espn-basket-401910295": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Regular Season",
+   "duration_min": 150,
+   "location": "Frost Bank Center, San Antonio",
+   "sport": "basket",
+   "start": "2027-01-09T01:00:00+00:00",
+   "state": "pre",
+   "title": "🏀 Spurs – Grizzlies",
+   "uid": "espn-basket-401910295",
+   "url": "https://www.espn.com/nba/game/_/gameId/401910295/grizzlies-spurs"
+  },
+  "hash": "78bbd62028947ee1de406a52261aa76909ef6d97",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "basket"
+ },
+ "espn-basket-401910305": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Regular Season",
+   "duration_min": 150,
+   "location": "State Farm Arena, Atlanta",
+   "sport": "basket",
+   "start": "2027-01-10T20:00:00+00:00",
+   "state": "pre",
+   "title": "🏀 Hawks – Spurs",
+   "uid": "espn-basket-401910305",
+   "url": "https://www.espn.com/nba/game/_/gameId/401910305/spurs-hawks"
+  },
+  "hash": "101fea145342c1e85ae158af9f28b40b1a33c6f6",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "basket"
+ },
+ "espn-basket-401910334": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Regular Season",
+   "duration_min": 150,
+   "location": "Accor Arena, Paris",
+   "sport": "basket",
+   "start": "2027-01-14T19:00:00+00:00",
+   "state": "pre",
+   "title": "🏀 Spurs – Pelicans",
+   "uid": "espn-basket-401910334",
+   "url": "https://www.espn.com/nba/game/_/gameId/401910334/pelicans-spurs"
+  },
+  "hash": "97b4a08d247871afdd2edbbb45e42b97159f1e72",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "basket"
+ },
+ "espn-basket-401910357": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Regular Season",
+   "duration_min": 150,
+   "location": "Co-op Live, Manchester",
+   "sport": "basket",
+   "start": "2027-01-17T15:30:00+00:00",
+   "state": "pre",
+   "title": "🏀 Pelicans – Spurs",
+   "uid": "espn-basket-401910357",
+   "url": "https://www.espn.com/nba/game/_/gameId/401910357/spurs-pelicans"
+  },
+  "hash": "b5aed291718264b2c9844e1ffe4e7d01008fe3b2",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "basket"
+ },
+ "espn-basket-401910383": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Regular Season",
+   "duration_min": 150,
+   "location": "Frost Bank Center, San Antonio",
+   "sport": "basket",
+   "start": "2027-01-21T02:30:00+00:00",
+   "state": "pre",
+   "title": "🏀 Spurs – Heat",
+   "uid": "espn-basket-401910383",
+   "url": "https://www.espn.com/nba/game/_/gameId/401910383/heat-spurs"
+  },
+  "hash": "4aed1400715844a5ae1f0c7f51bca8644cc7bb91",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "basket"
+ },
+ "espn-basket-401910396": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Regular Season",
+   "duration_min": 150,
+   "location": "Frost Bank Center, San Antonio",
+   "sport": "basket",
+   "start": "2027-01-23T02:30:00+00:00",
+   "state": "pre",
+   "title": "🏀 Spurs – Timberwolves",
+   "uid": "espn-basket-401910396",
+   "url": "https://www.espn.com/nba/game/_/gameId/401910396/timberwolves-spurs"
+  },
+  "hash": "f4034c42e7a9e0671cd93309aaa3a788bebcbe8d",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "basket"
+ },
+ "espn-basket-401910406": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Regular Season",
+   "duration_min": 150,
+   "location": "Frost Bank Center, San Antonio",
+   "sport": "basket",
+   "start": "2027-01-24T20:30:00+00:00",
+   "state": "pre",
+   "title": "🏀 Spurs – Trail Blazers",
+   "uid": "espn-basket-401910406",
+   "url": "https://www.espn.com/nba/game/_/gameId/401910406/trail-blazers-spurs"
+  },
+  "hash": "0cd3683773336aa640cbfa57cc5224da974ce503",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "basket"
+ },
+ "espn-basket-401910424": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Regular Season",
+   "duration_min": 150,
+   "location": "Frost Bank Center, San Antonio",
+   "sport": "basket",
+   "start": "2027-01-27T01:00:00+00:00",
+   "state": "pre",
+   "title": "🏀 Spurs – Rockets",
+   "uid": "espn-basket-401910424",
+   "url": "https://www.espn.com/nba/game/_/gameId/401910424/rockets-spurs"
+  },
+  "hash": "46d4f2c881fa6a385d89494a9d0078751ef4161f",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "basket"
+ },
+ "espn-basket-401910433": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Regular Season",
+   "duration_min": 150,
+   "location": "Frost Bank Center, San Antonio",
+   "sport": "basket",
+   "start": "2027-01-28T01:00:00+00:00",
+   "state": "pre",
+   "title": "🏀 Spurs – Hornets",
+   "uid": "espn-basket-401910433",
+   "url": "https://www.espn.com/nba/game/_/gameId/401910433/hornets-spurs"
+  },
+  "hash": "a67e1ecb1bb27844530ae2b511478e291c253495",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "basket"
+ },
+ "espn-basket-401910453": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Regular Season",
+   "duration_min": 150,
+   "location": "Chase Center, San Francisco",
+   "sport": "basket",
+   "start": "2027-01-30T22:30:00+00:00",
+   "state": "pre",
+   "title": "🏀 Warriors – Spurs",
+   "uid": "espn-basket-401910453",
+   "url": "https://www.espn.com/nba/game/_/gameId/401910453/spurs-warriors"
+  },
+  "hash": "d57508f0e1c9ded1adb4b949a3b0074e470ab2b7",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "basket"
+ },
+ "espn-basket-401910473": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Regular Season",
+   "duration_min": 150,
+   "location": "Chase Center, San Francisco",
+   "sport": "basket",
+   "start": "2027-02-02T03:00:00+00:00",
+   "state": "pre",
+   "title": "🏀 Warriors – Spurs",
+   "uid": "espn-basket-401910473",
+   "url": "https://www.espn.com/nba/game/_/gameId/401910473/spurs-warriors"
+  },
+  "hash": "97915b917c185a6bf4f2a616df63071c8417863e",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "basket"
+ },
+ "espn-basket-401910480": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Regular Season",
+   "duration_min": 150,
+   "location": "Intuit Dome, Inglewood",
+   "sport": "basket",
+   "start": "2027-02-03T03:30:00+00:00",
+   "state": "pre",
+   "title": "🏀 Clippers – Spurs",
+   "uid": "espn-basket-401910480",
+   "url": "https://www.espn.com/nba/game/_/gameId/401910480/spurs-clippers"
+  },
+  "hash": "8381da3ecde2a8969dc7c5c85739680aa9e53b5d",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "basket"
+ },
+ "espn-basket-401910494": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Regular Season",
+   "duration_min": 150,
+   "location": "Frost Bank Center, San Antonio",
+   "sport": "basket",
+   "start": "2027-02-05T01:00:00+00:00",
+   "state": "pre",
+   "title": "🏀 Spurs – Magic",
+   "uid": "espn-basket-401910494",
+   "url": "https://www.espn.com/nba/game/_/gameId/401910494/magic-spurs"
+  },
+  "hash": "67e4900794fa6f30fe430e68edade1b4b25f054b",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "basket"
+ },
+ "espn-basket-401910511": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Regular Season",
+   "duration_min": 150,
+   "location": "Frost Bank Center, San Antonio",
+   "sport": "basket",
+   "start": "2027-02-07T01:30:00+00:00",
+   "state": "pre",
+   "title": "🏀 Spurs – Lakers",
+   "uid": "espn-basket-401910511",
+   "url": "https://www.espn.com/nba/game/_/gameId/401910511/lakers-spurs"
+  },
+  "hash": "84fe7816cf645165af4ee11e79f6c23f1538faf2",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "basket"
+ },
+ "espn-basket-401910533": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Regular Season",
+   "duration_min": 150,
+   "location": "American Airlines Center, Dallas",
+   "sport": "basket",
+   "start": "2027-02-10T01:00:00+00:00",
+   "state": "pre",
+   "title": "🏀 Mavericks – Spurs",
+   "uid": "espn-basket-401910533",
+   "url": "https://www.espn.com/nba/game/_/gameId/401910533/spurs-mavericks"
+  },
+  "hash": "0b1c11e8263d2876fe2c58eaebf968325b41d8a9",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "basket"
+ },
+ "espn-basket-401910551": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Regular Season",
+   "duration_min": 150,
+   "location": "Paycom Center, Oklahoma City",
+   "sport": "basket",
+   "start": "2027-02-12T02:30:00+00:00",
+   "state": "pre",
+   "title": "🏀 Thunder – Spurs",
+   "uid": "espn-basket-401910551",
+   "url": "https://www.espn.com/nba/game/_/gameId/401910551/spurs-thunder"
+  },
+  "hash": "c474f6fb79b6a4b3a417fdb4533e845a9362af94",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "basket"
+ },
+ "espn-basket-401910564": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Regular Season",
+   "duration_min": 150,
+   "location": "Kia Center, Orlando",
+   "sport": "basket",
+   "start": "2027-02-14T00:00:00+00:00",
+   "state": "pre",
+   "title": "🏀 Magic – Spurs",
+   "uid": "espn-basket-401910564",
+   "url": "https://www.espn.com/nba/game/_/gameId/401910564/spurs-magic"
+  },
+  "hash": "870eda8bc573af20a3dce1adb9f69b6be9a376ed",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "basket"
+ },
+ "espn-basket-401910590": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Regular Season",
+   "duration_min": 150,
+   "location": "FedExForum, Memphis",
+   "sport": "basket",
+   "start": "2027-02-18T01:00:00+00:00",
+   "state": "pre",
+   "title": "🏀 Grizzlies – Spurs",
+   "uid": "espn-basket-401910590",
+   "url": "https://www.espn.com/nba/game/_/gameId/401910590/spurs-grizzlies"
+  },
+  "hash": "28c4c9ef2463a4d2a976a92b39298e145f9642d9",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "basket"
+ },
+ "espn-basket-401910596": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Regular Season",
+   "duration_min": 150,
+   "location": "Target Center, Minneapolis",
+   "sport": "basket",
+   "start": "2027-02-19T00:30:00+00:00",
+   "state": "pre",
+   "title": "🏀 Timberwolves – Spurs",
+   "uid": "espn-basket-401910596",
+   "url": "https://www.espn.com/nba/game/_/gameId/401910596/spurs-timberwolves"
+  },
+  "hash": "390d1f6bc85bd8fdca039f44ae74744c4240937c",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "basket"
+ },
+ "espn-basket-401910613": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Regular Season",
+   "duration_min": 150,
+   "location": "Moody Center, Austin",
+   "sport": "basket",
+   "start": "2027-02-27T01:00:00+00:00",
+   "state": "pre",
+   "title": "🏀 Spurs – Grizzlies",
+   "uid": "espn-basket-401910613",
+   "url": "https://www.espn.com/nba/game/_/gameId/401910613/grizzlies-spurs"
+  },
+  "hash": "96cf98cdcb62335754bca059ee4ca01cd01860cf",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "basket"
+ },
+ "espn-basket-401910623": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Regular Season",
+   "duration_min": 150,
+   "location": "Moody Center, Austin",
+   "sport": "basket",
+   "start": "2027-02-28T18:00:00+00:00",
+   "state": "pre",
+   "title": "🏀 Spurs – Nuggets",
+   "uid": "espn-basket-401910623",
+   "url": "https://www.espn.com/nba/game/_/gameId/401910623/nuggets-spurs"
+  },
+  "hash": "19191d60706a3cee7e323398e03592cb55b516d1",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "basket"
+ },
+ "espn-basket-401910653": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Regular Season",
+   "duration_min": 150,
+   "location": "Ball Arena, Denver",
+   "sport": "basket",
+   "start": "2027-03-04T03:00:00+00:00",
+   "state": "pre",
+   "title": "🏀 Nuggets – Spurs",
+   "uid": "espn-basket-401910653",
+   "url": "https://www.espn.com/nba/game/_/gameId/401910653/spurs-nuggets"
+  },
+  "hash": "5ffaaa680b889c1ee14d32d27d22dcd661fa4016",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "basket"
+ },
+ "espn-basket-401910667": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Regular Season",
+   "duration_min": 150,
+   "location": "Toyota Center (Houston), Houston",
+   "sport": "basket",
+   "start": "2027-03-06T02:30:00+00:00",
+   "state": "pre",
+   "title": "🏀 Rockets – Spurs",
+   "uid": "espn-basket-401910667",
+   "url": "https://www.espn.com/nba/game/_/gameId/401910667/spurs-rockets"
+  },
+  "hash": "a966ebb7cc6033a4343fd3d83003f0538148c38e",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "basket"
+ },
+ "espn-basket-401910678": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Regular Season",
+   "duration_min": 150,
+   "location": "Frost Bank Center, San Antonio",
+   "sport": "basket",
+   "start": "2027-03-08T00:30:00+00:00",
+   "state": "pre",
+   "title": "🏀 Spurs – Knicks",
+   "uid": "espn-basket-401910678",
+   "url": "https://www.espn.com/nba/game/_/gameId/401910678/knicks-spurs"
+  },
+  "hash": "ce2da7517e023567f12ae6309a35aa37bb25e7b1",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "basket"
+ },
+ "espn-basket-401910694": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Regular Season",
+   "duration_min": 150,
+   "location": "Frost Bank Center, San Antonio",
+   "sport": "basket",
+   "start": "2027-03-10T01:00:00+00:00",
+   "state": "pre",
+   "title": "🏀 Spurs – Wizards",
+   "uid": "espn-basket-401910694",
+   "url": "https://www.espn.com/nba/game/_/gameId/401910694/wizards-spurs"
+  },
+  "hash": "323c24e6d48a3a2b91a47ce9e24d360e0360f11f",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "basket"
+ },
+ "espn-basket-401910707": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Regular Season",
+   "duration_min": 150,
+   "location": "Frost Bank Center, San Antonio",
+   "sport": "basket",
+   "start": "2027-03-12T00:30:00+00:00",
+   "state": "pre",
+   "title": "🏀 Spurs – 76ers",
+   "uid": "espn-basket-401910707",
+   "url": "https://www.espn.com/nba/game/_/gameId/401910707/76ers-spurs"
+  },
+  "hash": "aadd7e12ea056ee2b7de72defdd513753afb9a19",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "basket"
+ },
+ "espn-basket-401910728": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Regular Season",
+   "duration_min": 150,
+   "location": "Paycom Center, Oklahoma City",
+   "sport": "basket",
+   "start": "2027-03-14T18:30:00+00:00",
+   "state": "pre",
+   "title": "🏀 Thunder – Spurs",
+   "uid": "espn-basket-401910728",
+   "url": "https://www.espn.com/nba/game/_/gameId/401910728/spurs-thunder"
+  },
+  "hash": "278986c51659623c3ffc3286d86f1486884cbcf3",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "basket"
+ },
+ "espn-basket-401910745": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Regular Season",
+   "duration_min": 150,
+   "location": "Toyota Center (Houston), Houston",
+   "sport": "basket",
+   "start": "2027-03-17T00:30:00+00:00",
+   "state": "pre",
+   "title": "🏀 Rockets – Spurs",
+   "uid": "espn-basket-401910745",
+   "url": "https://www.espn.com/nba/game/_/gameId/401910745/spurs-rockets"
+  },
+  "hash": "ac240a93a693bd8678f390f6915fbdc12697e5db",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "basket"
+ },
+ "espn-basket-401910762": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Regular Season",
+   "duration_min": 150,
+   "location": "Frost Bank Center, San Antonio",
+   "sport": "basket",
+   "start": "2027-03-19T00:00:00+00:00",
+   "state": "pre",
+   "title": "🏀 Spurs – Nets",
+   "uid": "espn-basket-401910762",
+   "url": "https://www.espn.com/nba/game/_/gameId/401910762/nets-spurs"
+  },
+  "hash": "ea172ebd34c754dfcdd8acd95d6b373b81f69018",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "basket"
+ },
+ "espn-basket-401910768": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Regular Season",
+   "duration_min": 150,
+   "location": "Frost Bank Center, San Antonio",
+   "sport": "basket",
+   "start": "2027-03-20T00:00:00+00:00",
+   "state": "pre",
+   "title": "🏀 Spurs – Mavericks",
+   "uid": "espn-basket-401910768",
+   "url": "https://www.espn.com/nba/game/_/gameId/401910768/mavericks-spurs"
+  },
+  "hash": "0ccf8786c5c7e3cb90e641bf255fff13b029e71d",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "basket"
+ },
+ "espn-basket-401910784": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Regular Season",
+   "duration_min": 150,
+   "location": "Xfinity Mobile Arena, Philadelphia",
+   "sport": "basket",
+   "start": "2027-03-21T23:30:00+00:00",
+   "state": "pre",
+   "title": "🏀 76ers – Spurs",
+   "uid": "espn-basket-401910784",
+   "url": "https://www.espn.com/nba/game/_/gameId/401910784/spurs-76ers"
+  },
+  "hash": "2d4991f1c5e565b663109c30688e677d6622e760",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "basket"
+ },
+ "espn-basket-401910803": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Regular Season",
+   "duration_min": 150,
+   "location": "TD Garden, Boston",
+   "sport": "basket",
+   "start": "2027-03-24T23:30:00+00:00",
+   "state": "pre",
+   "title": "🏀 Celtics – Spurs",
+   "uid": "espn-basket-401910803",
+   "url": "https://www.espn.com/nba/game/_/gameId/401910803/spurs-celtics"
+  },
+  "hash": "b3c5f264966a75d35ccabfd01a7836e0f207b6b4",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "basket"
+ },
+ "espn-basket-401910813": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Regular Season",
+   "duration_min": 150,
+   "location": "Gainbridge Fieldhouse, Indianapolis",
+   "sport": "basket",
+   "start": "2027-03-25T23:00:00+00:00",
+   "state": "pre",
+   "title": "🏀 Pacers – Spurs",
+   "uid": "espn-basket-401910813",
+   "url": "https://www.espn.com/nba/game/_/gameId/401910813/spurs-pacers"
+  },
+  "hash": "c1bb8351a926d5377ea55d3d4bf02498adc20dcc",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "basket"
+ },
+ "espn-basket-401910824": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Regular Season",
+   "duration_min": 150,
+   "location": "Little Caesars Arena, Detroit",
+   "sport": "basket",
+   "start": "2027-03-27T19:00:00+00:00",
+   "state": "pre",
+   "title": "🏀 Pistons – Spurs",
+   "uid": "espn-basket-401910824",
+   "url": "https://www.espn.com/nba/game/_/gameId/401910824/spurs-pistons"
+  },
+  "hash": "98acc9309524bf88cb2d11c2693bae111f6a2f46",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "basket"
+ },
+ "espn-basket-401910846": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Regular Season",
+   "duration_min": 150,
+   "location": "Frost Bank Center, San Antonio",
+   "sport": "basket",
+   "start": "2027-03-30T01:30:00+00:00",
+   "state": "pre",
+   "title": "🏀 Spurs – Suns",
+   "uid": "espn-basket-401910846",
+   "url": "https://www.espn.com/nba/game/_/gameId/401910846/suns-spurs"
+  },
+  "hash": "bd5d2e49fbef3a3a9e4c6ebcfde335b41736631c",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "basket"
+ },
+ "espn-basket-401910861": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Regular Season",
+   "duration_min": 150,
+   "location": "Frost Bank Center, San Antonio",
+   "sport": "basket",
+   "start": "2027-04-01T00:00:00+00:00",
+   "state": "pre",
+   "title": "🏀 Spurs – Suns",
+   "uid": "espn-basket-401910861",
+   "url": "https://www.espn.com/nba/game/_/gameId/401910861/suns-spurs"
+  },
+  "hash": "6805e83eef6ccf7e2fea3475077ef37103e83edb",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "basket"
+ },
+ "espn-basket-401910879": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Regular Season",
+   "duration_min": 150,
+   "location": "Intuit Dome, Inglewood",
+   "sport": "basket",
+   "start": "2027-04-03T02:30:00+00:00",
+   "state": "pre",
+   "title": "🏀 Clippers – Spurs",
+   "uid": "espn-basket-401910879",
+   "url": "https://www.espn.com/nba/game/_/gameId/401910879/spurs-clippers"
+  },
+  "hash": "c712d7da68287dfef7664702982dc6f8fc0674a3",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "basket"
+ },
+ "espn-basket-401910894": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Regular Season",
+   "duration_min": 150,
+   "location": "crypto.com Arena, Los Angeles",
+   "sport": "basket",
+   "start": "2027-04-05T02:00:00+00:00",
+   "state": "pre",
+   "title": "🏀 Lakers – Spurs",
+   "uid": "espn-basket-401910894",
+   "url": "https://www.espn.com/nba/game/_/gameId/401910894/spurs-lakers"
+  },
+  "hash": "d5a77278cdcd73559579ef3643b7572fc8ebb35a",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "basket"
+ },
+ "espn-basket-401910903": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Regular Season",
+   "duration_min": 150,
+   "location": "Frost Bank Center, San Antonio",
+   "sport": "basket",
+   "start": "2027-04-07T00:00:00+00:00",
+   "state": "pre",
+   "title": "🏀 Spurs – Kings",
+   "uid": "espn-basket-401910903",
+   "url": "https://www.espn.com/nba/game/_/gameId/401910903/kings-spurs"
+  },
+  "hash": "eedfe778fdbf3d3c2cb110b74afcf47e22a1577a",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "basket"
+ },
+ "espn-basket-401910912": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Regular Season",
+   "duration_min": 150,
+   "location": "Frost Bank Center, San Antonio",
+   "sport": "basket",
+   "start": "2027-04-07T23:30:00+00:00",
+   "state": "pre",
+   "title": "🏀 Spurs – Cavaliers",
+   "uid": "espn-basket-401910912",
+   "url": "https://www.espn.com/nba/game/_/gameId/401910912/cavaliers-spurs"
+  },
+  "hash": "1c72694aa135c0d4c35c501a9fa459c1802dcc0a",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "basket"
+ },
+ "espn-basket-401910932": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Regular Season",
+   "duration_min": 150,
+   "location": "Frost Bank Center, San Antonio",
+   "sport": "basket",
+   "start": "2027-04-10T01:30:00+00:00",
+   "state": "pre",
+   "title": "🏀 Spurs – Nuggets",
+   "uid": "espn-basket-401910932",
+   "url": "https://www.espn.com/nba/game/_/gameId/401910932/nuggets-spurs"
+  },
+  "hash": "8b79631be4bb7f71584be0f9dada168876ef2bfa",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "basket"
+ },
+ "espn-basket-401910947": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Regular Season",
+   "duration_min": 150,
+   "location": "Frost Bank Center, San Antonio",
+   "sport": "basket",
+   "start": "2027-04-12T00:30:00+00:00",
+   "state": "pre",
+   "title": "🏀 Spurs – Trail Blazers",
+   "uid": "espn-basket-401910947",
+   "url": "https://www.espn.com/nba/game/_/gameId/401910947/trail-blazers-spurs"
+  },
+  "hash": "2332605867f5ff1dc6077fc0abc1fc39a73705de",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "basket"
+ },
+ "espn-foot-401861151": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 UEFA Nations League\nStatut : Full Time",
+   "duration_min": 120,
+   "location": "San Siro, Milano",
+   "sport": "foot",
+   "start": "2026-11-12T19:45:00+00:00",
+   "state": "post",
+   "title": "⚽ Italy 3–1 France ❌",
+   "uid": "espn-foot-401861151",
+   "url": "https://www.espn.com/soccer/match/_/gameId/401861151/france-italy"
+  },
+  "hash": "d6906219ecbdf76454a4a6ca4ca1e9a4f92e3731",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "foot"
+ },
+ "espn-foot-401861177": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 UEFA Nations League\nStatut : Full Time",
+   "duration_min": 120,
+   "location": "Stade Atlantique, Bordeaux",
+   "sport": "foot",
+   "start": "2026-11-15T19:45:00+00:00",
+   "state": "post",
+   "title": "⚽ France 2–1 Türkiye ✅",
+   "uid": "espn-foot-401861177",
+   "url": "https://www.espn.com/soccer/match/_/gameId/401861177/turkiye-france"
+  },
+  "hash": "7b0378d9cc8ba2940cd46818de514262de40946c",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "foot"
+ },
+ "espn-foot-401876210": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 French Ligue 1\n⏰ Horaire à confirmer",
+   "duration_min": 120,
+   "location": "Stade Vélodrome, Marseille",
+   "sport": "foot",
+   "start": "2027-05-16T18:00:00+00:00",
+   "state": "pre",
+   "title": "⚽ Marseille – Lens",
+   "uid": "espn-foot-401876210",
+   "url": "https://www.espn.com/soccer/match/_/gameId/401876210/lens-marseille"
+  },
+  "hash": "c293415e0a7fb52fac42257d4f2552e0fc4e1baa",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "foot"
+ },
+ "espn-foot-401876218": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 French Ligue 1\n⏰ Horaire à confirmer",
+   "duration_min": 120,
+   "location": "Allianz Riviera, Nice",
+   "sport": "foot",
+   "start": "2027-05-08T18:00:00+00:00",
+   "state": "pre",
+   "title": "⚽ Nice – Marseille",
+   "uid": "espn-foot-401876218",
+   "url": "https://www.espn.com/soccer/match/_/gameId/401876218/marseille-nice"
+  },
+  "hash": "994a48c0730ebc3bbeaa0c953f5ff82ba7ea5553",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "foot"
+ },
+ "espn-foot-401876225": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 French Ligue 1\n⏰ Horaire à confirmer",
+   "duration_min": 120,
+   "location": "Stadium Municipal de Toulouse, Toulouse",
+   "sport": "foot",
+   "start": "2027-05-01T18:00:00+00:00",
+   "state": "pre",
+   "title": "⚽ Toulouse – Marseille",
+   "uid": "espn-foot-401876225",
+   "url": "https://www.espn.com/soccer/match/_/gameId/401876225/marseille-toulouse"
+  },
+  "hash": "aa1c753fdb84e5bc0593dfe755d5bf9f4c56dd59",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "foot"
+ },
+ "espn-foot-401876237": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 French Ligue 1\n⏰ Horaire à confirmer",
+   "duration_min": 120,
+   "location": "Stade Vélodrome, Marseille",
+   "sport": "foot",
+   "start": "2027-04-24T18:00:00+00:00",
+   "state": "pre",
+   "title": "⚽ Marseille – Auxerre",
+   "uid": "espn-foot-401876237",
+   "url": "https://www.espn.com/soccer/match/_/gameId/401876237/aj-auxerre-marseille"
+  },
+  "hash": "f123ba0b99019d9526763e52e8daad8a75367ec2",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "foot"
+ },
+ "espn-foot-401876247": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 French Ligue 1\n⏰ Horaire à confirmer",
+   "duration_min": 120,
+   "location": "Stade Océane, Le Havre",
+   "sport": "foot",
+   "start": "2027-04-17T18:00:00+00:00",
+   "state": "pre",
+   "title": "⚽ Le Havre AC – Marseille",
+   "uid": "espn-foot-401876247",
+   "url": "https://www.espn.com/soccer/match/_/gameId/401876247/marseille-le-havre-ac"
+  },
+  "hash": "407334c73bb0671278f75f0cf0f317dd621b8922",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "foot"
+ },
+ "espn-foot-401876255": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 French Ligue 1\n⏰ Horaire à confirmer",
+   "duration_min": 120,
+   "location": "Stade Vélodrome, Marseille",
+   "sport": "foot",
+   "start": "2027-04-10T18:00:00+00:00",
+   "state": "pre",
+   "title": "⚽ Marseille – Brest",
+   "uid": "espn-foot-401876255",
+   "url": "https://www.espn.com/soccer/match/_/gameId/401876255/brest-marseille"
+  },
+  "hash": "ce911a63371cde71da73777ed1196d4e35a3b922",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "foot"
+ },
+ "espn-foot-401876264": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 French Ligue 1\n⏰ Horaire à confirmer",
+   "duration_min": 120,
+   "location": "Stade Marie-Marvingt, Le Mans",
+   "sport": "foot",
+   "start": "2027-04-03T18:00:00+00:00",
+   "state": "pre",
+   "title": "⚽ Le Mans – Marseille",
+   "uid": "espn-foot-401876264",
+   "url": "https://www.espn.com/soccer/match/_/gameId/401876264/marseille-le-mans"
+  },
+  "hash": "acc362a0a7532ee10335e2a39aa7b207a2d5befa",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "foot"
+ },
+ "espn-foot-401876269": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 French Ligue 1",
+   "duration_min": 120,
+   "location": "Stade Vélodrome, Marseille",
+   "sport": "foot",
+   "start": "2027-03-21T19:45:00+00:00",
+   "state": "pre",
+   "title": "⚽ Marseille – Lyon",
+   "uid": "espn-foot-401876269",
+   "url": "https://www.espn.com/soccer/match/_/gameId/401876269/lyon-marseille"
+  },
+  "hash": "d5684d4e425b3df0e608512f56fba674a1a70ff6",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "foot"
+ },
+ "espn-foot-401876281": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 French Ligue 1\n⏰ Horaire à confirmer",
+   "duration_min": 120,
+   "location": "Stade Vélodrome, Marseille",
+   "sport": "foot",
+   "start": "2027-03-13T20:00:00+00:00",
+   "state": "pre",
+   "title": "⚽ Marseille – Monaco",
+   "uid": "espn-foot-401876281",
+   "url": "https://www.espn.com/soccer/match/_/gameId/401876281/as-monaco-marseille"
+  },
+  "hash": "c78e556639047ece4fa3399383521626fb4172c3",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "foot"
+ },
+ "espn-foot-401876292": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 French Ligue 1\n⏰ Horaire à confirmer",
+   "duration_min": 120,
+   "location": "Decathlon Arena - Stade Pierre-Mauroy, Lille",
+   "sport": "foot",
+   "start": "2027-03-06T20:00:00+00:00",
+   "state": "pre",
+   "title": "⚽ Lille – Marseille",
+   "uid": "espn-foot-401876292",
+   "url": "https://www.espn.com/soccer/match/_/gameId/401876292/marseille-lille"
+  },
+  "hash": "94eb6bc5bf46df2dbe15f8125b50dc81fd7da9ec",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "foot"
+ },
+ "espn-foot-401876299": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 French Ligue 1\n⏰ Horaire à confirmer",
+   "duration_min": 120,
+   "location": "Stade Vélodrome, Marseille",
+   "sport": "foot",
+   "start": "2027-02-27T20:00:00+00:00",
+   "state": "pre",
+   "title": "⚽ Marseille – Rennes",
+   "uid": "espn-foot-401876299",
+   "url": "https://www.espn.com/soccer/match/_/gameId/401876299/stade-rennais-marseille"
+  },
+  "hash": "5643e6037f592981f0ea1f6bfa860341436150a1",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "foot"
+ },
+ "espn-foot-401876305": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 French Ligue 1\n⏰ Horaire à confirmer",
+   "duration_min": 120,
+   "location": "Stade de la Meinau, Strasbourg",
+   "sport": "foot",
+   "start": "2027-02-20T20:00:00+00:00",
+   "state": "pre",
+   "title": "⚽ Strasbourg – Marseille",
+   "uid": "espn-foot-401876305",
+   "url": "https://www.espn.com/soccer/match/_/gameId/401876305/marseille-strasbourg"
+  },
+  "hash": "8ae1acccf874085ae5c3ccc276476ac39f826a99",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "foot"
+ },
+ "espn-foot-401876316": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 French Ligue 1\n⏰ Horaire à confirmer",
+   "duration_min": 120,
+   "location": "Stade Vélodrome, Marseille",
+   "sport": "foot",
+   "start": "2027-02-13T20:00:00+00:00",
+   "state": "pre",
+   "title": "⚽ Marseille – Angers",
+   "uid": "espn-foot-401876316",
+   "url": "https://www.espn.com/soccer/match/_/gameId/401876316/angers-marseille"
+  },
+  "hash": "2c603f7176191ed04bb30b8372c3e6ad2fd5f59e",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "foot"
+ },
+ "espn-foot-401876323": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 French Ligue 1",
+   "duration_min": 120,
+   "location": "Parc des Princes, Paris",
+   "sport": "foot",
+   "start": "2027-02-07T19:45:00+00:00",
+   "state": "pre",
+   "title": "⚽ PSG – Marseille",
+   "uid": "espn-foot-401876323",
+   "url": "https://www.espn.com/soccer/match/_/gameId/401876323/marseille-paris-saint-germain"
+  },
+  "hash": "7d923e67e098d5cf35796b49f2b20c746c286cd8",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "foot"
+ },
+ "espn-foot-401876336": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 French Ligue 1",
+   "duration_min": 120,
+   "location": "Stade Vélodrome, Marseille",
+   "sport": "foot",
+   "start": "2027-01-31T16:15:00+00:00",
+   "state": "pre",
+   "title": "⚽ Marseille – Troyes",
+   "uid": "espn-foot-401876336",
+   "url": "https://www.espn.com/soccer/match/_/gameId/401876336/troyes-marseille"
+  },
+  "hash": "abd68ac242d5c4a5eed7a7bbe98e4f60ab176c1d",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "foot"
+ },
+ "espn-foot-401876345": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 French Ligue 1",
+   "duration_min": 120,
+   "location": "Stade du Moustoir - Yves Allainmat, Lorient",
+   "sport": "foot",
+   "start": "2027-01-24T16:15:00+00:00",
+   "state": "pre",
+   "title": "⚽ Lorient – Marseille",
+   "uid": "espn-foot-401876345",
+   "url": "https://www.espn.com/soccer/match/_/gameId/401876345/marseille-lorient"
+  },
+  "hash": "95f3d6d12d27e60bfeafad181683c640cdbe1b52",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "foot"
+ },
+ "espn-foot-401876355": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 French Ligue 1",
+   "duration_min": 120,
+   "location": "Stade Vélodrome, Marseille",
+   "sport": "foot",
+   "start": "2027-01-15T19:45:00+00:00",
+   "state": "pre",
+   "title": "⚽ Marseille – Lille",
+   "uid": "espn-foot-401876355",
+   "url": "https://www.espn.com/soccer/match/_/gameId/401876355/lille-marseille"
+  },
+  "hash": "395a67356a7ff3cc33f4eff078072bfc3c43d3f7",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "foot"
+ },
+ "espn-foot-401876367": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 French Ligue 1",
+   "duration_min": 120,
+   "location": "Stade Francis-Le Blé, Brest",
+   "sport": "foot",
+   "start": "2027-01-02T16:00:00+00:00",
+   "state": "pre",
+   "title": "⚽ Brest – Marseille",
+   "uid": "espn-foot-401876367",
+   "url": "https://www.espn.com/soccer/match/_/gameId/401876367/marseille-brest"
+  },
+  "hash": "863b42c35f6c79740edfc2b41e75142133648c3c",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "foot"
+ },
+ "espn-foot-401876368": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 French Ligue 1",
+   "duration_min": 120,
+   "location": "Groupama Stadium, Lyon",
+   "sport": "foot",
+   "start": "2026-12-13T19:45:00+00:00",
+   "state": "pre",
+   "title": "⚽ Lyon – Marseille",
+   "uid": "espn-foot-401876368",
+   "url": "https://www.espn.com/soccer/match/_/gameId/401876368/marseille-lyon"
+  },
+  "hash": "1cb5664f97e827ea60b01ee23e5a3c69ee878cc2",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "foot"
+ },
+ "espn-foot-401876383": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 French Ligue 1",
+   "duration_min": 120,
+   "location": "Stade Vélodrome, Marseille",
+   "sport": "foot",
+   "start": "2026-12-06T19:45:00+00:00",
+   "state": "pre",
+   "title": "⚽ Marseille – Nice",
+   "uid": "espn-foot-401876383",
+   "url": "https://www.espn.com/soccer/match/_/gameId/401876383/nice-marseille"
+  },
+  "hash": "e756b937a2c140834acfee61742bffd499cf233b",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "foot"
+ },
+ "espn-foot-401876393": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 French Ligue 1",
+   "duration_min": 120,
+   "location": "Stade de l'Abbé-Deschamps, Auxerre",
+   "sport": "foot",
+   "start": "2026-11-29T14:00:00+00:00",
+   "state": "pre",
+   "title": "⚽ Auxerre – Marseille",
+   "uid": "espn-foot-401876393",
+   "url": "https://www.espn.com/soccer/match/_/gameId/401876393/marseille-aj-auxerre"
+  },
+  "hash": "0669922957db9a4c3c0a7209defdddbb9cba5724",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "foot"
+ },
+ "espn-foot-401876400": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 French Ligue 1",
+   "duration_min": 120,
+   "location": "Stade Vélodrome, Marseille",
+   "sport": "foot",
+   "start": "2026-11-22T19:45:00+00:00",
+   "state": "pre",
+   "title": "⚽ Marseille – Le Mans",
+   "uid": "espn-foot-401876400",
+   "url": "https://www.espn.com/soccer/match/_/gameId/401876400/le-mans-marseille"
+  },
+  "hash": "344d4ef1a4825fc714f56884176e99403380f36f",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "foot"
+ },
+ "espn-foot-401876404": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 French Ligue 1\nStatut : Full Time",
+   "duration_min": 120,
+   "location": "Stade Bollaert-Delelis, Lens",
+   "sport": "foot",
+   "start": "2026-11-08T19:45:00+00:00",
+   "state": "post",
+   "title": "⚽ Lens 1–2 Marseille ✅",
+   "uid": "espn-foot-401876404",
+   "url": "https://www.espn.com/soccer/match/_/gameId/401876404/marseille-lens"
+  },
+  "hash": "47f43fbf2b500aec3246e5f1a142d2054840f380",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "foot"
+ },
+ "espn-foot-401876417": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 French Ligue 1\nStatut : Full Time",
+   "duration_min": 120,
+   "location": "Stade Vélodrome, Marseille",
+   "sport": "foot",
+   "start": "2026-11-01T19:45:00+00:00",
+   "state": "post",
+   "title": "⚽ Marseille 2–0 Toulouse ✅",
+   "uid": "espn-foot-401876417",
+   "url": "https://www.espn.com/soccer/match/_/gameId/401876417/toulouse-marseille"
+  },
+  "hash": "2261bc5a1016e882d9489be74362c2bb7f658815",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "foot"
+ },
+ "espn-foot-401876426": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 French Ligue 1\nStatut : Full Time",
+   "duration_min": 120,
+   "location": "Stade Vélodrome, Marseille",
+   "sport": "foot",
+   "start": "2026-10-25T16:15:00+00:00",
+   "state": "post",
+   "title": "⚽ Marseille 4–3 Le Havre AC ✅",
+   "uid": "espn-foot-401876426",
+   "url": "https://www.espn.com/soccer/match/_/gameId/401876426/le-havre-ac-marseille"
+  },
+  "hash": "bdba1f346d9393cc52bf3e075f82055664cfaf9c",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "foot"
+ },
+ "espn-foot-401915429": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 UEFA Europa League",
+   "duration_min": 120,
+   "location": "Stade Vélodrome, Marseille",
+   "sport": "foot",
+   "start": "2027-01-28T20:00:00+00:00",
+   "state": "pre",
+   "title": "⚽ Marseille – Anderlecht",
+   "uid": "espn-foot-401915429",
+   "url": "https://www.espn.com/soccer/match/_/gameId/401915429/anderlecht-marseille"
+  },
+  "hash": "d0ef20d4093a21563db5ffbb02bed4f76ff7717a",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "foot"
+ },
+ "espn-foot-401915475": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 UEFA Europa League",
+   "duration_min": 120,
+   "location": "Celtic Park, Glasgow",
+   "sport": "foot",
+   "start": "2027-01-21T20:00:00+00:00",
+   "state": "pre",
+   "title": "⚽ Celtic – Marseille",
+   "uid": "espn-foot-401915475",
+   "url": "https://www.espn.com/soccer/match/_/gameId/401915475/marseille-celtic"
+  },
+  "hash": "71f5a27c0e8d524740cb0a66a214f4452d1684e3",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "foot"
+ },
+ "espn-foot-401915495": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 UEFA Europa League",
+   "duration_min": 120,
+   "location": "Stade Vélodrome, Marseille",
+   "sport": "foot",
+   "start": "2026-12-10T17:45:00+00:00",
+   "state": "pre",
+   "title": "⚽ Marseille – Celta Vigo",
+   "uid": "espn-foot-401915495",
+   "url": "https://www.espn.com/soccer/match/_/gameId/401915495/celta-vigo-marseille"
+  },
+  "hash": "0f7341730957d9341a739691d506416f60acc047",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "foot"
+ },
+ "espn-foot-401915507": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 UEFA Europa League",
+   "duration_min": 120,
+   "location": "Stade Vélodrome, Marseille",
+   "sport": "foot",
+   "start": "2026-11-26T17:45:00+00:00",
+   "state": "pre",
+   "title": "⚽ Marseille – Levski Sofia",
+   "uid": "espn-foot-401915507",
+   "url": "https://www.espn.com/soccer/match/_/gameId/401915507/levski-sofia-marseille"
+  },
+  "hash": "5423e14974c39ee28b931f8b2fbf2adde6d82acd",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "foot"
+ },
+ "espn-foot-401915533": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 UEFA Europa League\nStatut : Full Time",
+   "duration_min": 120,
+   "location": "BayArena, Leverkusen",
+   "sport": "foot",
+   "start": "2026-11-05T20:00:00+00:00",
+   "state": "post",
+   "title": "⚽ Leverkusen 0–1 Marseille ✅",
+   "uid": "espn-foot-401915533",
+   "url": "https://www.espn.com/soccer/match/_/gameId/401915533/marseille-bayer-leverkusen"
+  },
+  "hash": "4232bf0c8e50b2874924439079c2c9052a00421d",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "foot"
+ },
+ "espn-foot-401936101": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 UEFA Nations League",
+   "duration_min": 120,
+   "location": "",
+   "sport": "foot",
+   "start": "2027-03-28T18:45:00+00:00",
+   "state": "pre",
+   "title": "⚽ France – Spain",
+   "uid": "espn-foot-401936101",
+   "url": "https://www.espn.com/soccer/match/_/gameId/401936101/spain-france"
+  },
+  "hash": "261e68a61fdc5169714185c689e50b909ec22ff2",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "foot"
+ },
+ "espn-foot-401936104": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 UEFA Nations League",
+   "duration_min": 120,
+   "location": "",
+   "sport": "foot",
+   "start": "2027-03-25T19:45:00+00:00",
+   "state": "pre",
+   "title": "⚽ Spain – France",
+   "uid": "espn-foot-401936104",
+   "url": "https://www.espn.com/soccer/match/_/gameId/401936104/france-spain"
+  },
+  "hash": "28bb1cbfb6c0cc61edc5fceeb3eed8abca4f2b31",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "foot"
+ },
+ "espn-rugby-604268": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Champions Cup",
+   "duration_min": 120,
+   "location": "Stade Chaban-Delmas, Bordeaux",
+   "sport": "rugby",
+   "start": "2026-12-13T15:15:00+00:00",
+   "state": "pre",
+   "title": "🏉 Bordeaux Begles – Stormers",
+   "uid": "espn-rugby-604268",
+   "url": "https://www.espn.com/rugby/match/_/gameId/604268/league/271937"
+  },
+  "hash": "3f6408e62a7e5612feee9844042ce2e32c6feaa9",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "rugby"
+ },
+ "espn-rugby-604280": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Champions Cup",
+   "duration_min": 120,
+   "location": "Stade Chaban-Delmas, Bordeaux",
+   "sport": "rugby",
+   "start": "2027-01-10T15:15:00+00:00",
+   "state": "pre",
+   "title": "🏉 Bordeaux Begles – Munster",
+   "uid": "espn-rugby-604280",
+   "url": "https://www.espn.com/rugby/match/_/gameId/604280/league/271937"
+  },
+  "hash": "bed612f324bce8b110aec7926fb851487967aea2",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "rugby"
+ },
+ "espn-rugby-604286": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Champions Cup",
+   "duration_min": 120,
+   "location": "Ashton Gate, Bristol",
+   "sport": "rugby",
+   "start": "2027-01-16T15:15:00+00:00",
+   "state": "pre",
+   "title": "🏉 Bristol Rugby – Bordeaux Begles",
+   "uid": "espn-rugby-604286",
+   "url": "https://www.espn.com/rugby/match/_/gameId/604286/league/271937"
+  },
+  "hash": "0c3e12755b354ae60317f35bb341bfe14cf1d78b",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "rugby"
+ },
+ "espn-rugby-604406": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Top 14\nStatut : FT",
+   "duration_min": 120,
+   "location": "Stade Marcel-Deflandre, La Rochelle",
+   "sport": "rugby",
+   "start": "2026-10-25T20:05:00+00:00",
+   "state": "post",
+   "title": "🏉 La Rochelle 19–25 Bordeaux Begles ✅",
+   "uid": "espn-rugby-604406",
+   "url": "https://www.espn.com/rugby/match/_/gameId/604406/league/270559"
+  },
+  "hash": "157e351cb4ecaa69ed0c64cbbd4ed2dc2f8748b2",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "rugby"
+ },
+ "espn-rugby-604411": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Top 14\nStatut : FT",
+   "duration_min": 120,
+   "location": "Stade Chaban-Delmas, Bordeaux",
+   "sport": "rugby",
+   "start": "2026-10-31T15:35:00+00:00",
+   "state": "post",
+   "title": "🏉 Bordeaux Begles 19–14 Bayonne ✅",
+   "uid": "espn-rugby-604411",
+   "url": "https://www.espn.com/rugby/match/_/gameId/604411/league/270559"
+  },
+  "hash": "05aa81f57c447c9a5e47b9be10882c767e3df064",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "rugby"
+ },
+ "espn-rugby-604417": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Top 14\nStatut : FT",
+   "duration_min": 120,
+   "location": "Stade de la Beaujoire, Nantes",
+   "sport": "rugby",
+   "start": "2026-11-08T14:00:00+00:00",
+   "state": "post",
+   "title": "🏉 Vannes 23–14 Bordeaux Begles ❌",
+   "uid": "espn-rugby-604417",
+   "url": "https://www.espn.com/rugby/match/_/gameId/604417/league/270559"
+  },
+  "hash": "cb625833db3e1494488d3155ff2b2e4bca009071",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "rugby"
+ },
+ "espn-rugby-604425": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Top 14",
+   "duration_min": 120,
+   "location": "Stade Chaban-Delmas, Bordeaux",
+   "sport": "rugby",
+   "start": "2026-11-28T13:30:00+00:00",
+   "state": "pre",
+   "title": "🏉 Bordeaux Begles – Montpellier Herault",
+   "uid": "espn-rugby-604425",
+   "url": "https://www.espn.com/rugby/match/_/gameId/604425/league/270559"
+  },
+  "hash": "c06b581f523e79d08674d93d75d55ccca3eacf85",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "rugby"
+ },
+ "espn-rugby-604436": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Top 14",
+   "duration_min": 120,
+   "location": "Stade Mayol, Toulon",
+   "sport": "rugby",
+   "start": "2026-12-06T20:05:00+00:00",
+   "state": "pre",
+   "title": "🏉 Toulon – Bordeaux Begles",
+   "uid": "espn-rugby-604436",
+   "url": "https://www.espn.com/rugby/match/_/gameId/604436/league/270559"
+  },
+  "hash": "8615ce60909932c5e587b988d54cd1b7778721ff",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "rugby"
+ },
+ "espn-rugby-604439": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Top 14",
+   "duration_min": 120,
+   "location": "Stade Matmut-Atlantique, Bordeaux",
+   "sport": "rugby",
+   "start": "2026-12-20T20:05:00+00:00",
+   "state": "pre",
+   "title": "🏉 Bordeaux Begles – Pau",
+   "uid": "espn-rugby-604439",
+   "url": "https://www.espn.com/rugby/match/_/gameId/604439/league/270559"
+  },
+  "hash": "8057c449b06f0f24473b761f42c60e21a7bd4a65",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "rugby"
+ },
+ "espn-rugby-604447": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Top 14\n⏰ Horaire à confirmer",
+   "duration_min": 120,
+   "location": "Stade Pierre Fabre, Castres",
+   "sport": "rugby",
+   "start": "2026-12-26T00:00:00+00:00",
+   "state": "pre",
+   "title": "🏉 Castres Olympique – Bordeaux Begles",
+   "uid": "espn-rugby-604447",
+   "url": "https://www.espn.com/rugby/match/_/gameId/604447/league/270559"
+  },
+  "hash": "6352dfc0d3c6b80157a8fde56efe9d11195992a8",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "rugby"
+ },
+ "espn-rugby-604453": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Top 14\n⏰ Horaire à confirmer",
+   "duration_min": 120,
+   "location": "Stade Chaban-Delmas, Bordeaux",
+   "sport": "rugby",
+   "start": "2027-01-02T00:00:00+00:00",
+   "state": "pre",
+   "title": "🏉 Bordeaux Begles – Perpignan",
+   "uid": "espn-rugby-604453",
+   "url": "https://www.espn.com/rugby/match/_/gameId/604453/league/270559"
+  },
+  "hash": "d010178b616401190a70c807649d0de082319b47",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "rugby"
+ },
+ "espn-rugby-604463": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Top 14\n⏰ Horaire à confirmer",
+   "duration_min": 120,
+   "location": "Paris La Defense Arena, Nanterre",
+   "sport": "rugby",
+   "start": "2027-01-23T00:00:00+00:00",
+   "state": "pre",
+   "title": "🏉 Racing 92 – Bordeaux Begles",
+   "uid": "espn-rugby-604463",
+   "url": "https://www.espn.com/rugby/match/_/gameId/604463/league/270559"
+  },
+  "hash": "1497c85a9e15afbebbb644087265a51734ed2fdc",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "rugby"
+ },
+ "espn-rugby-604467": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Top 14\n⏰ Horaire à confirmer",
+   "duration_min": 120,
+   "location": "Stade Chaban-Delmas, Bordeaux",
+   "sport": "rugby",
+   "start": "2027-01-30T00:00:00+00:00",
+   "state": "pre",
+   "title": "🏉 Bordeaux Begles – Vannes",
+   "uid": "espn-rugby-604467",
+   "url": "https://www.espn.com/rugby/match/_/gameId/604467/league/270559"
+  },
+  "hash": "59e055bd508d585711ea4c9f103a030994c180a9",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "rugby"
+ },
+ "espn-rugby-604477": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Top 14\n⏰ Horaire à confirmer",
+   "duration_min": 120,
+   "location": "Stade Jean Bouin, Paris",
+   "sport": "rugby",
+   "start": "2027-02-20T00:00:00+00:00",
+   "state": "pre",
+   "title": "🏉 Stade Francais Paris – Bordeaux Begles",
+   "uid": "espn-rugby-604477",
+   "url": "https://www.espn.com/rugby/match/_/gameId/604477/league/270559"
+  },
+  "hash": "657e3cd5a4bf237b24ef366eba62d39626f060c0",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "rugby"
+ },
+ "espn-rugby-604480": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Top 14\n⏰ Horaire à confirmer",
+   "duration_min": 120,
+   "location": "Stade Chaban-Delmas, Bordeaux",
+   "sport": "rugby",
+   "start": "2027-02-27T00:00:00+00:00",
+   "state": "pre",
+   "title": "🏉 Bordeaux Begles – Toulon",
+   "uid": "espn-rugby-604480",
+   "url": "https://www.espn.com/rugby/match/_/gameId/604480/league/270559"
+  },
+  "hash": "e498da6edcb76c182b6e0f1cfec5aa1d91844a38",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "rugby"
+ },
+ "espn-rugby-604487": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Top 14\n⏰ Horaire à confirmer",
+   "duration_min": 120,
+   "location": "Stade Jean Dauger, Bayonne",
+   "sport": "rugby",
+   "start": "2027-03-20T00:00:00+00:00",
+   "state": "pre",
+   "title": "🏉 Bayonne – Bordeaux Begles",
+   "uid": "espn-rugby-604487",
+   "url": "https://www.espn.com/rugby/match/_/gameId/604487/league/270559"
+  },
+  "hash": "242bdb4ab1bf1c91ef13b47d2cff9fd4566cf4a1",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "rugby"
+ },
+ "espn-rugby-604496": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Top 14\n⏰ Horaire à confirmer",
+   "duration_min": 120,
+   "location": "Stade Chaban-Delmas, Bordeaux",
+   "sport": "rugby",
+   "start": "2027-03-27T00:00:00+00:00",
+   "state": "pre",
+   "title": "🏉 Bordeaux Begles – Stade Toulousain",
+   "uid": "espn-rugby-604496",
+   "url": "https://www.espn.com/rugby/match/_/gameId/604496/league/270559"
+  },
+  "hash": "f1b0246172288d37fa238ecafff9468d1143906c",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "rugby"
+ },
+ "espn-rugby-604504": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Top 14\n⏰ Horaire à confirmer",
+   "duration_min": 120,
+   "location": "Septeo Stadium, Montpellier",
+   "sport": "rugby",
+   "start": "2027-04-17T00:00:00+00:00",
+   "state": "pre",
+   "title": "🏉 Montpellier Herault – Bordeaux Begles",
+   "uid": "espn-rugby-604504",
+   "url": "https://www.espn.com/rugby/match/_/gameId/604504/league/270559"
+  },
+  "hash": "d5cc8a8946a20ed4408617407b3056ffa744c976",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "rugby"
+ },
+ "espn-rugby-604510": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Top 14\n⏰ Horaire à confirmer",
+   "duration_min": 120,
+   "location": "Stade Chaban-Delmas, Bordeaux",
+   "sport": "rugby",
+   "start": "2027-04-24T00:00:00+00:00",
+   "state": "pre",
+   "title": "🏉 Bordeaux Begles – La Rochelle",
+   "uid": "espn-rugby-604510",
+   "url": "https://www.espn.com/rugby/match/_/gameId/604510/league/270559"
+  },
+  "hash": "e1cee5cc32ab1071355fd27ae1edf3097d91af13",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "rugby"
+ },
+ "espn-rugby-604519": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Top 14\n⏰ Horaire à confirmer",
+   "duration_min": 120,
+   "location": "Stade du Hameau, Pau",
+   "sport": "rugby",
+   "start": "2027-05-08T00:00:00+00:00",
+   "state": "pre",
+   "title": "🏉 Pau – Bordeaux Begles",
+   "uid": "espn-rugby-604519",
+   "url": "https://www.espn.com/rugby/match/_/gameId/604519/league/270559"
+  },
+  "hash": "de9c381ce4b697a2f4eb1384b7674509e981c4ed",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "rugby"
+ },
+ "espn-rugby-604523": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Top 14\n⏰ Horaire à confirmer",
+   "duration_min": 120,
+   "location": "Stade Chaban-Delmas, Bordeaux",
+   "sport": "rugby",
+   "start": "2027-05-15T00:00:00+00:00",
+   "state": "pre",
+   "title": "🏉 Bordeaux Begles – Clermont Auvergne",
+   "uid": "espn-rugby-604523",
+   "url": "https://www.espn.com/rugby/match/_/gameId/604523/league/270559"
+  },
+  "hash": "484f9cb0eba15977e9e459a4214bf0387f20b1cb",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "rugby"
+ },
  "f1-2026-18": {
   "event": {
    "all_day": false,
@@ -106,5 +2518,167 @@
   "modified": "2026-11-22T02:47:37.266512+00:00",
   "seq": 0,
   "sport": "f1"
+ },
+ "lq-callofduty-1793995200-paris_gentle-cloud9_new_y": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Monster Launch Inv '27\nGroup D - Bo5",
+   "duration_min": 180,
+   "location": "",
+   "sport": "esport",
+   "start": "2026-11-06T20:00:00+00:00",
+   "state": "post",
+   "title": "🎮 [CoD] Paris Gentle Mates 3–0 Cloud9 New York ✅",
+   "uid": "lq-callofduty-1793995200-paris_gentle-cloud9_new_y",
+   "url": "https://liquipedia.net/callofduty/"
+  },
+  "hash": "48f4163481802c7f1a22bcf648d2aeadcc132f7f",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "esport"
+ },
+ "lq-callofduty-1794009600-los_angeles_-paris_gentle": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Monster Launch Inv '27\nGroup D - Bo5",
+   "duration_min": 180,
+   "location": "",
+   "sport": "esport",
+   "start": "2026-11-07T00:00:00+00:00",
+   "state": "post",
+   "title": "🎮 [CoD] Los Angeles Thieves 2–3 Paris Gentle Mates ✅",
+   "uid": "lq-callofduty-1794009600-los_angeles_-paris_gentle",
+   "url": "https://liquipedia.net/callofduty/"
+  },
+  "hash": "2c516a8cd22ce1b2586e68046bf59df70f5fa6d2",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "esport"
+ },
+ "lq-callofduty-1794074400-paris_gentle-g2_minnesota": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Monster Launch Inv '27\nPlayoffs - Bo5",
+   "duration_min": 180,
+   "location": "",
+   "sport": "esport",
+   "start": "2026-11-07T18:00:00+00:00",
+   "state": "post",
+   "title": "🎮 [CoD] Paris Gentle Mates 3–0 G2 Minnesota ✅",
+   "uid": "lq-callofduty-1794074400-paris_gentle-g2_minnesota",
+   "url": "https://liquipedia.net/callofduty/"
+  },
+  "hash": "2a47ffbe83722ee8a5a39f815d0b802e66e56eeb",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "esport"
+ },
+ "lq-callofduty-1794082800-faze_vegas-paris_gentle": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Monster Launch Inv '27\nPlayoffs - Bo5",
+   "duration_min": 180,
+   "location": "",
+   "sport": "esport",
+   "start": "2026-11-07T20:20:00+00:00",
+   "state": "post",
+   "title": "🎮 [CoD] FaZe Vegas 1–3 Paris Gentle Mates ✅",
+   "uid": "lq-callofduty-1794082800-faze_vegas-paris_gentle",
+   "url": "https://liquipedia.net/callofduty/"
+  },
+  "hash": "6595519e5236fac156a751389d8557e98503702a",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "esport"
+ },
+ "lq-callofduty-1794168600-toronto_koi-paris_gentle": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Monster Launch Inv '27\nPlayoffs - Bo5",
+   "duration_min": 180,
+   "location": "",
+   "sport": "esport",
+   "start": "2026-11-08T20:10:00+00:00",
+   "state": "post",
+   "title": "🎮 [CoD] Toronto KOI 3–1 Paris Gentle Mates ❌",
+   "uid": "lq-callofduty-1794168600-toronto_koi-paris_gentle",
+   "url": "https://liquipedia.net/callofduty/"
+  },
+  "hash": "d271067ab39b8830521460d30f1eb939c6a8c2a6",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "esport"
+ },
+ "lq-callofduty-1794174600-paris_gentle-cloud9_new_y": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Monster Launch Inv '27\nPlayoffs - Bo5",
+   "duration_min": 180,
+   "location": "",
+   "sport": "esport",
+   "start": "2026-11-08T21:50:00+00:00",
+   "state": "post",
+   "title": "🎮 [CoD] Paris Gentle Mates 3–1 Cloud9 New York ✅",
+   "uid": "lq-callofduty-1794174600-paris_gentle-cloud9_new_y",
+   "url": "https://liquipedia.net/callofduty/"
+  },
+  "hash": "9f258bf146c81a00382d5a4117900038b5a62a7c",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "esport"
+ },
+ "lq-callofduty-1794182400-toronto_koi-paris_gentle": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Monster Launch Inv '27\nPlayoffs - Bo7",
+   "duration_min": 180,
+   "location": "",
+   "sport": "esport",
+   "start": "2026-11-09T00:00:00+00:00",
+   "state": "post",
+   "title": "🎮 [CoD] Toronto KOI 4–1 Paris Gentle Mates ❌",
+   "uid": "lq-callofduty-1794182400-toronto_koi-paris_gentle",
+   "url": "https://liquipedia.net/callofduty/"
+  },
+  "hash": "575fc557837ccc7d403ec6e2a2e5e4cd9e326d7f",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "esport"
+ },
+ "tsdb-2449615": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Nations Championship\nJournée 6",
+   "duration_min": 120,
+   "location": "Stade de France",
+   "sport": "rugby",
+   "start": "2026-11-21T20:10:00+00:00",
+   "state": "pre",
+   "title": "🏉 France Rugby – Argentina Rugby",
+   "uid": "tsdb-2449615",
+   "url": ""
+  },
+  "hash": "b15b05412db79981ccfc60b7bde926b34c147279",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "rugby"
+ },
+ "tsdb-2465532": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Six Nations Championship\nJournée 1",
+   "duration_min": 120,
+   "location": "Stade de France",
+   "sport": "rugby",
+   "start": "2027-02-06T16:40:00+00:00",
+   "state": "pre",
+   "title": "🏉 France Rugby – Wales Rugby",
+   "uid": "tsdb-2465532",
+   "url": ""
+  },
+  "hash": "7403e93788e02157490b8839f59a0aed9f37371a",
+  "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "rugby"
  }
 }

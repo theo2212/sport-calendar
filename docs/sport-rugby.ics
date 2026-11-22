@@ -1,0 +1,352 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//theo2212//sport-calendar//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rugby
+X-WR-TIMEZONE:Europe/Paris
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+X-APPLE-CALENDAR-COLOR:#6A1B9A
+BEGIN:VEVENT
+UID:espn-rugby-604406@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20261025T200500Z
+DTEND:20261025T220500Z
+SUMMARY:🏉 La Rochelle 19–25 Bordeaux Begles ✅
+DESCRIPTION:🏆 Top 14\nStatut : FT\n\n🔗 https://www.espn.com/rugby/m
+ atch/_/gameId/604406/league/270559
+LOCATION:Stade Marcel-Deflandre\, La Rochelle
+URL:https://www.espn.com/rugby/match/_/gameId/604406/league/270559
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-rugby-604411@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20261031T153500Z
+DTEND:20261031T173500Z
+SUMMARY:🏉 Bordeaux Begles 19–14 Bayonne ✅
+DESCRIPTION:🏆 Top 14\nStatut : FT\n\n🔗 https://www.espn.com/rugby/m
+ atch/_/gameId/604411/league/270559
+LOCATION:Stade Chaban-Delmas\, Bordeaux
+URL:https://www.espn.com/rugby/match/_/gameId/604411/league/270559
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-rugby-604417@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20261108T140000Z
+DTEND:20261108T160000Z
+SUMMARY:🏉 Vannes 23–14 Bordeaux Begles ❌
+DESCRIPTION:🏆 Top 14\nStatut : FT\n\n🔗 https://www.espn.com/rugby/m
+ atch/_/gameId/604417/league/270559
+LOCATION:Stade de la Beaujoire\, Nantes
+URL:https://www.espn.com/rugby/match/_/gameId/604417/league/270559
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tsdb-2449615@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20261121T201000Z
+DTEND:20261121T221000Z
+SUMMARY:🏉 France Rugby – Argentina Rugby
+DESCRIPTION:🏆 Nations Championship\nJournée 6
+LOCATION:Stade de France
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-rugby-604425@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20261128T133000Z
+DTEND:20261128T153000Z
+SUMMARY:🏉 Bordeaux Begles – Montpellier Herault
+DESCRIPTION:🏆 Top 14\n\n🔗 https://www.espn.com/rugby/match/_/gameId
+ /604425/league/270559
+LOCATION:Stade Chaban-Delmas\, Bordeaux
+URL:https://www.espn.com/rugby/match/_/gameId/604425/league/270559
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-rugby-604436@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20261206T200500Z
+DTEND:20261206T220500Z
+SUMMARY:🏉 Toulon – Bordeaux Begles
+DESCRIPTION:🏆 Top 14\n\n🔗 https://www.espn.com/rugby/match/_/gameId
+ /604436/league/270559
+LOCATION:Stade Mayol\, Toulon
+URL:https://www.espn.com/rugby/match/_/gameId/604436/league/270559
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-rugby-604268@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20261213T151500Z
+DTEND:20261213T171500Z
+SUMMARY:🏉 Bordeaux Begles – Stormers
+DESCRIPTION:🏆 Champions Cup\n\n🔗 https://www.espn.com/rugby/match/_
+ /gameId/604268/league/271937
+LOCATION:Stade Chaban-Delmas\, Bordeaux
+URL:https://www.espn.com/rugby/match/_/gameId/604268/league/271937
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-rugby-604439@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20261220T200500Z
+DTEND:20261220T220500Z
+SUMMARY:🏉 Bordeaux Begles – Pau
+DESCRIPTION:🏆 Top 14\n\n🔗 https://www.espn.com/rugby/match/_/gameId
+ /604439/league/270559
+LOCATION:Stade Matmut-Atlantique\, Bordeaux
+URL:https://www.espn.com/rugby/match/_/gameId/604439/league/270559
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-rugby-604447@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20261226T000000Z
+DTEND:20261226T020000Z
+SUMMARY:🏉 Castres Olympique – Bordeaux Begles
+DESCRIPTION:🏆 Top 14\n⏰ Horaire à confirmer\n\n🔗 https://www.esp
+ n.com/rugby/match/_/gameId/604447/league/270559
+LOCATION:Stade Pierre Fabre\, Castres
+URL:https://www.espn.com/rugby/match/_/gameId/604447/league/270559
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-rugby-604453@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270102T000000Z
+DTEND:20270102T020000Z
+SUMMARY:🏉 Bordeaux Begles – Perpignan
+DESCRIPTION:🏆 Top 14\n⏰ Horaire à confirmer\n\n🔗 https://www.esp
+ n.com/rugby/match/_/gameId/604453/league/270559
+LOCATION:Stade Chaban-Delmas\, Bordeaux
+URL:https://www.espn.com/rugby/match/_/gameId/604453/league/270559
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-rugby-604280@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270110T151500Z
+DTEND:20270110T171500Z
+SUMMARY:🏉 Bordeaux Begles – Munster
+DESCRIPTION:🏆 Champions Cup\n\n🔗 https://www.espn.com/rugby/match/_
+ /gameId/604280/league/271937
+LOCATION:Stade Chaban-Delmas\, Bordeaux
+URL:https://www.espn.com/rugby/match/_/gameId/604280/league/271937
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-rugby-604286@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270116T151500Z
+DTEND:20270116T171500Z
+SUMMARY:🏉 Bristol Rugby – Bordeaux Begles
+DESCRIPTION:🏆 Champions Cup\n\n🔗 https://www.espn.com/rugby/match/_
+ /gameId/604286/league/271937
+LOCATION:Ashton Gate\, Bristol
+URL:https://www.espn.com/rugby/match/_/gameId/604286/league/271937
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-rugby-604463@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270123T000000Z
+DTEND:20270123T020000Z
+SUMMARY:🏉 Racing 92 – Bordeaux Begles
+DESCRIPTION:🏆 Top 14\n⏰ Horaire à confirmer\n\n🔗 https://www.esp
+ n.com/rugby/match/_/gameId/604463/league/270559
+LOCATION:Paris La Defense Arena\, Nanterre
+URL:https://www.espn.com/rugby/match/_/gameId/604463/league/270559
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-rugby-604467@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270130T000000Z
+DTEND:20270130T020000Z
+SUMMARY:🏉 Bordeaux Begles – Vannes
+DESCRIPTION:🏆 Top 14\n⏰ Horaire à confirmer\n\n🔗 https://www.esp
+ n.com/rugby/match/_/gameId/604467/league/270559
+LOCATION:Stade Chaban-Delmas\, Bordeaux
+URL:https://www.espn.com/rugby/match/_/gameId/604467/league/270559
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tsdb-2465532@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270206T164000Z
+DTEND:20270206T184000Z
+SUMMARY:🏉 France Rugby – Wales Rugby
+DESCRIPTION:🏆 Six Nations Championship\nJournée 1
+LOCATION:Stade de France
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-rugby-604477@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270220T000000Z
+DTEND:20270220T020000Z
+SUMMARY:🏉 Stade Francais Paris – Bordeaux Begles
+DESCRIPTION:🏆 Top 14\n⏰ Horaire à confirmer\n\n🔗 https://www.esp
+ n.com/rugby/match/_/gameId/604477/league/270559
+LOCATION:Stade Jean Bouin\, Paris
+URL:https://www.espn.com/rugby/match/_/gameId/604477/league/270559
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-rugby-604480@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270227T000000Z
+DTEND:20270227T020000Z
+SUMMARY:🏉 Bordeaux Begles – Toulon
+DESCRIPTION:🏆 Top 14\n⏰ Horaire à confirmer\n\n🔗 https://www.esp
+ n.com/rugby/match/_/gameId/604480/league/270559
+LOCATION:Stade Chaban-Delmas\, Bordeaux
+URL:https://www.espn.com/rugby/match/_/gameId/604480/league/270559
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-rugby-604487@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270320T000000Z
+DTEND:20270320T020000Z
+SUMMARY:🏉 Bayonne – Bordeaux Begles
+DESCRIPTION:🏆 Top 14\n⏰ Horaire à confirmer\n\n🔗 https://www.esp
+ n.com/rugby/match/_/gameId/604487/league/270559
+LOCATION:Stade Jean Dauger\, Bayonne
+URL:https://www.espn.com/rugby/match/_/gameId/604487/league/270559
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-rugby-604496@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270327T000000Z
+DTEND:20270327T020000Z
+SUMMARY:🏉 Bordeaux Begles – Stade Toulousain
+DESCRIPTION:🏆 Top 14\n⏰ Horaire à confirmer\n\n🔗 https://www.esp
+ n.com/rugby/match/_/gameId/604496/league/270559
+LOCATION:Stade Chaban-Delmas\, Bordeaux
+URL:https://www.espn.com/rugby/match/_/gameId/604496/league/270559
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-rugby-604504@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270417T000000Z
+DTEND:20270417T020000Z
+SUMMARY:🏉 Montpellier Herault – Bordeaux Begles
+DESCRIPTION:🏆 Top 14\n⏰ Horaire à confirmer\n\n🔗 https://www.esp
+ n.com/rugby/match/_/gameId/604504/league/270559
+LOCATION:Septeo Stadium\, Montpellier
+URL:https://www.espn.com/rugby/match/_/gameId/604504/league/270559
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-rugby-604510@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270424T000000Z
+DTEND:20270424T020000Z
+SUMMARY:🏉 Bordeaux Begles – La Rochelle
+DESCRIPTION:🏆 Top 14\n⏰ Horaire à confirmer\n\n🔗 https://www.esp
+ n.com/rugby/match/_/gameId/604510/league/270559
+LOCATION:Stade Chaban-Delmas\, Bordeaux
+URL:https://www.espn.com/rugby/match/_/gameId/604510/league/270559
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-rugby-604519@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270508T000000Z
+DTEND:20270508T020000Z
+SUMMARY:🏉 Pau – Bordeaux Begles
+DESCRIPTION:🏆 Top 14\n⏰ Horaire à confirmer\n\n🔗 https://www.esp
+ n.com/rugby/match/_/gameId/604519/league/270559
+LOCATION:Stade du Hameau\, Pau
+URL:https://www.espn.com/rugby/match/_/gameId/604519/league/270559
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-rugby-604523@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270515T000000Z
+DTEND:20270515T020000Z
+SUMMARY:🏉 Bordeaux Begles – Clermont Auvergne
+DESCRIPTION:🏆 Top 14\n⏰ Horaire à confirmer\n\n🔗 https://www.esp
+ n.com/rugby/match/_/gameId/604523/league/270559
+LOCATION:Stade Chaban-Delmas\, Bordeaux
+URL:https://www.espn.com/rugby/match/_/gameId/604523/league/270559
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

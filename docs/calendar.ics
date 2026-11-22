@@ -8,8 +8,54 @@ X-WR-TIMEZONE:Europe/Paris
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
+UID:espn-basket-401909096@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20261024T013000Z
+DTEND:20261024T040000Z
+SUMMARY:🏀 Spurs 110–114 Rockets ❌
+DESCRIPTION:🏆 Regular Season\nStatut : Final\n\n🔗 https://www.espn.
+ com/nba/game/_/gameId/401909096/rockets-spurs
+LOCATION:Moody Center\, Austin
+URL:https://www.espn.com/nba/game/_/gameId/401909096/rockets-spurs
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-basket-401909858@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20261025T000000Z
+DTEND:20261025T023000Z
+SUMMARY:🏀 Mavericks 106–122 Spurs ✅
+DESCRIPTION:🏆 Regular Season\nStatut : Final\n\n🔗 https://www.espn.
+ com/nba/game/_/gameId/401909858/spurs-mavericks
+LOCATION:American Airlines Center\, Dallas
+URL:https://www.espn.com/nba/game/_/gameId/401909858/spurs-mavericks
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-foot-401876426@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20261025T161500Z
+DTEND:20261025T181500Z
+SUMMARY:⚽ Marseille 4–3 Le Havre AC ✅
+DESCRIPTION:🏆 French Ligue 1\nStatut : Full Time\n\n🔗 https://www.e
+ spn.com/soccer/match/_/gameId/401876426/le-havre-ac-marseille
+LOCATION:Stade Vélodrome\, Marseille
+URL:https://www.espn.com/soccer/match/_/gameId/401876426/le-havre-ac-mars
+ eille
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:f1-2026-18@sport-calendar
-DTSTAMP:20261122T030210Z
+DTSTAMP:20261122T030726Z
 LAST-MODIFIED:20261122T024737Z
 SEQUENCE:0
 DTSTART:20261025T200000Z
@@ -25,8 +71,99 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:espn-rugby-604406@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20261025T200500Z
+DTEND:20261025T220500Z
+SUMMARY:🏉 La Rochelle 19–25 Bordeaux Begles ✅
+DESCRIPTION:🏆 Top 14\nStatut : FT\n\n🔗 https://www.espn.com/rugby/m
+ atch/_/gameId/604406/league/270559
+LOCATION:Stade Marcel-Deflandre\, La Rochelle
+URL:https://www.espn.com/rugby/match/_/gameId/604406/league/270559
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-basket-401909879@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20261028T000000Z
+DTEND:20261028T023000Z
+SUMMARY:🏀 Spurs 130–103 Kings ✅
+DESCRIPTION:🏆 Regular Season\nStatut : Final\n\n🔗 https://www.espn.
+ com/nba/game/_/gameId/401909879/kings-spurs
+LOCATION:Frost Bank Center\, San Antonio
+URL:https://www.espn.com/nba/game/_/gameId/401909879/kings-spurs
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-basket-401909890@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20261029T010000Z
+DTEND:20261029T033000Z
+SUMMARY:🏀 Jazz 111–117 Spurs ✅
+DESCRIPTION:🏆 Regular Season\nStatut : Final\n\n🔗 https://www.espn.
+ com/nba/game/_/gameId/401909890/spurs-jazz
+LOCATION:Delta Center\, Salt Lake City
+URL:https://www.espn.com/nba/game/_/gameId/401909890/spurs-jazz
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-rugby-604411@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20261031T153500Z
+DTEND:20261031T173500Z
+SUMMARY:🏉 Bordeaux Begles 19–14 Bayonne ✅
+DESCRIPTION:🏆 Top 14\nStatut : FT\n\n🔗 https://www.espn.com/rugby/m
+ atch/_/gameId/604411/league/270559
+LOCATION:Stade Chaban-Delmas\, Bordeaux
+URL:https://www.espn.com/rugby/match/_/gameId/604411/league/270559
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-basket-401909901@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20261101T000000Z
+DTEND:20261101T023000Z
+SUMMARY:🏀 Spurs 121–111 Timberwolves ✅
+DESCRIPTION:🏆 Regular Season\nStatut : Final\n\n🔗 https://www.espn.
+ com/nba/game/_/gameId/401909901/timberwolves-spurs
+LOCATION:Frost Bank Center\, San Antonio
+URL:https://www.espn.com/nba/game/_/gameId/401909901/timberwolves-spurs
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-foot-401876417@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20261101T194500Z
+DTEND:20261101T214500Z
+SUMMARY:⚽ Marseille 2–0 Toulouse ✅
+DESCRIPTION:🏆 French Ligue 1\nStatut : Full Time\n\n🔗 https://www.e
+ spn.com/soccer/match/_/gameId/401876417/toulouse-marseille
+LOCATION:Stade Vélodrome\, Marseille
+URL:https://www.espn.com/soccer/match/_/gameId/401876417/toulouse-marseil
+ le
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:f1-2026-19@sport-calendar
-DTSTAMP:20261122T030210Z
+DTSTAMP:20261122T030726Z
 LAST-MODIFIED:20261122T024737Z
 SEQUENCE:0
 DTSTART:20261101T200000Z
@@ -42,8 +179,155 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:espn-basket-401909917@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20261103T013000Z
+DTEND:20261103T040000Z
+SUMMARY:🏀 Spurs 119–97 Jazz ✅
+DESCRIPTION:🏆 Regular Season\nStatut : Final\n\n🔗 https://www.espn.
+ com/nba/game/_/gameId/401909917/jazz-spurs
+LOCATION:Frost Bank Center\, San Antonio
+URL:https://www.espn.com/nba/game/_/gameId/401909917/jazz-spurs
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-basket-401909933@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20261105T023000Z
+DTEND:20261105T050000Z
+SUMMARY:🏀 Spurs 112–111 Mavericks ✅
+DESCRIPTION:🏆 Regular Season\nStatut : Final\n\n🔗 https://www.espn.
+ com/nba/game/_/gameId/401909933/mavericks-spurs
+LOCATION:Frost Bank Center\, San Antonio
+URL:https://www.espn.com/nba/game/_/gameId/401909933/mavericks-spurs
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-foot-401915533@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20261105T200000Z
+DTEND:20261105T220000Z
+SUMMARY:⚽ Leverkusen 0–1 Marseille ✅
+DESCRIPTION:🏆 UEFA Europa League\nStatut : Full Time\n\n🔗 https://w
+ ww.espn.com/soccer/match/_/gameId/401915533/marseille-bayer-leverkusen
+LOCATION:BayArena\, Leverkusen
+URL:https://www.espn.com/soccer/match/_/gameId/401915533/marseille-bayer-
+ leverkusen
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lq-callofduty-1793995200-paris_gentle-cloud9_new_y@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20261106T200000Z
+DTEND:20261106T230000Z
+SUMMARY:🎮 [CoD] Paris Gentle Mates 3–0 Cloud9 New York ✅
+DESCRIPTION:🏆 Monster Launch Inv '27\nGroup D - Bo5\n\n🔗 https://li
+ quipedia.net/callofduty/
+URL:https://liquipedia.net/callofduty/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lq-callofduty-1794009600-los_angeles_-paris_gentle@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20261107T000000Z
+DTEND:20261107T030000Z
+SUMMARY:🎮 [CoD] Los Angeles Thieves 2–3 Paris Gentle Mates ✅
+DESCRIPTION:🏆 Monster Launch Inv '27\nGroup D - Bo5\n\n🔗 https://li
+ quipedia.net/callofduty/
+URL:https://liquipedia.net/callofduty/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-basket-401909295@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20261107T030000Z
+DTEND:20261107T053000Z
+SUMMARY:🏀 Kings 109–124 Spurs ✅
+DESCRIPTION:🏆 Regular Season\nStatut : Final\n\n🔗 https://www.espn.
+ com/nba/game/_/gameId/401909295/spurs-kings
+LOCATION:Golden 1 Center\, Sacramento
+URL:https://www.espn.com/nba/game/_/gameId/401909295/spurs-kings
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lq-callofduty-1794074400-paris_gentle-g2_minnesota@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20261107T180000Z
+DTEND:20261107T210000Z
+SUMMARY:🎮 [CoD] Paris Gentle Mates 3–0 G2 Minnesota ✅
+DESCRIPTION:🏆 Monster Launch Inv '27\nPlayoffs - Bo5\n\n🔗 https://l
+ iquipedia.net/callofduty/
+URL:https://liquipedia.net/callofduty/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lq-callofduty-1794082800-faze_vegas-paris_gentle@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20261107T202000Z
+DTEND:20261107T232000Z
+SUMMARY:🎮 [CoD] FaZe Vegas 1–3 Paris Gentle Mates ✅
+DESCRIPTION:🏆 Monster Launch Inv '27\nPlayoffs - Bo5\n\n🔗 https://l
+ iquipedia.net/callofduty/
+URL:https://liquipedia.net/callofduty/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-basket-401909944@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20261108T030000Z
+DTEND:20261108T053000Z
+SUMMARY:🏀 Trail Blazers 103–125 Spurs ✅
+DESCRIPTION:🏆 Regular Season\nStatut : Final\n\n🔗 https://www.espn.
+ com/nba/game/_/gameId/401909944/spurs-trail-blazers
+LOCATION:Moda Center\, Portland
+URL:https://www.espn.com/nba/game/_/gameId/401909944/spurs-trail-blazers
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-rugby-604417@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20261108T140000Z
+DTEND:20261108T160000Z
+SUMMARY:🏉 Vannes 23–14 Bordeaux Begles ❌
+DESCRIPTION:🏆 Top 14\nStatut : FT\n\n🔗 https://www.espn.com/rugby/m
+ atch/_/gameId/604417/league/270559
+LOCATION:Stade de la Beaujoire\, Nantes
+URL:https://www.espn.com/rugby/match/_/gameId/604417/league/270559
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:f1-2026-20@sport-calendar
-DTSTAMP:20261122T030210Z
+DTSTAMP:20261122T030726Z
 LAST-MODIFIED:20261122T024737Z
 SEQUENCE:0
 DTSTART:20261108T170000Z
@@ -59,8 +343,213 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:espn-foot-401876404@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20261108T194500Z
+DTEND:20261108T214500Z
+SUMMARY:⚽ Lens 1–2 Marseille ✅
+DESCRIPTION:🏆 French Ligue 1\nStatut : Full Time\n\n🔗 https://www.e
+ spn.com/soccer/match/_/gameId/401876404/marseille-lens
+LOCATION:Stade Bollaert-Delelis\, Lens
+URL:https://www.espn.com/soccer/match/_/gameId/401876404/marseille-lens
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lq-callofduty-1794168600-toronto_koi-paris_gentle@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20261108T201000Z
+DTEND:20261108T231000Z
+SUMMARY:🎮 [CoD] Toronto KOI 3–1 Paris Gentle Mates ❌
+DESCRIPTION:🏆 Monster Launch Inv '27\nPlayoffs - Bo5\n\n🔗 https://l
+ iquipedia.net/callofduty/
+URL:https://liquipedia.net/callofduty/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lq-callofduty-1794174600-paris_gentle-cloud9_new_y@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20261108T215000Z
+DTEND:20261109T005000Z
+SUMMARY:🎮 [CoD] Paris Gentle Mates 3–1 Cloud9 New York ✅
+DESCRIPTION:🏆 Monster Launch Inv '27\nPlayoffs - Bo5\n\n🔗 https://l
+ iquipedia.net/callofduty/
+URL:https://liquipedia.net/callofduty/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lq-callofduty-1794182400-toronto_koi-paris_gentle@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20261109T000000Z
+DTEND:20261109T030000Z
+SUMMARY:🎮 [CoD] Toronto KOI 4–1 Paris Gentle Mates ❌
+DESCRIPTION:🏆 Monster Launch Inv '27\nPlayoffs - Bo7\n\n🔗 https://l
+ iquipedia.net/callofduty/
+URL:https://liquipedia.net/callofduty/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-basket-401909958@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20261110T020000Z
+DTEND:20261110T043000Z
+SUMMARY:🏀 Suns 96–122 Spurs ✅
+DESCRIPTION:🏆 Regular Season\nStatut : Final\n\n🔗 https://www.espn.
+ com/nba/game/_/gameId/401909958/spurs-suns
+LOCATION:Mortgage Matchup Center\, Phoenix
+URL:https://www.espn.com/nba/game/_/gameId/401909958/spurs-suns
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-basket-401909969@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20261112T010000Z
+DTEND:20261112T033000Z
+SUMMARY:🏀 Bulls 119–124 Spurs ✅
+DESCRIPTION:🏆 Regular Season\nStatut : Final\n\n🔗 https://www.espn.
+ com/nba/game/_/gameId/401909969/spurs-bulls
+LOCATION:United Center\, Chicago
+URL:https://www.espn.com/nba/game/_/gameId/401909969/spurs-bulls
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-foot-401861151@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20261112T194500Z
+DTEND:20261112T214500Z
+SUMMARY:⚽ Italy 3–1 France ❌
+DESCRIPTION:🏆 UEFA Nations League\nStatut : Full Time\n\n🔗 https://
+ www.espn.com/soccer/match/_/gameId/401861151/france-italy
+LOCATION:San Siro\, Milano
+URL:https://www.espn.com/soccer/match/_/gameId/401861151/france-italy
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-basket-401909302@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20261114T023000Z
+DTEND:20261114T050000Z
+SUMMARY:🏀 Spurs 123–85 Warriors ✅
+DESCRIPTION:🏆 Regular Season\nStatut : Final\n\n🔗 https://www.espn.
+ com/nba/game/_/gameId/401909302/warriors-spurs
+LOCATION:Frost Bank Center\, San Antonio
+URL:https://www.espn.com/nba/game/_/gameId/401909302/warriors-spurs
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-foot-401861177@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20261115T194500Z
+DTEND:20261115T214500Z
+SUMMARY:⚽ France 2–1 Türkiye ✅
+DESCRIPTION:🏆 UEFA Nations League\nStatut : Full Time\n\n🔗 https://
+ www.espn.com/soccer/match/_/gameId/401861177/turkiye-france
+LOCATION:Stade Atlantique\, Bordeaux
+URL:https://www.espn.com/soccer/match/_/gameId/401861177/turkiye-france
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-basket-401909988@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20261115T220000Z
+DTEND:20261116T003000Z
+SUMMARY:🏀 Jazz 102–110 Spurs ✅
+DESCRIPTION:🏆 Regular Season\nStatut : Final\n\n🔗 https://www.espn.
+ com/nba/game/_/gameId/401909988/spurs-jazz
+LOCATION:Delta Center\, Salt Lake City
+URL:https://www.espn.com/nba/game/_/gameId/401909988/spurs-jazz
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-basket-401910004@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20261118T010000Z
+DTEND:20261118T033000Z
+SUMMARY:🏀 Spurs 93–105 Pistons ❌
+DESCRIPTION:🏆 Regular Season\nStatut : Final\n\n🔗 https://www.espn.
+ com/nba/game/_/gameId/401910004/pistons-spurs
+LOCATION:Frost Bank Center\, San Antonio
+URL:https://www.espn.com/nba/game/_/gameId/401910004/pistons-spurs
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-basket-401910022@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20261120T010000Z
+DTEND:20261120T033000Z
+SUMMARY:🏀 Spurs 124–112 Clippers ✅
+DESCRIPTION:🏆 Regular Season\nStatut : Final\n\n🔗 https://www.espn.
+ com/nba/game/_/gameId/401910022/clippers-spurs
+LOCATION:Frost Bank Center\, San Antonio
+URL:https://www.espn.com/nba/game/_/gameId/401910022/clippers-spurs
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tsdb-2449615@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20261121T201000Z
+DTEND:20261121T221000Z
+SUMMARY:🏉 France Rugby – Argentina Rugby
+DESCRIPTION:🏆 Nations Championship\nJournée 6
+LOCATION:Stade de France
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-basket-401910027@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20261122T010000Z
+DTEND:20261122T033000Z
+SUMMARY:🏀 🔴 Spurs None–None Pelicans
+DESCRIPTION:🏆 Regular Season\nStatut : In Progress\n\n🔗 https://www
+ .espn.com/nba/game?gameId=401910027
+LOCATION:Frost Bank Center\, San Antonio
+URL:https://www.espn.com/nba/game?gameId=401910027
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:f1-2026-21@sport-calendar
-DTSTAMP:20261122T030210Z
+DTSTAMP:20261122T030726Z
 LAST-MODIFIED:20261122T024737Z
 SEQUENCE:0
 DTSTART:20261122T040000Z
@@ -74,8 +563,116 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:espn-foot-401876400@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20261122T194500Z
+DTEND:20261122T214500Z
+SUMMARY:⚽ Marseille – Le Mans
+DESCRIPTION:🏆 French Ligue 1\n\n🔗 https://www.espn.com/soccer/match
+ /_/gameId/401876400/le-mans-marseille
+LOCATION:Stade Vélodrome\, Marseille
+URL:https://www.espn.com/soccer/match/_/gameId/401876400/le-mans-marseill
+ e
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-basket-401910045@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20261124T030000Z
+DTEND:20261124T053000Z
+SUMMARY:🏀 Kings – Spurs
+DESCRIPTION:🏆 Regular Season\n\n🔗 https://www.espn.com/nba/game/_/g
+ ameId/401910045/spurs-kings
+LOCATION:Golden 1 Center\, Sacramento
+URL:https://www.espn.com/nba/game/_/gameId/401910045/spurs-kings
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-basket-401909325@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20261126T030000Z
+DTEND:20261126T053000Z
+SUMMARY:🏀 Trail Blazers – Spurs
+DESCRIPTION:🏆 Regular Season\n\n🔗 https://www.espn.com/nba/game/_/g
+ ameId/401909325/spurs-trail-blazers
+LOCATION:Moda Center\, Portland
+URL:https://www.espn.com/nba/game/_/gameId/401909325/spurs-trail-blazers
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-foot-401915507@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20261126T174500Z
+DTEND:20261126T194500Z
+SUMMARY:⚽ Marseille – Levski Sofia
+DESCRIPTION:🏆 UEFA Europa League\n\n🔗 https://www.espn.com/soccer/m
+ atch/_/gameId/401915507/levski-sofia-marseille
+LOCATION:Stade Vélodrome\, Marseille
+URL:https://www.espn.com/soccer/match/_/gameId/401915507/levski-sofia-mar
+ seille
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-basket-401909333@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20261128T023000Z
+DTEND:20261128T050000Z
+SUMMARY:🏀 Spurs – Lakers
+DESCRIPTION:🏆 Regular Season\n\n🔗 https://www.espn.com/nba/game/_/g
+ ameId/401909333/lakers-spurs
+LOCATION:Frost Bank Center\, San Antonio
+URL:https://www.espn.com/nba/game/_/gameId/401909333/lakers-spurs
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-rugby-604425@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20261128T133000Z
+DTEND:20261128T153000Z
+SUMMARY:🏉 Bordeaux Begles – Montpellier Herault
+DESCRIPTION:🏆 Top 14\n\n🔗 https://www.espn.com/rugby/match/_/gameId
+ /604425/league/270559
+LOCATION:Stade Chaban-Delmas\, Bordeaux
+URL:https://www.espn.com/rugby/match/_/gameId/604425/league/270559
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-foot-401876393@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20261129T140000Z
+DTEND:20261129T160000Z
+SUMMARY:⚽ Auxerre – Marseille
+DESCRIPTION:🏆 French Ligue 1\n\n🔗 https://www.espn.com/soccer/match
+ /_/gameId/401876393/marseille-aj-auxerre
+LOCATION:Stade de l'Abbé-Deschamps\, Auxerre
+URL:https://www.espn.com/soccer/match/_/gameId/401876393/marseille-aj-aux
+ erre
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:f1-2026-22@sport-calendar
-DTSTAMP:20261122T030210Z
+DTSTAMP:20261122T030726Z
 LAST-MODIFIED:20261122T024737Z
 SEQUENCE:0
 DTSTART:20261129T160000Z
@@ -89,8 +686,53 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:espn-basket-401910052@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20261129T210000Z
+DTEND:20261129T233000Z
+SUMMARY:🏀 Spurs – Celtics
+DESCRIPTION:🏆 Regular Season\n\n🔗 https://www.espn.com/nba/game/_/g
+ ameId/401910052/celtics-spurs
+LOCATION:Frost Bank Center\, San Antonio
+URL:https://www.espn.com/nba/game/_/gameId/401910052/celtics-spurs
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-basket-401910066@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20261201T010000Z
+DTEND:20261201T033000Z
+SUMMARY:🏀 Bucks – Spurs
+DESCRIPTION:🏆 Regular Season\n\n🔗 https://www.espn.com/nba/game/_/g
+ ameId/401910066/spurs-bucks
+LOCATION:Fiserv Forum\, Milwaukee
+URL:https://www.espn.com/nba/game/_/gameId/401910066/spurs-bucks
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-basket-401910088@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20261204T010000Z
+DTEND:20261204T033000Z
+SUMMARY:🏀 Spurs – Raptors
+DESCRIPTION:🏆 Regular Season\n\n🔗 https://www.espn.com/nba/game/_/g
+ ameId/401910088/raptors-spurs
+LOCATION:Frost Bank Center\, San Antonio
+URL:https://www.espn.com/nba/game/_/gameId/401910088/raptors-spurs
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:f1-2026-23@sport-calendar
-DTSTAMP:20261122T030210Z
+DTSTAMP:20261122T030726Z
 LAST-MODIFIED:20261122T024737Z
 SEQUENCE:0
 DTSTART:20261206T130000Z
@@ -100,6 +742,1513 @@ DESCRIPTION:🏆 Formule 1 2026 – manche 23\nYas Marina Circuit\n\n🔗
   https://en.wikipedia.org/wiki/2026_Abu_Dhabi_Grand_Prix
 LOCATION:Abu Dhabi\, UAE
 URL:https://en.wikipedia.org/wiki/2026_Abu_Dhabi_Grand_Prix
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-foot-401876383@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20261206T194500Z
+DTEND:20261206T214500Z
+SUMMARY:⚽ Marseille – Nice
+DESCRIPTION:🏆 French Ligue 1\n\n🔗 https://www.espn.com/soccer/match
+ /_/gameId/401876383/nice-marseille
+LOCATION:Stade Vélodrome\, Marseille
+URL:https://www.espn.com/soccer/match/_/gameId/401876383/nice-marseille
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-rugby-604436@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20261206T200500Z
+DTEND:20261206T220500Z
+SUMMARY:🏉 Toulon – Bordeaux Begles
+DESCRIPTION:🏆 Top 14\n\n🔗 https://www.espn.com/rugby/match/_/gameId
+ /604436/league/270559
+LOCATION:Stade Mayol\, Toulon
+URL:https://www.espn.com/rugby/match/_/gameId/604436/league/270559
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-foot-401915495@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20261210T174500Z
+DTEND:20261210T194500Z
+SUMMARY:⚽ Marseille – Celta Vigo
+DESCRIPTION:🏆 UEFA Europa League\n\n🔗 https://www.espn.com/soccer/m
+ atch/_/gameId/401915495/celta-vigo-marseille
+LOCATION:Stade Vélodrome\, Marseille
+URL:https://www.espn.com/soccer/match/_/gameId/401915495/celta-vigo-marse
+ ille
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-rugby-604268@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20261213T151500Z
+DTEND:20261213T171500Z
+SUMMARY:🏉 Bordeaux Begles – Stormers
+DESCRIPTION:🏆 Champions Cup\n\n🔗 https://www.espn.com/rugby/match/_
+ /gameId/604268/league/271937
+LOCATION:Stade Chaban-Delmas\, Bordeaux
+URL:https://www.espn.com/rugby/match/_/gameId/604268/league/271937
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-foot-401876368@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20261213T194500Z
+DTEND:20261213T214500Z
+SUMMARY:⚽ Lyon – Marseille
+DESCRIPTION:🏆 French Ligue 1\n\n🔗 https://www.espn.com/soccer/match
+ /_/gameId/401876368/marseille-lyon
+LOCATION:Groupama Stadium\, Lyon
+URL:https://www.espn.com/soccer/match/_/gameId/401876368/marseille-lyon
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-basket-401910102@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20261214T000000Z
+DTEND:20261214T023000Z
+SUMMARY:🏀 Spurs – Clippers
+DESCRIPTION:🏆 Regular Season\n\n🔗 https://www.espn.com/nba/game/_/g
+ ameId/401910102/clippers-spurs
+LOCATION:Frost Bank Center\, San Antonio
+URL:https://www.espn.com/nba/game/_/gameId/401910102/clippers-spurs
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-basket-401910115@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20261216T010000Z
+DTEND:20261216T033000Z
+SUMMARY:🏀 Cavaliers – Spurs
+DESCRIPTION:🏆 Regular Season\n\n🔗 https://www.espn.com/nba/game/_/g
+ ameId/401910115/spurs-cavaliers
+LOCATION:Rocket Arena\, Cleveland
+URL:https://www.espn.com/nba/game/_/gameId/401910115/spurs-cavaliers
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-basket-401910123@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20261217T003000Z
+DTEND:20261217T030000Z
+SUMMARY:🏀 Raptors – Spurs
+DESCRIPTION:🏆 Regular Season\n\n🔗 https://www.espn.com/nba/game/_/g
+ ameId/401910123/spurs-raptors
+LOCATION:Scotiabank Arena\, Toronto
+URL:https://www.espn.com/nba/game/_/gameId/401910123/spurs-raptors
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-basket-401910144@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20261219T010000Z
+DTEND:20261219T033000Z
+SUMMARY:🏀 Spurs – Bulls
+DESCRIPTION:🏆 Regular Season\n\n🔗 https://www.espn.com/nba/game/_/g
+ ameId/401910144/bulls-spurs
+LOCATION:Frost Bank Center\, San Antonio
+URL:https://www.espn.com/nba/game/_/gameId/401910144/bulls-spurs
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-rugby-604439@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20261220T200500Z
+DTEND:20261220T220500Z
+SUMMARY:🏉 Bordeaux Begles – Pau
+DESCRIPTION:🏆 Top 14\n\n🔗 https://www.espn.com/rugby/match/_/gameId
+ /604439/league/270559
+LOCATION:Stade Matmut-Atlantique\, Bordeaux
+URL:https://www.espn.com/rugby/match/_/gameId/604439/league/270559
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-basket-401910155@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20261221T000000Z
+DTEND:20261221T023000Z
+SUMMARY:🏀 Pelicans – Spurs
+DESCRIPTION:🏆 Regular Season\n\n🔗 https://www.espn.com/nba/game/_/g
+ ameId/401910155/spurs-pelicans
+LOCATION:Smoothie King Center\, New Orleans
+URL:https://www.espn.com/nba/game/_/gameId/401910155/spurs-pelicans
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-basket-401910166@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20261222T010000Z
+DTEND:20261222T033000Z
+SUMMARY:🏀 Spurs – Bucks
+DESCRIPTION:🏆 Regular Season\n\n🔗 https://www.espn.com/nba/game/_/g
+ ameId/401910166/bucks-spurs
+LOCATION:Frost Bank Center\, San Antonio
+URL:https://www.espn.com/nba/game/_/gameId/401910166/bucks-spurs
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-basket-401910176@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20261224T003000Z
+DTEND:20261224T030000Z
+SUMMARY:🏀 Nets – Spurs
+DESCRIPTION:🏆 Regular Season\n\n🔗 https://www.espn.com/nba/game/_/g
+ ameId/401910176/spurs-nets
+LOCATION:Barclays Center\, Brooklyn
+URL:https://www.espn.com/nba/game/_/gameId/401910176/spurs-nets
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-basket-401909097@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20261225T170000Z
+DTEND:20261225T193000Z
+SUMMARY:🏀 Knicks – Spurs
+DESCRIPTION:🏆 Regular Season\n\n🔗 https://www.espn.com/nba/game/_/g
+ ameId/401909097/spurs-knicks
+LOCATION:Madison Square Garden\, New York
+URL:https://www.espn.com/nba/game/_/gameId/401909097/spurs-knicks
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-rugby-604447@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20261226T000000Z
+DTEND:20261226T020000Z
+SUMMARY:🏉 Castres Olympique – Bordeaux Begles
+DESCRIPTION:🏆 Top 14\n⏰ Horaire à confirmer\n\n🔗 https://www.esp
+ n.com/rugby/match/_/gameId/604447/league/270559
+LOCATION:Stade Pierre Fabre\, Castres
+URL:https://www.espn.com/rugby/match/_/gameId/604447/league/270559
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-basket-401910202@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20261228T000000Z
+DTEND:20261228T023000Z
+SUMMARY:🏀 Spurs – Hawks
+DESCRIPTION:🏆 Regular Season\n\n🔗 https://www.espn.com/nba/game/_/g
+ ameId/401910202/hawks-spurs
+LOCATION:Frost Bank Center\, San Antonio
+URL:https://www.espn.com/nba/game/_/gameId/401910202/hawks-spurs
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-basket-401910215@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20261230T010000Z
+DTEND:20261230T033000Z
+SUMMARY:🏀 Grizzlies – Spurs
+DESCRIPTION:🏆 Regular Season\n\n🔗 https://www.espn.com/nba/game/_/g
+ ameId/401910215/spurs-grizzlies
+LOCATION:FedExForum\, Memphis
+URL:https://www.espn.com/nba/game/_/gameId/401910215/spurs-grizzlies
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-basket-401910226@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20261231T180000Z
+DTEND:20261231T203000Z
+SUMMARY:🏀 Hornets – Spurs
+DESCRIPTION:🏆 Regular Season\n\n🔗 https://www.espn.com/nba/game/_/g
+ ameId/401910226/spurs-hornets
+LOCATION:Spectrum Center\, Charlotte
+URL:https://www.espn.com/nba/game/_/gameId/401910226/spurs-hornets
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-basket-401910235@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270101T220000Z
+DTEND:20270102T003000Z
+SUMMARY:🏀 Wizards – Spurs
+DESCRIPTION:🏆 Regular Season\n\n🔗 https://www.espn.com/nba/game/_/g
+ ameId/401910235/spurs-wizards
+LOCATION:Capital One Arena\, Washington
+URL:https://www.espn.com/nba/game/_/gameId/401910235/spurs-wizards
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-rugby-604453@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270102T000000Z
+DTEND:20270102T020000Z
+SUMMARY:🏉 Bordeaux Begles – Perpignan
+DESCRIPTION:🏆 Top 14\n⏰ Horaire à confirmer\n\n🔗 https://www.esp
+ n.com/rugby/match/_/gameId/604453/league/270559
+LOCATION:Stade Chaban-Delmas\, Bordeaux
+URL:https://www.espn.com/rugby/match/_/gameId/604453/league/270559
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-foot-401876367@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270102T160000Z
+DTEND:20270102T180000Z
+SUMMARY:⚽ Brest – Marseille
+DESCRIPTION:🏆 French Ligue 1\n\n🔗 https://www.espn.com/soccer/match
+ /_/gameId/401876367/marseille-brest
+LOCATION:Stade Francis-Le Blé\, Brest
+URL:https://www.espn.com/soccer/match/_/gameId/401876367/marseille-brest
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-basket-401910257@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270104T000000Z
+DTEND:20270104T023000Z
+SUMMARY:🏀 Timberwolves – Spurs
+DESCRIPTION:🏆 Regular Season\n\n🔗 https://www.espn.com/nba/game/_/g
+ ameId/401910257/spurs-timberwolves
+LOCATION:Target Center\, Minneapolis
+URL:https://www.espn.com/nba/game/_/gameId/401910257/spurs-timberwolves
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-basket-401910277@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270107T010000Z
+DTEND:20270107T033000Z
+SUMMARY:🏀 Spurs – Pacers
+DESCRIPTION:🏆 Regular Season\n\n🔗 https://www.espn.com/nba/game/_/g
+ ameId/401910277/pacers-spurs
+LOCATION:Frost Bank Center\, San Antonio
+URL:https://www.espn.com/nba/game/_/gameId/401910277/pacers-spurs
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-basket-401910295@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270109T010000Z
+DTEND:20270109T033000Z
+SUMMARY:🏀 Spurs – Grizzlies
+DESCRIPTION:🏆 Regular Season\n\n🔗 https://www.espn.com/nba/game/_/g
+ ameId/401910295/grizzlies-spurs
+LOCATION:Frost Bank Center\, San Antonio
+URL:https://www.espn.com/nba/game/_/gameId/401910295/grizzlies-spurs
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-rugby-604280@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270110T151500Z
+DTEND:20270110T171500Z
+SUMMARY:🏉 Bordeaux Begles – Munster
+DESCRIPTION:🏆 Champions Cup\n\n🔗 https://www.espn.com/rugby/match/_
+ /gameId/604280/league/271937
+LOCATION:Stade Chaban-Delmas\, Bordeaux
+URL:https://www.espn.com/rugby/match/_/gameId/604280/league/271937
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-basket-401910305@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270110T200000Z
+DTEND:20270110T223000Z
+SUMMARY:🏀 Hawks – Spurs
+DESCRIPTION:🏆 Regular Season\n\n🔗 https://www.espn.com/nba/game/_/g
+ ameId/401910305/spurs-hawks
+LOCATION:State Farm Arena\, Atlanta
+URL:https://www.espn.com/nba/game/_/gameId/401910305/spurs-hawks
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-basket-401910334@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270114T190000Z
+DTEND:20270114T213000Z
+SUMMARY:🏀 Spurs – Pelicans
+DESCRIPTION:🏆 Regular Season\n\n🔗 https://www.espn.com/nba/game/_/g
+ ameId/401910334/pelicans-spurs
+LOCATION:Accor Arena\, Paris
+URL:https://www.espn.com/nba/game/_/gameId/401910334/pelicans-spurs
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-foot-401876355@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270115T194500Z
+DTEND:20270115T214500Z
+SUMMARY:⚽ Marseille – Lille
+DESCRIPTION:🏆 French Ligue 1\n\n🔗 https://www.espn.com/soccer/match
+ /_/gameId/401876355/lille-marseille
+LOCATION:Stade Vélodrome\, Marseille
+URL:https://www.espn.com/soccer/match/_/gameId/401876355/lille-marseille
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-rugby-604286@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270116T151500Z
+DTEND:20270116T171500Z
+SUMMARY:🏉 Bristol Rugby – Bordeaux Begles
+DESCRIPTION:🏆 Champions Cup\n\n🔗 https://www.espn.com/rugby/match/_
+ /gameId/604286/league/271937
+LOCATION:Ashton Gate\, Bristol
+URL:https://www.espn.com/rugby/match/_/gameId/604286/league/271937
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-basket-401910357@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270117T153000Z
+DTEND:20270117T180000Z
+SUMMARY:🏀 Pelicans – Spurs
+DESCRIPTION:🏆 Regular Season\n\n🔗 https://www.espn.com/nba/game/_/g
+ ameId/401910357/spurs-pelicans
+LOCATION:Co-op Live\, Manchester
+URL:https://www.espn.com/nba/game/_/gameId/401910357/spurs-pelicans
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-basket-401910383@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270121T023000Z
+DTEND:20270121T050000Z
+SUMMARY:🏀 Spurs – Heat
+DESCRIPTION:🏆 Regular Season\n\n🔗 https://www.espn.com/nba/game/_/g
+ ameId/401910383/heat-spurs
+LOCATION:Frost Bank Center\, San Antonio
+URL:https://www.espn.com/nba/game/_/gameId/401910383/heat-spurs
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-foot-401915475@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270121T200000Z
+DTEND:20270121T220000Z
+SUMMARY:⚽ Celtic – Marseille
+DESCRIPTION:🏆 UEFA Europa League\n\n🔗 https://www.espn.com/soccer/m
+ atch/_/gameId/401915475/marseille-celtic
+LOCATION:Celtic Park\, Glasgow
+URL:https://www.espn.com/soccer/match/_/gameId/401915475/marseille-celtic
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-rugby-604463@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270123T000000Z
+DTEND:20270123T020000Z
+SUMMARY:🏉 Racing 92 – Bordeaux Begles
+DESCRIPTION:🏆 Top 14\n⏰ Horaire à confirmer\n\n🔗 https://www.esp
+ n.com/rugby/match/_/gameId/604463/league/270559
+LOCATION:Paris La Defense Arena\, Nanterre
+URL:https://www.espn.com/rugby/match/_/gameId/604463/league/270559
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-basket-401910396@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270123T023000Z
+DTEND:20270123T050000Z
+SUMMARY:🏀 Spurs – Timberwolves
+DESCRIPTION:🏆 Regular Season\n\n🔗 https://www.espn.com/nba/game/_/g
+ ameId/401910396/timberwolves-spurs
+LOCATION:Frost Bank Center\, San Antonio
+URL:https://www.espn.com/nba/game/_/gameId/401910396/timberwolves-spurs
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-foot-401876345@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270124T161500Z
+DTEND:20270124T181500Z
+SUMMARY:⚽ Lorient – Marseille
+DESCRIPTION:🏆 French Ligue 1\n\n🔗 https://www.espn.com/soccer/match
+ /_/gameId/401876345/marseille-lorient
+LOCATION:Stade du Moustoir - Yves Allainmat\, Lorient
+URL:https://www.espn.com/soccer/match/_/gameId/401876345/marseille-lorien
+ t
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-basket-401910406@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270124T203000Z
+DTEND:20270124T230000Z
+SUMMARY:🏀 Spurs – Trail Blazers
+DESCRIPTION:🏆 Regular Season\n\n🔗 https://www.espn.com/nba/game/_/g
+ ameId/401910406/trail-blazers-spurs
+LOCATION:Frost Bank Center\, San Antonio
+URL:https://www.espn.com/nba/game/_/gameId/401910406/trail-blazers-spurs
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-basket-401910424@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270127T010000Z
+DTEND:20270127T033000Z
+SUMMARY:🏀 Spurs – Rockets
+DESCRIPTION:🏆 Regular Season\n\n🔗 https://www.espn.com/nba/game/_/g
+ ameId/401910424/rockets-spurs
+LOCATION:Frost Bank Center\, San Antonio
+URL:https://www.espn.com/nba/game/_/gameId/401910424/rockets-spurs
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-basket-401910433@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270128T010000Z
+DTEND:20270128T033000Z
+SUMMARY:🏀 Spurs – Hornets
+DESCRIPTION:🏆 Regular Season\n\n🔗 https://www.espn.com/nba/game/_/g
+ ameId/401910433/hornets-spurs
+LOCATION:Frost Bank Center\, San Antonio
+URL:https://www.espn.com/nba/game/_/gameId/401910433/hornets-spurs
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-foot-401915429@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270128T200000Z
+DTEND:20270128T220000Z
+SUMMARY:⚽ Marseille – Anderlecht
+DESCRIPTION:🏆 UEFA Europa League\n\n🔗 https://www.espn.com/soccer/m
+ atch/_/gameId/401915429/anderlecht-marseille
+LOCATION:Stade Vélodrome\, Marseille
+URL:https://www.espn.com/soccer/match/_/gameId/401915429/anderlecht-marse
+ ille
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-rugby-604467@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270130T000000Z
+DTEND:20270130T020000Z
+SUMMARY:🏉 Bordeaux Begles – Vannes
+DESCRIPTION:🏆 Top 14\n⏰ Horaire à confirmer\n\n🔗 https://www.esp
+ n.com/rugby/match/_/gameId/604467/league/270559
+LOCATION:Stade Chaban-Delmas\, Bordeaux
+URL:https://www.espn.com/rugby/match/_/gameId/604467/league/270559
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-basket-401910453@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270130T223000Z
+DTEND:20270131T010000Z
+SUMMARY:🏀 Warriors – Spurs
+DESCRIPTION:🏆 Regular Season\n\n🔗 https://www.espn.com/nba/game/_/g
+ ameId/401910453/spurs-warriors
+LOCATION:Chase Center\, San Francisco
+URL:https://www.espn.com/nba/game/_/gameId/401910453/spurs-warriors
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-foot-401876336@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270131T161500Z
+DTEND:20270131T181500Z
+SUMMARY:⚽ Marseille – Troyes
+DESCRIPTION:🏆 French Ligue 1\n\n🔗 https://www.espn.com/soccer/match
+ /_/gameId/401876336/troyes-marseille
+LOCATION:Stade Vélodrome\, Marseille
+URL:https://www.espn.com/soccer/match/_/gameId/401876336/troyes-marseille
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-basket-401910473@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270202T030000Z
+DTEND:20270202T053000Z
+SUMMARY:🏀 Warriors – Spurs
+DESCRIPTION:🏆 Regular Season\n\n🔗 https://www.espn.com/nba/game/_/g
+ ameId/401910473/spurs-warriors
+LOCATION:Chase Center\, San Francisco
+URL:https://www.espn.com/nba/game/_/gameId/401910473/spurs-warriors
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-basket-401910480@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270203T033000Z
+DTEND:20270203T060000Z
+SUMMARY:🏀 Clippers – Spurs
+DESCRIPTION:🏆 Regular Season\n\n🔗 https://www.espn.com/nba/game/_/g
+ ameId/401910480/spurs-clippers
+LOCATION:Intuit Dome\, Inglewood
+URL:https://www.espn.com/nba/game/_/gameId/401910480/spurs-clippers
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-basket-401910494@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270205T010000Z
+DTEND:20270205T033000Z
+SUMMARY:🏀 Spurs – Magic
+DESCRIPTION:🏆 Regular Season\n\n🔗 https://www.espn.com/nba/game/_/g
+ ameId/401910494/magic-spurs
+LOCATION:Frost Bank Center\, San Antonio
+URL:https://www.espn.com/nba/game/_/gameId/401910494/magic-spurs
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tsdb-2465532@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270206T164000Z
+DTEND:20270206T184000Z
+SUMMARY:🏉 France Rugby – Wales Rugby
+DESCRIPTION:🏆 Six Nations Championship\nJournée 1
+LOCATION:Stade de France
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-basket-401910511@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270207T013000Z
+DTEND:20270207T040000Z
+SUMMARY:🏀 Spurs – Lakers
+DESCRIPTION:🏆 Regular Season\n\n🔗 https://www.espn.com/nba/game/_/g
+ ameId/401910511/lakers-spurs
+LOCATION:Frost Bank Center\, San Antonio
+URL:https://www.espn.com/nba/game/_/gameId/401910511/lakers-spurs
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-foot-401876323@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270207T194500Z
+DTEND:20270207T214500Z
+SUMMARY:⚽ PSG – Marseille
+DESCRIPTION:🏆 French Ligue 1\n\n🔗 https://www.espn.com/soccer/match
+ /_/gameId/401876323/marseille-paris-saint-germain
+LOCATION:Parc des Princes\, Paris
+URL:https://www.espn.com/soccer/match/_/gameId/401876323/marseille-paris-
+ saint-germain
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-basket-401910533@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270210T010000Z
+DTEND:20270210T033000Z
+SUMMARY:🏀 Mavericks – Spurs
+DESCRIPTION:🏆 Regular Season\n\n🔗 https://www.espn.com/nba/game/_/g
+ ameId/401910533/spurs-mavericks
+LOCATION:American Airlines Center\, Dallas
+URL:https://www.espn.com/nba/game/_/gameId/401910533/spurs-mavericks
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-basket-401910551@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270212T023000Z
+DTEND:20270212T050000Z
+SUMMARY:🏀 Thunder – Spurs
+DESCRIPTION:🏆 Regular Season\n\n🔗 https://www.espn.com/nba/game/_/g
+ ameId/401910551/spurs-thunder
+LOCATION:Paycom Center\, Oklahoma City
+URL:https://www.espn.com/nba/game/_/gameId/401910551/spurs-thunder
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-foot-401876316@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270213T200000Z
+DTEND:20270213T220000Z
+SUMMARY:⚽ Marseille – Angers
+DESCRIPTION:🏆 French Ligue 1\n⏰ Horaire à confirmer\n\n🔗 https:/
+ /www.espn.com/soccer/match/_/gameId/401876316/angers-marseille
+LOCATION:Stade Vélodrome\, Marseille
+URL:https://www.espn.com/soccer/match/_/gameId/401876316/angers-marseille
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-basket-401910564@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270214T000000Z
+DTEND:20270214T023000Z
+SUMMARY:🏀 Magic – Spurs
+DESCRIPTION:🏆 Regular Season\n\n🔗 https://www.espn.com/nba/game/_/g
+ ameId/401910564/spurs-magic
+LOCATION:Kia Center\, Orlando
+URL:https://www.espn.com/nba/game/_/gameId/401910564/spurs-magic
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-basket-401909479@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270215T220000Z
+DTEND:20270216T003000Z
+SUMMARY:🏀 Heat – Spurs
+DESCRIPTION:🏆 Regular Season\n\n🔗 https://www.espn.com/nba/game/_/g
+ ameId/401909479/spurs-heat
+LOCATION:Kaseya Center\, Miami
+URL:https://www.espn.com/nba/game/_/gameId/401909479/spurs-heat
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-basket-401910590@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270218T010000Z
+DTEND:20270218T033000Z
+SUMMARY:🏀 Grizzlies – Spurs
+DESCRIPTION:🏆 Regular Season\n\n🔗 https://www.espn.com/nba/game/_/g
+ ameId/401910590/spurs-grizzlies
+LOCATION:FedExForum\, Memphis
+URL:https://www.espn.com/nba/game/_/gameId/401910590/spurs-grizzlies
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-basket-401910596@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270219T003000Z
+DTEND:20270219T030000Z
+SUMMARY:🏀 Timberwolves – Spurs
+DESCRIPTION:🏆 Regular Season\n\n🔗 https://www.espn.com/nba/game/_/g
+ ameId/401910596/spurs-timberwolves
+LOCATION:Target Center\, Minneapolis
+URL:https://www.espn.com/nba/game/_/gameId/401910596/spurs-timberwolves
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-rugby-604477@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270220T000000Z
+DTEND:20270220T020000Z
+SUMMARY:🏉 Stade Francais Paris – Bordeaux Begles
+DESCRIPTION:🏆 Top 14\n⏰ Horaire à confirmer\n\n🔗 https://www.esp
+ n.com/rugby/match/_/gameId/604477/league/270559
+LOCATION:Stade Jean Bouin\, Paris
+URL:https://www.espn.com/rugby/match/_/gameId/604477/league/270559
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-foot-401876305@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270220T200000Z
+DTEND:20270220T220000Z
+SUMMARY:⚽ Strasbourg – Marseille
+DESCRIPTION:🏆 French Ligue 1\n⏰ Horaire à confirmer\n\n🔗 https:/
+ /www.espn.com/soccer/match/_/gameId/401876305/marseille-strasbourg
+LOCATION:Stade de la Meinau\, Strasbourg
+URL:https://www.espn.com/soccer/match/_/gameId/401876305/marseille-strasb
+ ourg
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-rugby-604480@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270227T000000Z
+DTEND:20270227T020000Z
+SUMMARY:🏉 Bordeaux Begles – Toulon
+DESCRIPTION:🏆 Top 14\n⏰ Horaire à confirmer\n\n🔗 https://www.esp
+ n.com/rugby/match/_/gameId/604480/league/270559
+LOCATION:Stade Chaban-Delmas\, Bordeaux
+URL:https://www.espn.com/rugby/match/_/gameId/604480/league/270559
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-basket-401910613@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270227T010000Z
+DTEND:20270227T033000Z
+SUMMARY:🏀 Spurs – Grizzlies
+DESCRIPTION:🏆 Regular Season\n\n🔗 https://www.espn.com/nba/game/_/g
+ ameId/401910613/grizzlies-spurs
+LOCATION:Moody Center\, Austin
+URL:https://www.espn.com/nba/game/_/gameId/401910613/grizzlies-spurs
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-foot-401876299@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270227T200000Z
+DTEND:20270227T220000Z
+SUMMARY:⚽ Marseille – Rennes
+DESCRIPTION:🏆 French Ligue 1\n⏰ Horaire à confirmer\n\n🔗 https:/
+ /www.espn.com/soccer/match/_/gameId/401876299/stade-rennais-marseille
+LOCATION:Stade Vélodrome\, Marseille
+URL:https://www.espn.com/soccer/match/_/gameId/401876299/stade-rennais-ma
+ rseille
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-basket-401910623@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270228T180000Z
+DTEND:20270228T203000Z
+SUMMARY:🏀 Spurs – Nuggets
+DESCRIPTION:🏆 Regular Season\n\n🔗 https://www.espn.com/nba/game/_/g
+ ameId/401910623/nuggets-spurs
+LOCATION:Moody Center\, Austin
+URL:https://www.espn.com/nba/game/_/gameId/401910623/nuggets-spurs
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-basket-401910653@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270304T030000Z
+DTEND:20270304T053000Z
+SUMMARY:🏀 Nuggets – Spurs
+DESCRIPTION:🏆 Regular Season\n\n🔗 https://www.espn.com/nba/game/_/g
+ ameId/401910653/spurs-nuggets
+LOCATION:Ball Arena\, Denver
+URL:https://www.espn.com/nba/game/_/gameId/401910653/spurs-nuggets
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-basket-401910667@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270306T023000Z
+DTEND:20270306T050000Z
+SUMMARY:🏀 Rockets – Spurs
+DESCRIPTION:🏆 Regular Season\n\n🔗 https://www.espn.com/nba/game/_/g
+ ameId/401910667/spurs-rockets
+LOCATION:Toyota Center (Houston)\, Houston
+URL:https://www.espn.com/nba/game/_/gameId/401910667/spurs-rockets
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-foot-401876292@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270306T200000Z
+DTEND:20270306T220000Z
+SUMMARY:⚽ Lille – Marseille
+DESCRIPTION:🏆 French Ligue 1\n⏰ Horaire à confirmer\n\n🔗 https:/
+ /www.espn.com/soccer/match/_/gameId/401876292/marseille-lille
+LOCATION:Decathlon Arena - Stade Pierre-Mauroy\, Lille
+URL:https://www.espn.com/soccer/match/_/gameId/401876292/marseille-lille
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-basket-401910678@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270308T003000Z
+DTEND:20270308T030000Z
+SUMMARY:🏀 Spurs – Knicks
+DESCRIPTION:🏆 Regular Season\n\n🔗 https://www.espn.com/nba/game/_/g
+ ameId/401910678/knicks-spurs
+LOCATION:Frost Bank Center\, San Antonio
+URL:https://www.espn.com/nba/game/_/gameId/401910678/knicks-spurs
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-basket-401910694@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270310T010000Z
+DTEND:20270310T033000Z
+SUMMARY:🏀 Spurs – Wizards
+DESCRIPTION:🏆 Regular Season\n\n🔗 https://www.espn.com/nba/game/_/g
+ ameId/401910694/wizards-spurs
+LOCATION:Frost Bank Center\, San Antonio
+URL:https://www.espn.com/nba/game/_/gameId/401910694/wizards-spurs
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-basket-401910707@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270312T003000Z
+DTEND:20270312T030000Z
+SUMMARY:🏀 Spurs – 76ers
+DESCRIPTION:🏆 Regular Season\n\n🔗 https://www.espn.com/nba/game/_/g
+ ameId/401910707/76ers-spurs
+LOCATION:Frost Bank Center\, San Antonio
+URL:https://www.espn.com/nba/game/_/gameId/401910707/76ers-spurs
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-foot-401876281@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270313T200000Z
+DTEND:20270313T220000Z
+SUMMARY:⚽ Marseille – Monaco
+DESCRIPTION:🏆 French Ligue 1\n⏰ Horaire à confirmer\n\n🔗 https:/
+ /www.espn.com/soccer/match/_/gameId/401876281/as-monaco-marseille
+LOCATION:Stade Vélodrome\, Marseille
+URL:https://www.espn.com/soccer/match/_/gameId/401876281/as-monaco-marsei
+ lle
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-basket-401910728@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270314T183000Z
+DTEND:20270314T210000Z
+SUMMARY:🏀 Thunder – Spurs
+DESCRIPTION:🏆 Regular Season\n\n🔗 https://www.espn.com/nba/game/_/g
+ ameId/401910728/spurs-thunder
+LOCATION:Paycom Center\, Oklahoma City
+URL:https://www.espn.com/nba/game/_/gameId/401910728/spurs-thunder
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-basket-401910745@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270317T003000Z
+DTEND:20270317T030000Z
+SUMMARY:🏀 Rockets – Spurs
+DESCRIPTION:🏆 Regular Season\n\n🔗 https://www.espn.com/nba/game/_/g
+ ameId/401910745/spurs-rockets
+LOCATION:Toyota Center (Houston)\, Houston
+URL:https://www.espn.com/nba/game/_/gameId/401910745/spurs-rockets
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-basket-401910762@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270319T000000Z
+DTEND:20270319T023000Z
+SUMMARY:🏀 Spurs – Nets
+DESCRIPTION:🏆 Regular Season\n\n🔗 https://www.espn.com/nba/game/_/g
+ ameId/401910762/nets-spurs
+LOCATION:Frost Bank Center\, San Antonio
+URL:https://www.espn.com/nba/game/_/gameId/401910762/nets-spurs
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-basket-401910768@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270320T000000Z
+DTEND:20270320T023000Z
+SUMMARY:🏀 Spurs – Mavericks
+DESCRIPTION:🏆 Regular Season\n\n🔗 https://www.espn.com/nba/game/_/g
+ ameId/401910768/mavericks-spurs
+LOCATION:Frost Bank Center\, San Antonio
+URL:https://www.espn.com/nba/game/_/gameId/401910768/mavericks-spurs
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-rugby-604487@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270320T000000Z
+DTEND:20270320T020000Z
+SUMMARY:🏉 Bayonne – Bordeaux Begles
+DESCRIPTION:🏆 Top 14\n⏰ Horaire à confirmer\n\n🔗 https://www.esp
+ n.com/rugby/match/_/gameId/604487/league/270559
+LOCATION:Stade Jean Dauger\, Bayonne
+URL:https://www.espn.com/rugby/match/_/gameId/604487/league/270559
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-foot-401876269@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270321T194500Z
+DTEND:20270321T214500Z
+SUMMARY:⚽ Marseille – Lyon
+DESCRIPTION:🏆 French Ligue 1\n\n🔗 https://www.espn.com/soccer/match
+ /_/gameId/401876269/lyon-marseille
+LOCATION:Stade Vélodrome\, Marseille
+URL:https://www.espn.com/soccer/match/_/gameId/401876269/lyon-marseille
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-basket-401910784@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270321T233000Z
+DTEND:20270322T020000Z
+SUMMARY:🏀 76ers – Spurs
+DESCRIPTION:🏆 Regular Season\n\n🔗 https://www.espn.com/nba/game/_/g
+ ameId/401910784/spurs-76ers
+LOCATION:Xfinity Mobile Arena\, Philadelphia
+URL:https://www.espn.com/nba/game/_/gameId/401910784/spurs-76ers
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-basket-401910803@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270324T233000Z
+DTEND:20270325T020000Z
+SUMMARY:🏀 Celtics – Spurs
+DESCRIPTION:🏆 Regular Season\n\n🔗 https://www.espn.com/nba/game/_/g
+ ameId/401910803/spurs-celtics
+LOCATION:TD Garden\, Boston
+URL:https://www.espn.com/nba/game/_/gameId/401910803/spurs-celtics
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-foot-401936104@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270325T194500Z
+DTEND:20270325T214500Z
+SUMMARY:⚽ Spain – France
+DESCRIPTION:🏆 UEFA Nations League\n\n🔗 https://www.espn.com/soccer/
+ match/_/gameId/401936104/france-spain
+URL:https://www.espn.com/soccer/match/_/gameId/401936104/france-spain
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-basket-401910813@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270325T230000Z
+DTEND:20270326T013000Z
+SUMMARY:🏀 Pacers – Spurs
+DESCRIPTION:🏆 Regular Season\n\n🔗 https://www.espn.com/nba/game/_/g
+ ameId/401910813/spurs-pacers
+LOCATION:Gainbridge Fieldhouse\, Indianapolis
+URL:https://www.espn.com/nba/game/_/gameId/401910813/spurs-pacers
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-rugby-604496@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270327T000000Z
+DTEND:20270327T020000Z
+SUMMARY:🏉 Bordeaux Begles – Stade Toulousain
+DESCRIPTION:🏆 Top 14\n⏰ Horaire à confirmer\n\n🔗 https://www.esp
+ n.com/rugby/match/_/gameId/604496/league/270559
+LOCATION:Stade Chaban-Delmas\, Bordeaux
+URL:https://www.espn.com/rugby/match/_/gameId/604496/league/270559
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-basket-401910824@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270327T190000Z
+DTEND:20270327T213000Z
+SUMMARY:🏀 Pistons – Spurs
+DESCRIPTION:🏆 Regular Season\n\n🔗 https://www.espn.com/nba/game/_/g
+ ameId/401910824/spurs-pistons
+LOCATION:Little Caesars Arena\, Detroit
+URL:https://www.espn.com/nba/game/_/gameId/401910824/spurs-pistons
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-foot-401936101@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270328T184500Z
+DTEND:20270328T204500Z
+SUMMARY:⚽ France – Spain
+DESCRIPTION:🏆 UEFA Nations League\n\n🔗 https://www.espn.com/soccer/
+ match/_/gameId/401936101/spain-france
+URL:https://www.espn.com/soccer/match/_/gameId/401936101/spain-france
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-basket-401910846@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270330T013000Z
+DTEND:20270330T040000Z
+SUMMARY:🏀 Spurs – Suns
+DESCRIPTION:🏆 Regular Season\n\n🔗 https://www.espn.com/nba/game/_/g
+ ameId/401910846/suns-spurs
+LOCATION:Frost Bank Center\, San Antonio
+URL:https://www.espn.com/nba/game/_/gameId/401910846/suns-spurs
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-basket-401910861@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270401T000000Z
+DTEND:20270401T023000Z
+SUMMARY:🏀 Spurs – Suns
+DESCRIPTION:🏆 Regular Season\n\n🔗 https://www.espn.com/nba/game/_/g
+ ameId/401910861/suns-spurs
+LOCATION:Frost Bank Center\, San Antonio
+URL:https://www.espn.com/nba/game/_/gameId/401910861/suns-spurs
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-basket-401910879@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270403T023000Z
+DTEND:20270403T050000Z
+SUMMARY:🏀 Clippers – Spurs
+DESCRIPTION:🏆 Regular Season\n\n🔗 https://www.espn.com/nba/game/_/g
+ ameId/401910879/spurs-clippers
+LOCATION:Intuit Dome\, Inglewood
+URL:https://www.espn.com/nba/game/_/gameId/401910879/spurs-clippers
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-foot-401876264@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270403T180000Z
+DTEND:20270403T200000Z
+SUMMARY:⚽ Le Mans – Marseille
+DESCRIPTION:🏆 French Ligue 1\n⏰ Horaire à confirmer\n\n🔗 https:/
+ /www.espn.com/soccer/match/_/gameId/401876264/marseille-le-mans
+LOCATION:Stade Marie-Marvingt\, Le Mans
+URL:https://www.espn.com/soccer/match/_/gameId/401876264/marseille-le-man
+ s
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-basket-401910894@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270405T020000Z
+DTEND:20270405T043000Z
+SUMMARY:🏀 Lakers – Spurs
+DESCRIPTION:🏆 Regular Season\n\n🔗 https://www.espn.com/nba/game/_/g
+ ameId/401910894/spurs-lakers
+LOCATION:crypto.com Arena\, Los Angeles
+URL:https://www.espn.com/nba/game/_/gameId/401910894/spurs-lakers
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-basket-401910903@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270407T000000Z
+DTEND:20270407T023000Z
+SUMMARY:🏀 Spurs – Kings
+DESCRIPTION:🏆 Regular Season\n\n🔗 https://www.espn.com/nba/game/_/g
+ ameId/401910903/kings-spurs
+LOCATION:Frost Bank Center\, San Antonio
+URL:https://www.espn.com/nba/game/_/gameId/401910903/kings-spurs
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-basket-401910912@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270407T233000Z
+DTEND:20270408T020000Z
+SUMMARY:🏀 Spurs – Cavaliers
+DESCRIPTION:🏆 Regular Season\n\n🔗 https://www.espn.com/nba/game/_/g
+ ameId/401910912/cavaliers-spurs
+LOCATION:Frost Bank Center\, San Antonio
+URL:https://www.espn.com/nba/game/_/gameId/401910912/cavaliers-spurs
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-basket-401910932@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270410T013000Z
+DTEND:20270410T040000Z
+SUMMARY:🏀 Spurs – Nuggets
+DESCRIPTION:🏆 Regular Season\n\n🔗 https://www.espn.com/nba/game/_/g
+ ameId/401910932/nuggets-spurs
+LOCATION:Frost Bank Center\, San Antonio
+URL:https://www.espn.com/nba/game/_/gameId/401910932/nuggets-spurs
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-foot-401876255@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270410T180000Z
+DTEND:20270410T200000Z
+SUMMARY:⚽ Marseille – Brest
+DESCRIPTION:🏆 French Ligue 1\n⏰ Horaire à confirmer\n\n🔗 https:/
+ /www.espn.com/soccer/match/_/gameId/401876255/brest-marseille
+LOCATION:Stade Vélodrome\, Marseille
+URL:https://www.espn.com/soccer/match/_/gameId/401876255/brest-marseille
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-basket-401910947@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270412T003000Z
+DTEND:20270412T030000Z
+SUMMARY:🏀 Spurs – Trail Blazers
+DESCRIPTION:🏆 Regular Season\n\n🔗 https://www.espn.com/nba/game/_/g
+ ameId/401910947/trail-blazers-spurs
+LOCATION:Frost Bank Center\, San Antonio
+URL:https://www.espn.com/nba/game/_/gameId/401910947/trail-blazers-spurs
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-rugby-604504@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270417T000000Z
+DTEND:20270417T020000Z
+SUMMARY:🏉 Montpellier Herault – Bordeaux Begles
+DESCRIPTION:🏆 Top 14\n⏰ Horaire à confirmer\n\n🔗 https://www.esp
+ n.com/rugby/match/_/gameId/604504/league/270559
+LOCATION:Septeo Stadium\, Montpellier
+URL:https://www.espn.com/rugby/match/_/gameId/604504/league/270559
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-foot-401876247@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270417T180000Z
+DTEND:20270417T200000Z
+SUMMARY:⚽ Le Havre AC – Marseille
+DESCRIPTION:🏆 French Ligue 1\n⏰ Horaire à confirmer\n\n🔗 https:/
+ /www.espn.com/soccer/match/_/gameId/401876247/marseille-le-havre-ac
+LOCATION:Stade Océane\, Le Havre
+URL:https://www.espn.com/soccer/match/_/gameId/401876247/marseille-le-hav
+ re-ac
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-rugby-604510@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270424T000000Z
+DTEND:20270424T020000Z
+SUMMARY:🏉 Bordeaux Begles – La Rochelle
+DESCRIPTION:🏆 Top 14\n⏰ Horaire à confirmer\n\n🔗 https://www.esp
+ n.com/rugby/match/_/gameId/604510/league/270559
+LOCATION:Stade Chaban-Delmas\, Bordeaux
+URL:https://www.espn.com/rugby/match/_/gameId/604510/league/270559
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-foot-401876237@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270424T180000Z
+DTEND:20270424T200000Z
+SUMMARY:⚽ Marseille – Auxerre
+DESCRIPTION:🏆 French Ligue 1\n⏰ Horaire à confirmer\n\n🔗 https:/
+ /www.espn.com/soccer/match/_/gameId/401876237/aj-auxerre-marseille
+LOCATION:Stade Vélodrome\, Marseille
+URL:https://www.espn.com/soccer/match/_/gameId/401876237/aj-auxerre-marse
+ ille
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-foot-401876225@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270501T180000Z
+DTEND:20270501T200000Z
+SUMMARY:⚽ Toulouse – Marseille
+DESCRIPTION:🏆 French Ligue 1\n⏰ Horaire à confirmer\n\n🔗 https:/
+ /www.espn.com/soccer/match/_/gameId/401876225/marseille-toulouse
+LOCATION:Stadium Municipal de Toulouse\, Toulouse
+URL:https://www.espn.com/soccer/match/_/gameId/401876225/marseille-toulou
+ se
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-rugby-604519@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270508T000000Z
+DTEND:20270508T020000Z
+SUMMARY:🏉 Pau – Bordeaux Begles
+DESCRIPTION:🏆 Top 14\n⏰ Horaire à confirmer\n\n🔗 https://www.esp
+ n.com/rugby/match/_/gameId/604519/league/270559
+LOCATION:Stade du Hameau\, Pau
+URL:https://www.espn.com/rugby/match/_/gameId/604519/league/270559
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-foot-401876218@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270508T180000Z
+DTEND:20270508T200000Z
+SUMMARY:⚽ Nice – Marseille
+DESCRIPTION:🏆 French Ligue 1\n⏰ Horaire à confirmer\n\n🔗 https:/
+ /www.espn.com/soccer/match/_/gameId/401876218/marseille-nice
+LOCATION:Allianz Riviera\, Nice
+URL:https://www.espn.com/soccer/match/_/gameId/401876218/marseille-nice
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-rugby-604523@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270515T000000Z
+DTEND:20270515T020000Z
+SUMMARY:🏉 Bordeaux Begles – Clermont Auvergne
+DESCRIPTION:🏆 Top 14\n⏰ Horaire à confirmer\n\n🔗 https://www.esp
+ n.com/rugby/match/_/gameId/604523/league/270559
+LOCATION:Stade Chaban-Delmas\, Bordeaux
+URL:https://www.espn.com/rugby/match/_/gameId/604523/league/270559
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-foot-401876210@sport-calendar
+DTSTAMP:20261122T030726Z
+LAST-MODIFIED:20261122T030440Z
+SEQUENCE:0
+DTSTART:20270516T180000Z
+DTEND:20270516T200000Z
+SUMMARY:⚽ Marseille – Lens
+DESCRIPTION:🏆 French Ligue 1\n⏰ Horaire à confirmer\n\n🔗 https:/
+ /www.espn.com/soccer/match/_/gameId/401876210/lens-marseille
+LOCATION:Stade Vélodrome\, Marseille
+URL:https://www.espn.com/soccer/match/_/gameId/401876210/lens-marseille
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT

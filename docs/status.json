@@ -1,147 +1,98 @@
 {
  "foot": {
-  "ligues": {
-   "fra.1": {
-    "evenements_vus": 0,
-    "erreur": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1/scoreboard -> HTTP 400"
-   },
-   "fra.coupe_de_france": {
-    "evenements_vus": 0,
-    "erreur": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.coupe_de_france/scoreboard -> HTTP 400"
-   },
-   "fra.super_cup": {
-    "evenements_vus": 0,
-    "erreur": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.super_cup/scoreboard -> HTTP 400"
-   },
-   "uefa.champions": {
-    "evenements_vus": 0,
-    "erreur": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard -> HTTP 400"
-   },
-   "uefa.europa": {
-    "evenements_vus": 0,
-    "erreur": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.europa/scoreboard -> HTTP 400"
-   },
-   "uefa.europa.conf": {
-    "evenements_vus": 0,
-    "erreur": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.europa.conf/scoreboard -> HTTP 403"
-   },
-   "uefa.nations": {
-    "evenements_vus": 0,
-    "erreur": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.nations/scoreboard -> HTTP 400"
-   },
-   "fifa.friendly": {
-    "evenements_vus": 0,
-    "erreur": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.friendly/scoreboard -> HTTP 400"
-   },
-   "fifa.worldq.uefa": {
-    "evenements_vus": 0,
-    "erreur": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.worldq.uefa/scoreboard -> HTTP 400"
-   },
-   "uefa.euroq": {
-    "evenements_vus": 0,
-    "erreur": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.euroq/scoreboard -> HTTP 400"
-   },
-   "fifa.world": {
-    "evenements_vus": 0,
-    "erreur": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard -> HTTP 400"
-   },
-   "uefa.euro": {
-    "evenements_vus": 0,
-    "erreur": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.euro/scoreboard -> HTTP 400"
-   }
-  },
   "par_equipe": {
-   "Marseille": 0,
-   "France": 0
-  },
-  "repli_sofascore": {
-   "equipes": {
-    "Marseille": {
-     "erreur": "recherche : https://www.sofascore.com/api/v1/search/all?q=Marseille&page=0 -> HTTP 403 | https://api.sofascore.com/api/v1/search/all?q=Marseille&page=0 -> HTTP 403"
-    },
-    "France": {
-     "erreur": "recherche : https://www.sofascore.com/api/v1/search/all?q=France&page=0 -> HTTP 403 | https://api.sofascore.com/api/v1/search/all?q=France&page=0 -> HTTP 403"
-    }
+   "Marseille": {
+    "trouve": "Marseille (id 176, fra.1)",
+    "matchs": 30
+   },
+   "France": {
+    "trouve": "France (id 478, uefa.nations)",
+    "matchs": 4
    }
   },
   "ok": true,
-  "nb_evenements": 0
+  "nb_evenements": 34
  },
  "basket": {
-  "ligues": {
-   "nba": {
-    "evenements_vus": 0,
-    "erreur": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard -> HTTP 400"
-   }
-  },
   "par_equipe": {
-   "Spurs": 0
-  },
-  "repli_sofascore": {
-   "equipes": {
-    "Spurs": {
-     "erreur": "recherche : https://www.sofascore.com/api/v1/search/all?q=Spurs&page=0 -> HTTP 403 | https://api.sofascore.com/api/v1/search/all?q=Spurs&page=0 -> HTTP 403"
-    }
+   "Spurs": {
+    "trouve": "San Antonio Spurs (id 24, nba)",
+    "matchs": 79
    }
   },
   "ok": true,
-  "nb_evenements": 0
+  "nb_evenements": 79
  },
  "rugby": {
   "ligues": {
    "270559": {
-    "evenements_vus": 0,
-    "erreur": "https://site.api.espn.com/apis/site/v2/sports/rugby/270559/scoreboard -> HTTP 400"
+    "requetes": 91,
+    "erreurs": 0,
+    "matchs_vus": 127
    },
    "271937": {
-    "evenements_vus": 0,
-    "erreur": "https://site.api.espn.com/apis/site/v2/sports/rugby/271937/scoreboard -> HTTP 403"
+    "requetes": 94,
+    "erreurs": 0,
+    "matchs_vus": 36
    },
    "272073": {
-    "evenements_vus": 0,
-    "erreur": "https://site.api.espn.com/apis/site/v2/sports/rugby/272073/scoreboard -> HTTP 403"
+    "requetes": 94,
+    "erreurs": 0,
+    "matchs_vus": 27
    },
    "180659": {
-    "evenements_vus": 0,
-    "erreur": "https://site.api.espn.com/apis/site/v2/sports/rugby/180659/scoreboard -> HTTP 403"
+    "requetes": 91,
+    "erreurs": 0,
+    "matchs_vus": 0
    },
    "289234": {
-    "evenements_vus": 0,
-    "erreur": "https://site.api.espn.com/apis/site/v2/sports/rugby/289234/scoreboard -> HTTP 403"
+    "requetes": 93,
+    "erreurs": 0,
+    "matchs_vus": 4
    },
    "164205": {
-    "evenements_vus": 0,
-    "erreur": "https://site.api.espn.com/apis/site/v2/sports/rugby/164205/scoreboard -> HTTP 403"
+    "requetes": 91,
+    "erreurs": 0,
+    "matchs_vus": 0
    }
   },
   "par_equipe": {
-   "Toulouse": 0,
-   "Bordeaux": 0,
-   "France": 0
+   "Toulouse": {
+    "matchs": 0
+   },
+   "Bordeaux": {
+    "matchs": 21
+   },
+   "France": {
+    "matchs": 0
+   }
   },
-  "repli_sofascore": {
+  "repli_thesportsdb": {
    "equipes": {
     "Toulouse": {
-     "erreur": "recherche : https://www.sofascore.com/api/v1/search/all?q=Toulouse&page=0 -> HTTP 403 | https://api.sofascore.com/api/v1/search/all?q=Toulouse&page=0 -> HTTP 403"
-    },
-    "Bordeaux": {
-     "erreur": "recherche : https://www.sofascore.com/api/v1/search/all?q=Bordeaux&page=0 -> HTTP 403 | https://api.sofascore.com/api/v1/search/all?q=Bordeaux&page=0 -> HTTP 403"
+     "erreur": "introuvable sur TheSportsDB"
     },
     "France": {
-     "erreur": "recherche : https://www.sofascore.com/api/v1/search/all?q=France&page=0 -> HTTP 403 | https://api.sofascore.com/api/v1/search/all?q=France&page=0 -> HTTP 403"
+     "trouve": "France Rugby (id 137128)",
+     "matchs": 2
     }
    }
   },
   "ok": true,
-  "nb_evenements": 0
+  "nb_evenements": 23
  },
  "hand": {
   "equipes": {
    "Paris Saint-Germain": {
-    "erreur": "recherche : https://www.sofascore.com/api/v1/search/all?q=Paris%20Saint-Germain&page=0 -> HTTP 403 | https://api.sofascore.com/api/v1/search/all?q=Paris%20Saint-Germain&page=0 -> HTTP 403"
+    "erreur": "introuvable sur TheSportsDB"
    },
    "France": {
-    "erreur": "recherche : https://www.sofascore.com/api/v1/search/all?q=France&page=0 -> HTTP 403 | https://api.sofascore.com/api/v1/search/all?q=France&page=0 -> HTTP 403"
+    "trouve": "France Handball (id 140566)",
+    "avertissements": [
+     "eventsnext: https://www.thesportsdb.com/api/v1/json/123/eventsnext.php?id=140566 -> HTTP 429",
+     "eventslast: https://www.thesportsdb.com/api/v1/json/123/eventslast.php?id=140566 -> HTTP 429"
+    ],
+    "matchs": 0
    }
   },
   "ok": true,
@@ -150,20 +101,29 @@
  "flechettes": {
   "equipes": {
    "Luke Littler": {
-    "erreur": "recherche : https://www.sofascore.com/api/v1/search/all?q=Luke%20Littler&page=0 -> HTTP 403 | https://api.sofascore.com/api/v1/search/all?q=Luke%20Littler&page=0 -> HTTP 403"
+    "erreur": "recherche : https://www.thesportsdb.com/api/v1/json/123/searchteams.php?t=Luke%20Littler -> HTTP 429"
    }
   },
   "ok": true,
   "nb_evenements": 0
  },
  "esport": {
-  "equipes": {
-   "Gentle Mates": {
-    "erreur": "recherche : https://www.sofascore.com/api/v1/search/all?q=Gentle%20Mates&page=0 -> HTTP 403 | https://api.sofascore.com/api/v1/search/all?q=Gentle%20Mates&page=0 -> HTTP 403"
+  "jeux": {
+   "callofduty": {
+    "matchs_sur_la_page": 50,
+    "matchs_suivis": 7
+   },
+   "rocketleague": {
+    "matchs_sur_la_page": 100,
+    "matchs_suivis": 0
+   },
+   "valorant": {
+    "matchs_sur_la_page": 85,
+    "matchs_suivis": 0
    }
   },
   "ok": true,
-  "nb_evenements": 0
+  "nb_evenements": 7
  },
  "biathlon": {
   "saisons": [
@@ -181,9 +141,13 @@
   "nb_evenements": 6
  },
  "_resume": {
-  "genere_le": "2026-11-22T03:01:56.021465+00:00",
-  "total": 6,
+  "genere_le": "2026-11-22T03:04:40.876568+00:00",
+  "total": 149,
   "par_sport": {
+   "foot": 34,
+   "basket": 79,
+   "rugby": 23,
+   "esport": 7,
    "f1": 6
   },
   "sources_en_panne": [
