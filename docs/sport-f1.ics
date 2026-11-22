@@ -1,0 +1,107 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//theo2212//sport-calendar//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:F1
+X-WR-TIMEZONE:Europe/Paris
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+X-APPLE-CALENDAR-COLOR:#D50000
+BEGIN:VEVENT
+UID:f1-2026-18@sport-calendar
+DTSTAMP:20261122T024754Z
+LAST-MODIFIED:20261122T024737Z
+SEQUENCE:0
+DTSTART:20261025T200000Z
+DTEND:20261025T220000Z
+SUMMARY:🏎️ GP United States · 🏆 Antonelli (Mercedes)
+DESCRIPTION:🏆 Formule 1 2026 – manche 18\nCircuit of the Americas\n\
+ nPodium :\n🥇 Antonelli (Mercedes)\n🥈 Leclerc (Ferrari)\n🥉 Verst
+ appen (Red Bull)\n\n🔗 https://en.wikipedia.org/wiki/2026_United_State
+ s_Grand_Prix
+LOCATION:Austin\, USA
+URL:https://en.wikipedia.org/wiki/2026_United_States_Grand_Prix
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-19@sport-calendar
+DTSTAMP:20261122T024754Z
+LAST-MODIFIED:20261122T024737Z
+SEQUENCE:0
+DTSTART:20261101T200000Z
+DTEND:20261101T220000Z
+SUMMARY:🏎️ GP Mexico City · 🏆 Verstappen (Red Bull)
+DESCRIPTION:🏆 Formule 1 2026 – manche 19\nAutódromo Hermanos Rodrí
+ guez\n\nPodium :\n🥇 Verstappen (Red Bull)\n🥈 Hamilton (Ferrari)\n
+ 🥉 Antonelli (Mercedes)\n\n🔗 https://en.wikipedia.org/wiki/2026_Mex
+ ico_City_Grand_Prix
+LOCATION:Mexico City\, Mexico
+URL:https://en.wikipedia.org/wiki/2026_Mexico_City_Grand_Prix
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-20@sport-calendar
+DTSTAMP:20261122T024754Z
+LAST-MODIFIED:20261122T024737Z
+SEQUENCE:0
+DTSTART:20261108T170000Z
+DTEND:20261108T190000Z
+SUMMARY:🏎️ GP Brazilian · 🏆 Norris (McLaren)
+DESCRIPTION:🏆 Formule 1 2026 – manche 20\nAutódromo José Carlos Pa
+ ce\n\nPodium :\n🥇 Norris (McLaren)\n🥈 Verstappen (Red Bull)\n🥉 
+ Hadjar (Red Bull)\n\n🔗 https://en.wikipedia.org/wiki/2026_Brazilian_G
+ rand_Prix
+LOCATION:São Paulo\, Brazil
+URL:https://en.wikipedia.org/wiki/2026_Brazilian_Grand_Prix
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-21@sport-calendar
+DTSTAMP:20261122T024754Z
+LAST-MODIFIED:20261122T024737Z
+SEQUENCE:0
+DTSTART:20261122T040000Z
+DTEND:20261122T060000Z
+SUMMARY:🏎️ GP Las Vegas
+DESCRIPTION:🏆 Formule 1 2026 – manche 21\nLas Vegas Strip Street Cir
+ cuit\n\n🔗 https://en.wikipedia.org/wiki/2026_Las_Vegas_Grand_Prix
+LOCATION:Las Vegas\, USA
+URL:https://en.wikipedia.org/wiki/2026_Las_Vegas_Grand_Prix
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-22@sport-calendar
+DTSTAMP:20261122T024754Z
+LAST-MODIFIED:20261122T024737Z
+SEQUENCE:0
+DTSTART:20261129T160000Z
+DTEND:20261129T180000Z
+SUMMARY:🏎️ GP Qatar
+DESCRIPTION:🏆 Formule 1 2026 – manche 22\nLusail International Circu
+ it\n\n🔗 https://en.wikipedia.org/wiki/2026_Qatar_Grand_Prix
+LOCATION:Lusail\, Qatar
+URL:https://en.wikipedia.org/wiki/2026_Qatar_Grand_Prix
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-23@sport-calendar
+DTSTAMP:20261122T024754Z
+LAST-MODIFIED:20261122T024737Z
+SEQUENCE:0
+DTSTART:20261206T130000Z
+DTEND:20261206T150000Z
+SUMMARY:🏎️ GP Abu Dhabi
+DESCRIPTION:🏆 Formule 1 2026 – manche 23\nYas Marina Circuit\n\n🔗
+  https://en.wikipedia.org/wiki/2026_Abu_Dhabi_Grand_Prix
+LOCATION:Abu Dhabi\, UAE
+URL:https://en.wikipedia.org/wiki/2026_Abu_Dhabi_Grand_Prix
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

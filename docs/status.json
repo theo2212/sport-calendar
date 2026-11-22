@@ -1,0 +1,193 @@
+{
+ "foot": {
+  "ligues": {
+   "fra.1": {
+    "evenements_vus": 0,
+    "erreur": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1/scoreboard -> HTTP 400"
+   },
+   "fra.coupe_de_france": {
+    "evenements_vus": 0,
+    "erreur": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.coupe_de_france/scoreboard -> HTTP 400"
+   },
+   "fra.super_cup": {
+    "evenements_vus": 0,
+    "erreur": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.super_cup/scoreboard -> HTTP 400"
+   },
+   "uefa.champions": {
+    "evenements_vus": 0,
+    "erreur": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard -> HTTP 400"
+   },
+   "uefa.europa": {
+    "evenements_vus": 0,
+    "erreur": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.europa/scoreboard -> HTTP 400"
+   },
+   "uefa.europa.conf": {
+    "evenements_vus": 0,
+    "erreur": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.europa.conf/scoreboard -> HTTP 400"
+   },
+   "uefa.nations": {
+    "evenements_vus": 0,
+    "erreur": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.nations/scoreboard -> HTTP 400"
+   },
+   "fifa.friendly": {
+    "evenements_vus": 0,
+    "erreur": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.friendly/scoreboard -> HTTP 400"
+   },
+   "fifa.worldq.uefa": {
+    "evenements_vus": 0,
+    "erreur": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.worldq.uefa/scoreboard -> HTTP 400"
+   },
+   "uefa.euroq": {
+    "evenements_vus": 0,
+    "erreur": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.euroq/scoreboard -> HTTP 400"
+   },
+   "fifa.world": {
+    "evenements_vus": 0,
+    "erreur": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard -> HTTP 400"
+   },
+   "uefa.euro": {
+    "evenements_vus": 0,
+    "erreur": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.euro/scoreboard -> HTTP 400"
+   }
+  },
+  "par_equipe": {
+   "Marseille": 0,
+   "France": 0
+  },
+  "repli_sofascore": {
+   "equipes": {
+    "Marseille": {
+     "erreur": "recherche : https://www.sofascore.com/api/v1/search/all?q=Marseille&page=0 -> HTTP 403 | https://api.sofascore.com/api/v1/search/all?q=Marseille&page=0 -> HTTP 403"
+    },
+    "France": {
+     "erreur": "recherche : https://www.sofascore.com/api/v1/search/all?q=France&page=0 -> HTTP 403 | https://api.sofascore.com/api/v1/search/all?q=France&page=0 -> HTTP 403"
+    }
+   }
+  },
+  "ok": true,
+  "nb_evenements": 0
+ },
+ "basket": {
+  "ligues": {
+   "nba": {
+    "evenements_vus": 0,
+    "erreur": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard -> HTTP 400"
+   }
+  },
+  "par_equipe": {
+   "Spurs": 0
+  },
+  "repli_sofascore": {
+   "equipes": {
+    "Spurs": {
+     "erreur": "recherche : https://www.sofascore.com/api/v1/search/all?q=Spurs&page=0 -> HTTP 403 | https://api.sofascore.com/api/v1/search/all?q=Spurs&page=0 -> HTTP 403"
+    }
+   }
+  },
+  "ok": true,
+  "nb_evenements": 0
+ },
+ "rugby": {
+  "ligues": {
+   "270559": {
+    "evenements_vus": 0,
+    "erreur": "https://site.api.espn.com/apis/site/v2/sports/rugby/270559/scoreboard -> HTTP 400"
+   },
+   "271937": {
+    "evenements_vus": 0,
+    "erreur": "https://site.api.espn.com/apis/site/v2/sports/rugby/271937/scoreboard -> HTTP 400"
+   },
+   "272073": {
+    "evenements_vus": 0,
+    "erreur": "https://site.api.espn.com/apis/site/v2/sports/rugby/272073/scoreboard -> HTTP 400"
+   },
+   "180659": {
+    "evenements_vus": 0,
+    "erreur": "https://site.api.espn.com/apis/site/v2/sports/rugby/180659/scoreboard -> HTTP 400"
+   },
+   "289234": {
+    "evenements_vus": 0,
+    "erreur": "https://site.api.espn.com/apis/site/v2/sports/rugby/289234/scoreboard -> HTTP 400"
+   },
+   "164205": {
+    "evenements_vus": 0,
+    "erreur": "https://site.api.espn.com/apis/site/v2/sports/rugby/164205/scoreboard -> HTTP 400"
+   }
+  },
+  "par_equipe": {
+   "Toulouse": 0,
+   "Bordeaux": 0,
+   "France": 0
+  },
+  "repli_sofascore": {
+   "equipes": {
+    "Toulouse": {
+     "erreur": "recherche : https://www.sofascore.com/api/v1/search/all?q=Toulouse&page=0 -> HTTP 403 | https://api.sofascore.com/api/v1/search/all?q=Toulouse&page=0 -> HTTP 403"
+    },
+    "Bordeaux": {
+     "erreur": "recherche : https://www.sofascore.com/api/v1/search/all?q=Bordeaux&page=0 -> HTTP 403 | https://api.sofascore.com/api/v1/search/all?q=Bordeaux&page=0 -> HTTP 403"
+    },
+    "France": {
+     "erreur": "recherche : https://www.sofascore.com/api/v1/search/all?q=France&page=0 -> HTTP 403 | https://api.sofascore.com/api/v1/search/all?q=France&page=0 -> HTTP 403"
+    }
+   }
+  },
+  "ok": true,
+  "nb_evenements": 0
+ },
+ "hand": {
+  "equipes": {
+   "Paris Saint-Germain": {
+    "erreur": "recherche : https://www.sofascore.com/api/v1/search/all?q=Paris%20Saint-Germain&page=0 -> HTTP 403 | https://api.sofascore.com/api/v1/search/all?q=Paris%20Saint-Germain&page=0 -> HTTP 403"
+   },
+   "France": {
+    "erreur": "recherche : https://www.sofascore.com/api/v1/search/all?q=France&page=0 -> HTTP 403 | https://api.sofascore.com/api/v1/search/all?q=France&page=0 -> HTTP 403"
+   }
+  },
+  "ok": true,
+  "nb_evenements": 0
+ },
+ "flechettes": {
+  "equipes": {
+   "Luke Littler": {
+    "erreur": "recherche : https://www.sofascore.com/api/v1/search/all?q=Luke%20Littler&page=0 -> HTTP 403 | https://api.sofascore.com/api/v1/search/all?q=Luke%20Littler&page=0 -> HTTP 403"
+   }
+  },
+  "ok": true,
+  "nb_evenements": 0
+ },
+ "esport": {
+  "equipes": {
+   "Gentle Mates": {
+    "erreur": "recherche : https://www.sofascore.com/api/v1/search/all?q=Gentle%20Mates&page=0 -> HTTP 403 | https://api.sofascore.com/api/v1/search/all?q=Gentle%20Mates&page=0 -> HTTP 403"
+   }
+  },
+  "ok": true,
+  "nb_evenements": 0
+ },
+ "biathlon": {
+  "saisons": [
+   "2627"
+  ],
+  "etapes": [],
+  "ok": false,
+  "erreur": "HttpError: https://biathlonresults.com/modules/sportapi/api/Events -> HTTP 401",
+  "trace": "Traceback (most recent call last):\n  File \"/home/runner/work/sport-calendar/sport-calendar/build.py\", line 49, in collect\n    res[sport] = biathlon.fetch(start, end, log) if _enabled(val) else []\n                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/sport-calendar/sport-calendar/sportcal/biathlon.py\", line 45, in fetch\n    events = get_json(f\"{BASE}/Events\", {\"SeasonId\": sid, \"Level\": 1})\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/sport-calendar/sport-calendar/sportcal/common.py\", line 50, in get_json\n    raise HttpError(f\"{url} -> {last}\")\nsportcal.common.HttpError: https://biathlonresults.com/modules/sportapi/api/Events -> HTTP 401\n"
+ },
+ "f1": {
+  "2026": 23,
+  "2027": 0,
+  "ok": true,
+  "nb_evenements": 6
+ },
+ "_resume": {
+  "genere_le": "2026-11-22T02:47:37.266512+00:00",
+  "total": 6,
+  "par_sport": {
+   "f1": 6
+  },
+  "sources_en_panne": [
+   "biathlon"
+  ]
+ }
+}

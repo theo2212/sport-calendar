@@ -1,0 +1,110 @@
+{
+ "f1-2026-18": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Formule 1 2026 – manche 18\nCircuit of the Americas\n\nPodium :\n🥇 Antonelli (Mercedes)\n🥈 Leclerc (Ferrari)\n🥉 Verstappen (Red Bull)",
+   "duration_min": 120,
+   "location": "Austin, USA",
+   "sport": "f1",
+   "start": "2026-10-25T20:00:00+00:00",
+   "state": "post",
+   "title": "🏎️ GP United States · 🏆 Antonelli (Mercedes)",
+   "uid": "f1-2026-18",
+   "url": "https://en.wikipedia.org/wiki/2026_United_States_Grand_Prix"
+  },
+  "hash": "64c0212b54c26c65aa0e7b47638cf720fdf4f13a",
+  "modified": "2026-11-22T02:47:37.266512+00:00",
+  "seq": 0,
+  "sport": "f1"
+ },
+ "f1-2026-19": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Formule 1 2026 – manche 19\nAutódromo Hermanos Rodríguez\n\nPodium :\n🥇 Verstappen (Red Bull)\n🥈 Hamilton (Ferrari)\n🥉 Antonelli (Mercedes)",
+   "duration_min": 120,
+   "location": "Mexico City, Mexico",
+   "sport": "f1",
+   "start": "2026-11-01T20:00:00+00:00",
+   "state": "post",
+   "title": "🏎️ GP Mexico City · 🏆 Verstappen (Red Bull)",
+   "uid": "f1-2026-19",
+   "url": "https://en.wikipedia.org/wiki/2026_Mexico_City_Grand_Prix"
+  },
+  "hash": "66e2171af1098bfdf2dd4f6d17071773b3343f8f",
+  "modified": "2026-11-22T02:47:37.266512+00:00",
+  "seq": 0,
+  "sport": "f1"
+ },
+ "f1-2026-20": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Formule 1 2026 – manche 20\nAutódromo José Carlos Pace\n\nPodium :\n🥇 Norris (McLaren)\n🥈 Verstappen (Red Bull)\n🥉 Hadjar (Red Bull)",
+   "duration_min": 120,
+   "location": "São Paulo, Brazil",
+   "sport": "f1",
+   "start": "2026-11-08T17:00:00+00:00",
+   "state": "post",
+   "title": "🏎️ GP Brazilian · 🏆 Norris (McLaren)",
+   "uid": "f1-2026-20",
+   "url": "https://en.wikipedia.org/wiki/2026_Brazilian_Grand_Prix"
+  },
+  "hash": "d925da8a14a8d93d9345fd13c7a84982f6d8e5cf",
+  "modified": "2026-11-22T02:47:37.266512+00:00",
+  "seq": 0,
+  "sport": "f1"
+ },
+ "f1-2026-21": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Formule 1 2026 – manche 21\nLas Vegas Strip Street Circuit",
+   "duration_min": 120,
+   "location": "Las Vegas, USA",
+   "sport": "f1",
+   "start": "2026-11-22T04:00:00+00:00",
+   "state": "pre",
+   "title": "🏎️ GP Las Vegas",
+   "uid": "f1-2026-21",
+   "url": "https://en.wikipedia.org/wiki/2026_Las_Vegas_Grand_Prix"
+  },
+  "hash": "22c833087be0d302d671258d6ac666d98c66e303",
+  "modified": "2026-11-22T02:47:37.266512+00:00",
+  "seq": 0,
+  "sport": "f1"
+ },
+ "f1-2026-22": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Formule 1 2026 – manche 22\nLusail International Circuit",
+   "duration_min": 120,
+   "location": "Lusail, Qatar",
+   "sport": "f1",
+   "start": "2026-11-29T16:00:00+00:00",
+   "state": "pre",
+   "title": "🏎️ GP Qatar",
+   "uid": "f1-2026-22",
+   "url": "https://en.wikipedia.org/wiki/2026_Qatar_Grand_Prix"
+  },
+  "hash": "2e959b16b8ee83c1911c11498ba0cde5d2a4504f",
+  "modified": "2026-11-22T02:47:37.266512+00:00",
+  "seq": 0,
+  "sport": "f1"
+ },
+ "f1-2026-23": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Formule 1 2026 – manche 23\nYas Marina Circuit",
+   "duration_min": 120,
+   "location": "Abu Dhabi, UAE",
+   "sport": "f1",
+   "start": "2026-12-06T13:00:00+00:00",
+   "state": "pre",
+   "title": "🏎️ GP Abu Dhabi",
+   "uid": "f1-2026-23",
+   "url": "https://en.wikipedia.org/wiki/2026_Abu_Dhabi_Grand_Prix"
+  },
+  "hash": "fe20600a085e32695bad22c53aecb9e54b9ebdc9",
+  "modified": "2026-11-22T02:47:37.266512+00:00",
+  "seq": 0,
+  "sport": "f1"
+ }
+}
