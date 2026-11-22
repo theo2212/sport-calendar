@@ -15,7 +15,7 @@ from pathlib import Path
 
 import yaml
 
-from sportcal import biathlon, espn, f1, ics, liquipedia, thesportsdb
+from sportcal import biathlon, espn, f1, ics, liquipedia, pdc, thesportsdb
 from sportcal.common import Event, team_spec
 
 ROOT = Path(__file__).parent
@@ -51,7 +51,9 @@ def collect(cfg: dict, start, end, status: dict) -> dict[str, list[Event] | None
                 res[sport] = f1.fetch(start, end, log) if _enabled(val) else []
             else:
                 teams = [team_spec(x) for x in (val or [])]
-                if sport == "esport":
+                if sport == "flechettes":
+                    evs = pdc.fetch(teams, start, end, log)
+                elif sport == "esport":
                     evs = liquipedia.fetch(teams, start, end, log)
                 elif sport in espn.SPORT_PATH:
                     evs = espn.fetch(sport, teams, start, end, log)

@@ -11,9 +11,37 @@ import json
 import re
 from datetime import datetime, timezone
 
-from .common import DURATION_MIN, EMOJI, Event, SESSION, UA
+from .common import DURATION_MIN, EMOJI, Event, SESSION, UA, get_json
 
 SITE = "https://www.biathlonworld.com"
+API = "https://bw.biathlonresults.com/modules/sportapi/api"
+API_H = {"Origin": SITE, "Referer": SITE + "/"}
+# Codes de course possibles (catégorie + discipline), pour deviner les RaceId en secours
+RACE_CODES = ["SMIN", "SWIN", "SMSI", "SWSI", "SMSP", "SWSP", "SMPU", "SWPU", "SMMS", "SWMS",
+              "SMRL", "SWRL", "MXRL", "MXSR"]
+
+
+def _competitions(ev, page_comps):
+    """Courses d'une étape : API publique du site, sinon pages « startlist »."""
+    try:
+        comps = get_json(f"{API}/Competitions", {"EventId": ev["EventId"]}, headers=API_H, retries=1)
+        if comps:
+            return comps, "api"
+    except Exception:
+        pass
+    mine = [c for c in page_comps if str(c.get("RaceId", "")).startswith(ev["EventId"])]
+    if mine:
+        return mine, "page"
+    out = []
+    for code in RACE_CODES:
+        try:
+            st = _next_data(f"/startlist/{ev['EventId']}{code}").get("startlistInitialState") or {}
+            c = st.get("Competition")
+            if c and c.get("StartTime"):
+                out.append(c)
+        except Exception:
+            pass
+    return out, "startlist"
 
 TRAD = [
     ("Single Mixed Relay", "Relais simple mixte"), ("Mixed Relay", "Relais mixte"),
@@ -78,14 +106,8 @@ def fetch(start: datetime, end: datetime, log: dict) -> list[Event]:
         except Exception:
             continue
         place = ev.get("ShortDescription") or ev.get("Organizer") or ""
-        try:
-            comps = _next_data(f"/calendar?CupLevel=1&SeasonId={ev['SeasonId']}&EventId={ev['EventId']}") \
-                .get("competitionsInitialState") or []
-        except Exception as exc:
-            log["etapes"].append(f"{place} : erreur {exc}")
-            continue
-        comps = [c for c in comps if str(c.get("RaceId", "")).startswith(ev["EventId"])]
-        log["etapes"].append(f"{place} : {len(comps)} courses")
+        comps, how = _competitions(ev, pp.get("competitionsInitialState") or [])
+        log["etapes"].append(f"{place} : {len(comps)} courses ({how})")
         champ = "Championnats du monde" if "SWRLCH" in ev["EventId"] else "Coupe du monde"
         for c in comps:
             if not c.get("StartTime"):
@@ -116,14 +138,20 @@ def fetch(start: datetime, end: datetime, log: dict) -> list[Event]:
 
 
 def _podium(race_id: str):
-    for path in (f"/results/{race_id}", f"/results?RaceId={race_id}"):
-        try:
-            rows = _find_rows(_next_data(path))
-        except Exception:
-            rows = None
-        if rows:
-            break
-    else:
+    rows = None
+    try:
+        rows = (get_json(f"{API}/Results", {"RaceId": race_id}, headers=API_H, retries=1) or {}).get("Results")
+    except Exception:
+        pass
+    if not rows:
+        for path in (f"/results/{race_id}", f"/results?RaceId={race_id}"):
+            try:
+                rows = _find_rows(_next_data(path))
+            except Exception:
+                rows = None
+            if rows:
+                break
+    if not rows:
         return None
     rows = [r for r in rows if str(r.get("Rank") or "").isdigit()]
     if not rows:

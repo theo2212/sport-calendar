@@ -15,5 +15,5 @@ Réglages → Calendrier → Comptes → Ajouter un compte → Autre → **Ajout
 Modifie `config.yaml` (même depuis l'app GitHub). Le calendrier se régénère tout seul dans les ~2 minutes.
 
 ## Sources
-ESPN (foot, basket, rugby) · TheSportsDB (hand, fléchettes, autres) · Liquipedia (esport) · IBU (biathlon) · Jolpica (F1).
+ESPN (foot, basket, rugby) · TheSportsDB (hand, autres) · PDC (fléchettes) · biathlonworld.com (biathlon) · Liquipedia (esport) · Jolpica (F1).
 L'état de chaque source est visible dans `docs/status.json`.
