@@ -1,22 +1,4 @@
 {
- "espn-basket-401909096": {
-  "event": {
-   "all_day": false,
-   "description": "🏆 Regular Season\nStatut : Final",
-   "duration_min": 150,
-   "location": "Moody Center, Austin",
-   "sport": "basket",
-   "start": "2026-10-24T01:30:00+00:00",
-   "state": "post",
-   "title": "🏀 Spurs 110–114 Rockets ❌",
-   "uid": "espn-basket-401909096",
-   "url": "https://www.espn.com/nba/game/_/gameId/401909096/rockets-spurs"
-  },
-  "hash": "44065dd748cec7736e322b1abf6f49205f6321fb",
-  "modified": "2026-11-22T03:04:40.876568+00:00",
-  "seq": 0,
-  "sport": "basket"
- },
  "espn-basket-401909097": {
   "event": {
    "all_day": false,
@@ -1838,19 +1820,19 @@
  "espn-foot-401876400": {
   "event": {
    "all_day": false,
-   "description": "🏆 French Ligue 1\nStatut : Halftime",
+   "description": "🏆 French Ligue 1\nStatut : Full Time",
    "duration_min": 120,
    "location": "Stade Vélodrome, Marseille",
    "sport": "foot",
    "start": "2026-11-22T19:45:00+00:00",
-   "state": "in",
-   "title": "⚽ 🔴 Marseille 2–0 Le Mans",
+   "state": "post",
+   "title": "⚽ Marseille 2–3 Le Mans ❌",
    "uid": "espn-foot-401876400",
-   "url": "https://www.espn.com/soccer/match/_/gameId/401876400"
+   "url": "https://www.espn.com/soccer/match/_/gameId/401876400/le-mans-marseille"
   },
-  "hash": "5debc549c05fa9f3b472bcf538d2d5ca9b49c308",
-  "modified": "2026-11-22T20:45:31.461564+00:00",
-  "seq": 1,
+  "hash": "cc27c445cc61309ff2951801adbbf37527ce09ec",
+  "modified": "2026-11-23T02:53:19.283864+00:00",
+  "seq": 2,
   "sport": "foot"
  },
  "espn-foot-401876404": {
@@ -4139,6 +4121,132 @@
   "seq": 0,
   "sport": "biathlon"
  },
+ "lq-callofduty-1793995200-paris_gentle-cloud9_new_y": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Monster Launch Inv '27\nGroup D - Bo5",
+   "duration_min": 180,
+   "location": "",
+   "sport": "esport",
+   "start": "2026-11-06T20:00:00+00:00",
+   "state": "post",
+   "title": "🎮 [CoD] Paris Gentle Mates 3–0 Cloud9 New York ✅",
+   "uid": "lq-callofduty-1793995200-paris_gentle-cloud9_new_y",
+   "url": "https://liquipedia.net/callofduty/"
+  },
+  "hash": "48f4163481802c7f1a22bcf648d2aeadcc132f7f",
+  "modified": "2026-11-23T02:53:19.283864+00:00",
+  "seq": 0,
+  "sport": "esport"
+ },
+ "lq-callofduty-1794009600-los_angeles_-paris_gentle": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Monster Launch Inv '27\nGroup D - Bo5",
+   "duration_min": 180,
+   "location": "",
+   "sport": "esport",
+   "start": "2026-11-07T00:00:00+00:00",
+   "state": "post",
+   "title": "🎮 [CoD] Los Angeles Thieves 2–3 Paris Gentle Mates ✅",
+   "uid": "lq-callofduty-1794009600-los_angeles_-paris_gentle",
+   "url": "https://liquipedia.net/callofduty/"
+  },
+  "hash": "2c516a8cd22ce1b2586e68046bf59df70f5fa6d2",
+  "modified": "2026-11-23T02:53:19.283864+00:00",
+  "seq": 0,
+  "sport": "esport"
+ },
+ "lq-callofduty-1794074400-paris_gentle-g2_minnesota": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Monster Launch Inv '27\nPlayoffs - Bo5",
+   "duration_min": 180,
+   "location": "",
+   "sport": "esport",
+   "start": "2026-11-07T18:00:00+00:00",
+   "state": "post",
+   "title": "🎮 [CoD] Paris Gentle Mates 3–0 G2 Minnesota ✅",
+   "uid": "lq-callofduty-1794074400-paris_gentle-g2_minnesota",
+   "url": "https://liquipedia.net/callofduty/"
+  },
+  "hash": "2a47ffbe83722ee8a5a39f815d0b802e66e56eeb",
+  "modified": "2026-11-23T02:53:19.283864+00:00",
+  "seq": 0,
+  "sport": "esport"
+ },
+ "lq-callofduty-1794082800-faze_vegas-paris_gentle": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Monster Launch Inv '27\nPlayoffs - Bo5",
+   "duration_min": 180,
+   "location": "",
+   "sport": "esport",
+   "start": "2026-11-07T20:20:00+00:00",
+   "state": "post",
+   "title": "🎮 [CoD] FaZe Vegas 1–3 Paris Gentle Mates ✅",
+   "uid": "lq-callofduty-1794082800-faze_vegas-paris_gentle",
+   "url": "https://liquipedia.net/callofduty/"
+  },
+  "hash": "6595519e5236fac156a751389d8557e98503702a",
+  "modified": "2026-11-23T02:53:19.283864+00:00",
+  "seq": 0,
+  "sport": "esport"
+ },
+ "lq-callofduty-1794168600-toronto_koi-paris_gentle": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Monster Launch Inv '27\nPlayoffs - Bo5",
+   "duration_min": 180,
+   "location": "",
+   "sport": "esport",
+   "start": "2026-11-08T20:10:00+00:00",
+   "state": "post",
+   "title": "🎮 [CoD] Toronto KOI 3–1 Paris Gentle Mates ❌",
+   "uid": "lq-callofduty-1794168600-toronto_koi-paris_gentle",
+   "url": "https://liquipedia.net/callofduty/"
+  },
+  "hash": "d271067ab39b8830521460d30f1eb939c6a8c2a6",
+  "modified": "2026-11-23T02:53:19.283864+00:00",
+  "seq": 0,
+  "sport": "esport"
+ },
+ "lq-callofduty-1794174600-paris_gentle-cloud9_new_y": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Monster Launch Inv '27\nPlayoffs - Bo5",
+   "duration_min": 180,
+   "location": "",
+   "sport": "esport",
+   "start": "2026-11-08T21:50:00+00:00",
+   "state": "post",
+   "title": "🎮 [CoD] Paris Gentle Mates 3–1 Cloud9 New York ✅",
+   "uid": "lq-callofduty-1794174600-paris_gentle-cloud9_new_y",
+   "url": "https://liquipedia.net/callofduty/"
+  },
+  "hash": "9f258bf146c81a00382d5a4117900038b5a62a7c",
+  "modified": "2026-11-23T02:53:19.283864+00:00",
+  "seq": 0,
+  "sport": "esport"
+ },
+ "lq-callofduty-1794182400-toronto_koi-paris_gentle": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Monster Launch Inv '27\nPlayoffs - Bo7",
+   "duration_min": 180,
+   "location": "",
+   "sport": "esport",
+   "start": "2026-11-09T00:00:00+00:00",
+   "state": "post",
+   "title": "🎮 [CoD] Toronto KOI 4–1 Paris Gentle Mates ❌",
+   "uid": "lq-callofduty-1794182400-toronto_koi-paris_gentle",
+   "url": "https://liquipedia.net/callofduty/"
+  },
+  "hash": "575fc557837ccc7d403ec6e2a2e5e4cd9e326d7f",
+  "modified": "2026-11-23T02:53:19.283864+00:00",
+  "seq": 0,
+  "sport": "esport"
+ },
  "pdc-516967": {
   "event": {
    "all_day": false,
@@ -4319,21 +4427,21 @@
   "seq": 0,
   "sport": "hand"
  },
- "tsdb-2625992": {
+ "tsdb-2626010": {
   "event": {
    "all_day": false,
    "description": "🏆 EHF Champions League\nJournée 0",
    "duration_min": 90,
    "location": "Stade Pierre-de-Coubertin Paris",
    "sport": "hand",
-   "start": "2026-11-18T16:00:00+00:00",
+   "start": "2026-11-26T19:45:00+00:00",
    "state": "pre",
-   "title": "🤾 Paris Saint-Germain Handball – Aalborg Håndbold",
-   "uid": "tsdb-2625992",
+   "title": "🤾 Paris Saint-Germain Handball – Wisła Płock",
+   "uid": "tsdb-2626010",
    "url": ""
   },
-  "hash": "c3180249beca0c80ea352237d516acc618919c17",
-  "modified": "2026-11-22T03:08:13.177273+00:00",
+  "hash": "39ecb7918ac29ecba953347f711b55f3637bd4d3",
+  "modified": "2026-11-23T02:53:19.283864+00:00",
   "seq": 0,
   "sport": "hand"
  }
