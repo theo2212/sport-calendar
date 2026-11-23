@@ -58,7 +58,7 @@
   },
   "par_equipe": {
    "Toulouse": {
-    "matchs": 21
+    "matchs": 20
    },
    "Bordeaux": {
     "matchs": 20
@@ -76,7 +76,7 @@
    }
   },
   "ok": true,
-  "nb_evenements": 43
+  "nb_evenements": 42
  },
  "hand": {
   "equipes": {
@@ -105,7 +105,7 @@
  "esport": {
   "jeux": {
    "callofduty": {
-    "matchs_sur_la_page": 56,
+    "matchs_sur_la_page": 50,
     "matchs_suivis": 7
    },
    "rocketleague": {
@@ -145,12 +145,12 @@
   "nb_evenements": 6
  },
  "_resume": {
-  "genere_le": "2026-11-23T02:53:19.283864+00:00",
-  "total": 247,
+  "genere_le": "2026-11-23T14:49:55.391625+00:00",
+  "total": 246,
   "par_sport": {
    "foot": 34,
    "basket": 78,
-   "rugby": 43,
+   "rugby": 42,
    "hand": 4,
    "flechettes": 5,
    "esport": 7,

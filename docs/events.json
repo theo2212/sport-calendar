@@ -2141,24 +2141,6 @@
   "seq": 0,
   "sport": "rugby"
  },
- "espn-rugby-604409": {
-  "event": {
-   "all_day": false,
-   "description": "🏆 Top 14\nStatut : FT",
-   "duration_min": 120,
-   "location": "Stade Ernest-Wallon, Toulouse",
-   "sport": "rugby",
-   "start": "2026-10-24T14:35:00+00:00",
-   "state": "post",
-   "title": "🏉 Stade Toulousain 38–33 Perpignan ✅",
-   "uid": "espn-rugby-604409",
-   "url": "https://www.espn.com/rugby/match/_/gameId/604409/league/270559"
-  },
-  "hash": "7e3ca3a9bc275ff3ed52d532733786eb575b5b48",
-  "modified": "2026-11-22T03:08:13.177273+00:00",
-  "seq": 0,
-  "sport": "rugby"
- },
  "espn-rugby-604411": {
   "event": {
    "all_day": false,
@@ -4373,24 +4355,6 @@
   "seq": 0,
   "sport": "hand"
  },
- "tsdb-2465532": {
-  "event": {
-   "all_day": false,
-   "description": "🏆 Six Nations Championship\nJournée 1",
-   "duration_min": 120,
-   "location": "Stade de France",
-   "sport": "rugby",
-   "start": "2027-02-06T16:40:00+00:00",
-   "state": "pre",
-   "title": "🏉 France Rugby – Wales Rugby",
-   "uid": "tsdb-2465532",
-   "url": ""
-  },
-  "hash": "7403e93788e02157490b8839f59a0aed9f37371a",
-  "modified": "2026-11-22T03:04:40.876568+00:00",
-  "seq": 0,
-  "sport": "rugby"
- },
  "tsdb-2489018": {
   "event": {
    "all_day": false,
@@ -4444,5 +4408,23 @@
   "modified": "2026-11-23T02:53:19.283864+00:00",
   "seq": 0,
   "sport": "hand"
+ },
+ "tsdb-2631027": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Nations Championship\nJournée 7",
+   "duration_min": 120,
+   "location": "Twickenham Stadium",
+   "sport": "rugby",
+   "start": "2026-11-29T16:40:00+00:00",
+   "state": "pre",
+   "title": "🏉 France Rugby – South Africa Rugby",
+   "uid": "tsdb-2631027",
+   "url": ""
+  },
+  "hash": "29d0bdd11fba5d688b65dccaf6a0bbc0176e56c9",
+  "modified": "2026-11-23T14:49:55.391625+00:00",
+  "seq": 0,
+  "sport": "rugby"
  }
 }
