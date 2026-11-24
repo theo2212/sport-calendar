@@ -326,19 +326,19 @@
  "espn-basket-401910045": {
   "event": {
    "all_day": false,
-   "description": "🏆 Regular Season",
+   "description": "🏆 Regular Season\nStatut : Final",
    "duration_min": 150,
    "location": "Golden 1 Center, Sacramento",
    "sport": "basket",
    "start": "2026-11-24T03:00:00+00:00",
-   "state": "pre",
-   "title": "🏀 Kings – Spurs",
+   "state": "post",
+   "title": "🏀 Kings 107–123 Spurs ✅",
    "uid": "espn-basket-401910045",
    "url": "https://www.espn.com/nba/game/_/gameId/401910045/spurs-kings"
   },
-  "hash": "db20998be556a4f03b236f735c0d176f659e65b4",
-  "modified": "2026-11-22T03:04:40.876568+00:00",
-  "seq": 0,
+  "hash": "3337ba8370fd0524db08156bdc82293d5839be29",
+  "modified": "2026-11-24T14:57:21.555795+00:00",
+  "seq": 1,
   "sport": "basket"
  },
  "espn-basket-401910052": {
@@ -4363,14 +4363,14 @@
    "location": "Stade Pierre-de-Coubertin Paris",
    "sport": "hand",
    "start": "2026-11-22T16:00:00+00:00",
-   "state": "pre",
-   "title": "🤾 Paris Saint-Germain Handball – Tremblay-en-France Handball",
+   "state": "post",
+   "title": "🤾 Paris Saint-Germain Handball 40–33 Tremblay-en-France Handball ❌",
    "uid": "tsdb-2602920",
    "url": ""
   },
-  "hash": "e85f681bcf7b4ec5213e1ad0a3db2568274807fe",
-  "modified": "2026-11-22T03:08:13.177273+00:00",
-  "seq": 0,
+  "hash": "c09d220e59f065bb59a2c8953891ab6062610262",
+  "modified": "2026-11-24T14:57:21.555795+00:00",
+  "seq": 1,
   "sport": "hand"
  },
  "tsdb-2626010": {
