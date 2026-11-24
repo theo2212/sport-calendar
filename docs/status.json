@@ -3,7 +3,7 @@
   "par_equipe": {
    "Marseille": {
     "trouve": "Marseille (id 176, fra.1)",
-    "matchs": 30
+    "matchs": 31
    },
    "France": {
     "trouve": "France (id 478, uefa.nations)",
@@ -11,24 +11,24 @@
    }
   },
   "ok": true,
-  "nb_evenements": 34
+  "nb_evenements": 35
  },
  "basket": {
   "par_equipe": {
    "Spurs": {
     "trouve": "San Antonio Spurs (id 24, nba)",
-    "matchs": 78
+    "matchs": 77
    }
   },
   "ok": true,
-  "nb_evenements": 78
+  "nb_evenements": 77
  },
  "rugby": {
   "ligues": {
    "270559": {
     "requetes": 91,
     "erreurs": 0,
-    "matchs_vus": 127
+    "matchs_vus": 121
    },
    "271937": {
     "requetes": 94,
@@ -48,7 +48,7 @@
    "289234": {
     "requetes": 93,
     "erreurs": 0,
-    "matchs_vus": 4
+    "matchs_vus": 3
    },
    "164205": {
     "requetes": 91,
@@ -96,11 +96,11 @@
   "joueurs": {
    "Luke Littler": {
     "trouve": "Luke Littler (id 40676)",
-    "matchs": 5
+    "matchs": 4
    }
   },
   "ok": true,
-  "nb_evenements": 5
+  "nb_evenements": 4
  },
  "esport": {
   "jeux": {
@@ -145,14 +145,14 @@
   "nb_evenements": 6
  },
  "_resume": {
-  "genere_le": "2026-11-23T14:49:55.391625+00:00",
-  "total": 246,
+  "genere_le": "2026-11-24T02:56:19.023371+00:00",
+  "total": 245,
   "par_sport": {
-   "foot": 34,
-   "basket": 78,
+   "foot": 35,
+   "basket": 77,
    "rugby": 42,
    "hand": 4,
-   "flechettes": 5,
+   "flechettes": 4,
    "esport": 7,
    "biathlon": 70,
    "f1": 6

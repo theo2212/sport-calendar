@@ -107,24 +107,6 @@
   "seq": 0,
   "sport": "basket"
  },
- "espn-basket-401909858": {
-  "event": {
-   "all_day": false,
-   "description": "🏆 Regular Season\nStatut : Final",
-   "duration_min": 150,
-   "location": "American Airlines Center, Dallas",
-   "sport": "basket",
-   "start": "2026-10-25T00:00:00+00:00",
-   "state": "post",
-   "title": "🏀 Mavericks 106–122 Spurs ✅",
-   "uid": "espn-basket-401909858",
-   "url": "https://www.espn.com/nba/game/_/gameId/401909858/spurs-mavericks"
-  },
-  "hash": "d83a901f099ebbbe8bf27dc2340d037efa9c9ea5",
-  "modified": "2026-11-22T03:04:40.876568+00:00",
-  "seq": 0,
-  "sport": "basket"
- },
  "espn-basket-401909879": {
   "event": {
    "all_day": false,
@@ -1436,6 +1418,24 @@
   },
   "hash": "7b0378d9cc8ba2940cd46818de514262de40946c",
   "modified": "2026-11-22T03:04:40.876568+00:00",
+  "seq": 0,
+  "sport": "foot"
+ },
+ "espn-foot-401876199": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 French Ligue 1\n⏰ Horaire à confirmer",
+   "duration_min": 120,
+   "location": "Stade Jean Bouin, Paris",
+   "sport": "foot",
+   "start": "2027-05-22T18:00:00+00:00",
+   "state": "pre",
+   "title": "⚽ Paris FC – Marseille",
+   "uid": "espn-foot-401876199",
+   "url": "https://www.espn.com/soccer/match/_/gameId/401876199/marseille-paris-fc"
+  },
+  "hash": "6f7e79d3392a2cbc0208f90ea327769ceed6f507",
+  "modified": "2026-11-24T02:56:19.023371+00:00",
   "seq": 0,
   "sport": "foot"
  },
@@ -4279,24 +4279,6 @@
    "url": "https://www.pdc.tv/tournaments/mr-vegas-grand-slam-of-darts"
   },
   "hash": "165888c3568f6163f6b03cf86525f4deba3f8d17",
-  "modified": "2026-11-22T04:17:44.898899+00:00",
-  "seq": 0,
-  "sport": "flechettes"
- },
- "pdc-517053": {
-  "event": {
-   "all_day": false,
-   "description": "🏆 2026 European Championship",
-   "duration_min": 150,
-   "location": "Westfalenhalle, Dortmund",
-   "sport": "flechettes",
-   "start": "2026-10-24T18:07:37+00:00",
-   "state": "post",
-   "title": "🎯 N. Aspinall 5–10 L. Littler ✅",
-   "uid": "pdc-517053",
-   "url": "https://www.pdc.tv/tournaments/machineseeker-european-championship"
-  },
-  "hash": "4157019aa2ce84cf3ee82dd8baf020efa79348af",
   "modified": "2026-11-22T04:17:44.898899+00:00",
   "seq": 0,
   "sport": "flechettes"
