@@ -105,11 +105,11 @@
  "esport": {
   "jeux": {
    "callofduty": {
-    "matchs_sur_la_page": 50,
-    "matchs_suivis": 7
+    "matchs_sur_la_page": 70,
+    "matchs_suivis": 8
    },
    "rocketleague": {
-    "matchs_sur_la_page": 100,
+    "matchs_sur_la_page": 75,
     "matchs_suivis": 0
    },
    "valorant": {
@@ -118,7 +118,7 @@
    }
   },
   "ok": true,
-  "nb_evenements": 7
+  "nb_evenements": 8
  },
  "biathlon": {
   "saison": "2627",
@@ -145,15 +145,15 @@
   "nb_evenements": 5
  },
  "_resume": {
-  "genere_le": "2026-11-25T11:26:11.430405+00:00",
-  "total": 241,
+  "genere_le": "2026-11-25T21:47:28.392426+00:00",
+  "total": 242,
   "par_sport": {
    "foot": 34,
    "basket": 77,
    "rugby": 41,
    "hand": 4,
    "flechettes": 3,
-   "esport": 7,
+   "esport": 8,
    "biathlon": 70,
    "f1": 5
   },

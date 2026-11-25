@@ -4175,6 +4175,24 @@
   "seq": 0,
   "sport": "esport"
  },
+ "lq-callofduty-1796407200-paris_gentle-huntsmen": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 CDL '27 Kickoff Classic\nGroup A - Bo5",
+   "duration_min": 180,
+   "location": "",
+   "sport": "esport",
+   "start": "2026-12-04T18:00:00+00:00",
+   "state": "pre",
+   "title": "🎮 [CoD] Paris Gentle Mates – Huntsmen",
+   "uid": "lq-callofduty-1796407200-paris_gentle-huntsmen",
+   "url": "https://liquipedia.net/callofduty/"
+  },
+  "hash": "78f8fbcf6b329940c7befc40c97701d87cf2d201",
+  "modified": "2026-11-25T21:47:28.392426+00:00",
+  "seq": 0,
+  "sport": "esport"
+ },
  "pdc-516967": {
   "event": {
    "all_day": false,
