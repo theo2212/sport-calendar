@@ -1871,24 +1871,6 @@
   "seq": 0,
   "sport": "foot"
  },
- "espn-foot-401876426": {
-  "event": {
-   "all_day": false,
-   "description": "🏆 French Ligue 1\nStatut : Full Time",
-   "duration_min": 120,
-   "location": "Stade Vélodrome, Marseille",
-   "sport": "foot",
-   "start": "2026-10-25T16:15:00+00:00",
-   "state": "post",
-   "title": "⚽ Marseille 4–3 Le Havre AC ✅",
-   "uid": "espn-foot-401876426",
-   "url": "https://www.espn.com/soccer/match/_/gameId/401876426/le-havre-ac-marseille"
-  },
-  "hash": "bdba1f346d9393cc52bf3e075f82055664cfaf9c",
-  "modified": "2026-11-22T03:04:40.876568+00:00",
-  "seq": 0,
-  "sport": "foot"
- },
  "espn-foot-401915429": {
   "event": {
    "all_day": false,
@@ -2120,24 +2102,6 @@
   },
   "hash": "4f955edf587fb3587a8ba9c26e8fa3b621036da7",
   "modified": "2026-11-22T03:08:13.177273+00:00",
-  "seq": 0,
-  "sport": "rugby"
- },
- "espn-rugby-604406": {
-  "event": {
-   "all_day": false,
-   "description": "🏆 Top 14\nStatut : FT",
-   "duration_min": 120,
-   "location": "Stade Marcel-Deflandre, La Rochelle",
-   "sport": "rugby",
-   "start": "2026-10-25T20:05:00+00:00",
-   "state": "post",
-   "title": "🏉 La Rochelle 19–25 Bordeaux Begles ✅",
-   "uid": "espn-rugby-604406",
-   "url": "https://www.espn.com/rugby/match/_/gameId/604406/league/270559"
-  },
-  "hash": "157e351cb4ecaa69ed0c64cbbd4ed2dc2f8748b2",
-  "modified": "2026-11-22T03:04:40.876568+00:00",
   "seq": 0,
   "sport": "rugby"
  },
@@ -2734,24 +2698,6 @@
   "modified": "2026-11-22T03:08:13.177273+00:00",
   "seq": 0,
   "sport": "rugby"
- },
- "f1-2026-18": {
-  "event": {
-   "all_day": false,
-   "description": "🏆 Formule 1 2026 – manche 18\nCircuit of the Americas\n\nPodium :\n🥇 Antonelli (Mercedes)\n🥈 Leclerc (Ferrari)\n🥉 Verstappen (Red Bull)",
-   "duration_min": 120,
-   "location": "Austin, USA",
-   "sport": "f1",
-   "start": "2026-10-25T20:00:00+00:00",
-   "state": "post",
-   "title": "🏎️ GP États-Unis · 🏆 Antonelli (Mercedes)",
-   "uid": "f1-2026-18",
-   "url": "https://en.wikipedia.org/wiki/2026_United_States_Grand_Prix"
-  },
-  "hash": "d1bede6e6d6266c108fc818702b7d3d81418a09e",
-  "modified": "2026-11-22T03:08:13.177273+00:00",
-  "seq": 1,
-  "sport": "f1"
  },
  "f1-2026-19": {
   "event": {
@@ -4279,24 +4225,6 @@
    "url": "https://www.pdc.tv/tournaments/mr-vegas-grand-slam-of-darts"
   },
   "hash": "165888c3568f6163f6b03cf86525f4deba3f8d17",
-  "modified": "2026-11-22T04:17:44.898899+00:00",
-  "seq": 0,
-  "sport": "flechettes"
- },
- "pdc-517057": {
-  "event": {
-   "all_day": false,
-   "description": "🏆 2026 European Championship",
-   "duration_min": 150,
-   "location": "Westfalenhalle, Dortmund",
-   "sport": "flechettes",
-   "start": "2026-10-25T15:00:52+00:00",
-   "state": "post",
-   "title": "🎯 K. Ratajski 10–6 L. Littler ❌",
-   "uid": "pdc-517057",
-   "url": "https://www.pdc.tv/tournaments/machineseeker-european-championship"
-  },
-  "hash": "061315ba4e6e177ac97c192f9c956adcc73bcb7b",
   "modified": "2026-11-22T04:17:44.898899+00:00",
   "seq": 0,
   "sport": "flechettes"

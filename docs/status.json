@@ -3,7 +3,7 @@
   "par_equipe": {
    "Marseille": {
     "trouve": "Marseille (id 176, fra.1)",
-    "matchs": 31
+    "matchs": 30
    },
    "France": {
     "trouve": "France (id 478, uefa.nations)",
@@ -11,7 +11,7 @@
    }
   },
   "ok": true,
-  "nb_evenements": 35
+  "nb_evenements": 34
  },
  "basket": {
   "par_equipe": {
@@ -26,32 +26,32 @@
  "rugby": {
   "ligues": {
    "270559": {
-    "requetes": 91,
+    "requetes": 90,
     "erreurs": 0,
-    "matchs_vus": 121
+    "matchs_vus": 120
    },
    "271937": {
-    "requetes": 94,
+    "requetes": 93,
     "erreurs": 0,
     "matchs_vus": 36
    },
    "272073": {
-    "requetes": 94,
+    "requetes": 93,
     "erreurs": 0,
     "matchs_vus": 27
    },
    "180659": {
-    "requetes": 91,
+    "requetes": 90,
     "erreurs": 0,
     "matchs_vus": 0
    },
    "289234": {
-    "requetes": 93,
+    "requetes": 92,
     "erreurs": 0,
     "matchs_vus": 3
    },
    "164205": {
-    "requetes": 91,
+    "requetes": 90,
     "erreurs": 0,
     "matchs_vus": 0
    }
@@ -61,7 +61,7 @@
     "matchs": 20
    },
    "Bordeaux": {
-    "matchs": 20
+    "matchs": 19
    },
    "France": {
     "matchs": 0
@@ -76,7 +76,7 @@
    }
   },
   "ok": true,
-  "nb_evenements": 42
+  "nb_evenements": 41
  },
  "hand": {
   "equipes": {
@@ -96,11 +96,11 @@
   "joueurs": {
    "Luke Littler": {
     "trouve": "Luke Littler (id 40676)",
-    "matchs": 4
+    "matchs": 3
    }
   },
   "ok": true,
-  "nb_evenements": 4
+  "nb_evenements": 3
  },
  "esport": {
   "jeux": {
@@ -142,20 +142,20 @@
   "2026": 23,
   "2027": 0,
   "ok": true,
-  "nb_evenements": 6
+  "nb_evenements": 5
  },
  "_resume": {
-  "genere_le": "2026-11-24T14:57:21.555795+00:00",
-  "total": 245,
+  "genere_le": "2026-11-25T00:50:48.731181+00:00",
+  "total": 241,
   "par_sport": {
-   "foot": 35,
+   "foot": 34,
    "basket": 77,
-   "rugby": 42,
+   "rugby": 41,
    "hand": 4,
-   "flechettes": 4,
+   "flechettes": 3,
    "esport": 7,
    "biathlon": 70,
-   "f1": 6
+   "f1": 5
   },
   "sources_en_panne": []
  }
