@@ -64,11 +64,11 @@
    "state": "pre",
    "title": "🏀 Trail Blazers – Spurs",
    "uid": "espn-basket-401909325",
-   "url": "https://www.espn.com/nba/game/_/gameId/401909325/spurs-trail-blazers"
+   "url": "https://www.espn.com/nba/game?gameId=401909325"
   },
-  "hash": "8fcbcaabb3e82a7ce97d420eccd3372b2c87b5df",
-  "modified": "2026-11-22T03:04:40.876568+00:00",
-  "seq": 0,
+  "hash": "fcafd4cb8dde75317174a5606454aa6254249bd9",
+  "modified": "2026-11-26T04:12:27.343075+00:00",
+  "seq": 1,
   "sport": "basket"
  },
  "espn-basket-401909333": {
