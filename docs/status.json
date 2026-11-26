@@ -109,7 +109,7 @@
     "matchs_suivis": 8
    },
    "rocketleague": {
-    "matchs_sur_la_page": 73,
+    "matchs_sur_la_page": 67,
     "matchs_suivis": 0
    },
    "valorant": {
@@ -145,7 +145,7 @@
   "nb_evenements": 5
  },
  "_resume": {
-  "genere_le": "2026-11-26T13:59:12.177918+00:00",
+  "genere_le": "2026-11-26T23:03:41.630392+00:00",
   "total": 242,
   "par_sport": {
    "foot": 34,

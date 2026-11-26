@@ -1928,19 +1928,19 @@
  "espn-foot-401915507": {
   "event": {
    "all_day": false,
-   "description": "🏆 UEFA Europa League",
+   "description": "🏆 UEFA Europa League\nStatut : Full Time",
    "duration_min": 120,
    "location": "Stade Vélodrome, Marseille",
    "sport": "foot",
    "start": "2026-11-26T17:45:00+00:00",
-   "state": "pre",
-   "title": "⚽ Marseille – Levski Sofia",
+   "state": "post",
+   "title": "⚽ Marseille 1–0 Levski Sofia ✅",
    "uid": "espn-foot-401915507",
    "url": "https://www.espn.com/soccer/match/_/gameId/401915507/levski-sofia-marseille"
   },
-  "hash": "5423e14974c39ee28b931f8b2fbf2adde6d82acd",
-  "modified": "2026-11-22T03:04:40.876568+00:00",
-  "seq": 0,
+  "hash": "75c702b772560684d1c02a5e093c818cb5440583",
+  "modified": "2026-11-26T23:03:41.630392+00:00",
+  "seq": 1,
   "sport": "foot"
  },
  "espn-foot-401915533": {
@@ -3044,19 +3044,19 @@
  "ibu-BT2627SWRLCP01SMIN": {
   "event": {
    "all_day": false,
-   "description": "🏆 Coupe du monde IBU – Kontiolahti (Finland)",
+   "description": "🏆 Coupe du monde IBU – Kontiolahti (Finland)\n\nPodium :\n🥇 🇺🇸 WRIGHT C.\n🥈 🇩🇪 STRELOW J.\n🥉 🇳🇴 CHRISTIANSEN V.\n\n🇫🇷 Français :\n8e – CLAUDE E.\n10e – LOMBARDOT O.\n11e – PERROT E.",
    "duration_min": 60,
    "location": "Biathlon Stadium Kontiolahti",
    "sport": "biathlon",
    "start": "2026-11-26T15:15:00+00:00",
-   "state": "in",
-   "title": "🎿 🔴 Hommes 20km Individuel – Kontiolahti",
+   "state": "post",
+   "title": "🎿 Hommes 20km Individuel – Kontiolahti · 🥇 🇺🇸 WRIGHT C.",
    "uid": "ibu-BT2627SWRLCP01SMIN",
    "url": "https://www.biathlonworld.com/results/BT2627SWRLCP01SMIN"
   },
-  "hash": "fe6c39054eed8c63f4ed420e93f050388e8e4cff",
-  "modified": "2026-11-26T13:59:12.177918+00:00",
-  "seq": 1,
+  "hash": "fc9e7999e8d106ac79ce9433e3ee96fa1273628c",
+  "modified": "2026-11-26T23:03:41.630392+00:00",
+  "seq": 2,
   "sport": "biathlon"
  },
  "ibu-BT2627SWRLCP01SMSP": {
