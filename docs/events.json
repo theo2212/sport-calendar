@@ -56,19 +56,19 @@
  "espn-basket-401909325": {
   "event": {
    "all_day": false,
-   "description": "🏆 Regular Season",
+   "description": "🏆 Regular Season\nStatut : Final",
    "duration_min": 150,
    "location": "Moda Center, Portland",
    "sport": "basket",
    "start": "2026-11-26T03:00:00+00:00",
-   "state": "pre",
-   "title": "🏀 Trail Blazers – Spurs",
+   "state": "post",
+   "title": "🏀 Trail Blazers 116–111 Spurs ❌",
    "uid": "espn-basket-401909325",
-   "url": "https://www.espn.com/nba/game?gameId=401909325"
+   "url": "https://www.espn.com/nba/game/_/gameId/401909325/spurs-trail-blazers"
   },
-  "hash": "fcafd4cb8dde75317174a5606454aa6254249bd9",
-  "modified": "2026-11-26T04:12:27.343075+00:00",
-  "seq": 1,
+  "hash": "1b4d3c131f1fa1a5acf0ce3dc471952be1ca32eb",
+  "modified": "2026-11-26T13:59:12.177918+00:00",
+  "seq": 2,
   "sport": "basket"
  },
  "espn-basket-401909333": {
@@ -3049,14 +3049,14 @@
    "location": "Biathlon Stadium Kontiolahti",
    "sport": "biathlon",
    "start": "2026-11-26T15:15:00+00:00",
-   "state": "pre",
-   "title": "🎿 Hommes 20km Individuel – Kontiolahti",
+   "state": "in",
+   "title": "🎿 🔴 Hommes 20km Individuel – Kontiolahti",
    "uid": "ibu-BT2627SWRLCP01SMIN",
    "url": "https://www.biathlonworld.com/results/BT2627SWRLCP01SMIN"
   },
-  "hash": "57c8708ec49cfd7fa6861be22c4fc396f0a58a21",
-  "modified": "2026-11-22T04:01:26.671777+00:00",
-  "seq": 0,
+  "hash": "fe6c39054eed8c63f4ed420e93f050388e8e4cff",
+  "modified": "2026-11-26T13:59:12.177918+00:00",
+  "seq": 1,
   "sport": "biathlon"
  },
  "ibu-BT2627SWRLCP01SMSP": {
