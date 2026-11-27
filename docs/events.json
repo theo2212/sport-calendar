@@ -107,24 +107,6 @@
   "seq": 0,
   "sport": "basket"
  },
- "espn-basket-401909879": {
-  "event": {
-   "all_day": false,
-   "description": "🏆 Regular Season\nStatut : Final",
-   "duration_min": 150,
-   "location": "Frost Bank Center, San Antonio",
-   "sport": "basket",
-   "start": "2026-10-28T00:00:00+00:00",
-   "state": "post",
-   "title": "🏀 Spurs 130–103 Kings ✅",
-   "uid": "espn-basket-401909879",
-   "url": "https://www.espn.com/nba/game/_/gameId/401909879/kings-spurs"
-  },
-  "hash": "74922bfc8d92350b9d02bfcc8539e0db9484d2ae",
-  "modified": "2026-11-22T03:04:40.876568+00:00",
-  "seq": 0,
-  "sport": "basket"
- },
  "espn-basket-401909890": {
   "event": {
    "all_day": false,
@@ -4301,22 +4283,22 @@
   "seq": 0,
   "sport": "hand"
  },
- "tsdb-2602920": {
+ "tsdb-2602928": {
   "event": {
    "all_day": false,
-   "description": "🏆 French LNH Division 1\nJournée 11",
+   "description": "🏆 French LNH Division 1\nJournée 12",
    "duration_min": 90,
-   "location": "Stade Pierre-de-Coubertin Paris",
+   "location": "Stades de Flandres",
    "sport": "hand",
-   "start": "2026-11-22T16:00:00+00:00",
-   "state": "post",
-   "title": "🤾 Paris Saint-Germain Handball 40–33 Tremblay-en-France Handball ❌",
-   "uid": "tsdb-2602920",
+   "start": "2026-11-29T16:00:00+00:00",
+   "state": "pre",
+   "title": "🤾 Dunkerque Handball Grand Littoral – Paris Saint-Germain Handball",
+   "uid": "tsdb-2602928",
    "url": ""
   },
-  "hash": "c09d220e59f065bb59a2c8953891ab6062610262",
-  "modified": "2026-11-24T14:57:21.555795+00:00",
-  "seq": 1,
+  "hash": "e813dfb5ac7a3f786cf32649b7fa42f1dbf88e83",
+  "modified": "2026-11-27T08:44:40.773635+00:00",
+  "seq": 0,
   "sport": "hand"
  },
  "tsdb-2626010": {
