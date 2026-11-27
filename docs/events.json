@@ -3062,19 +3062,19 @@
  "ibu-BT2627SWRLCP01SWIN": {
   "event": {
    "all_day": false,
-   "description": "🏆 Coupe du monde IBU – Kontiolahti (Finland)",
+   "description": "🏆 Coupe du monde IBU – Kontiolahti (Finland)\n\nPodium :\n🥇 🇸🇪 OEBERG E.\n🥈 🇫🇮 LEINAMO S.\n🥉 🇫🇷 SIMON J.\n\n🇫🇷 Français :\n3e – SIMON J.\n4e – MICHELON O.\n11e – JEANMONNOT L.",
    "duration_min": 60,
    "location": "Biathlon Stadium Kontiolahti",
    "sport": "biathlon",
    "start": "2026-11-27T15:15:00+00:00",
-   "state": "pre",
-   "title": "🎿 Femmes 15km Individuel – Kontiolahti",
+   "state": "post",
+   "title": "🎿 Femmes 15km Individuel – Kontiolahti · 🥇 🇸🇪 OEBERG E.",
    "uid": "ibu-BT2627SWRLCP01SWIN",
    "url": "https://www.biathlonworld.com/results/BT2627SWRLCP01SWIN"
   },
-  "hash": "ed7a10a45c49b1577b64ea2d861ebab15a4a3fcb",
-  "modified": "2026-11-22T04:01:26.671777+00:00",
-  "seq": 0,
+  "hash": "dfc284f9980b868c1f3324fc1de5457f67cdaca6",
+  "modified": "2026-11-27T19:30:21.587331+00:00",
+  "seq": 1,
   "sport": "biathlon"
  },
  "ibu-BT2627SWRLCP01SWSP": {
