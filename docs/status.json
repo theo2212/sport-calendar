@@ -17,11 +17,11 @@
   "par_equipe": {
    "Spurs": {
     "trouve": "San Antonio Spurs (id 24, nba)",
-    "matchs": 76
+    "matchs": 75
    }
   },
   "ok": true,
-  "nb_evenements": 76
+  "nb_evenements": 75
  },
  "rugby": {
   "ligues": {
@@ -145,11 +145,11 @@
   "nb_evenements": 5
  },
  "_resume": {
-  "genere_le": "2026-11-27T19:30:21.587331+00:00",
-  "total": 241,
+  "genere_le": "2026-11-28T02:45:28.843362+00:00",
+  "total": 240,
   "par_sport": {
    "foot": 34,
-   "basket": 76,
+   "basket": 75,
    "rugby": 41,
    "hand": 4,
    "flechettes": 3,

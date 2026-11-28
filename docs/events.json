@@ -82,11 +82,11 @@
    "state": "pre",
    "title": "🏀 Spurs – Lakers",
    "uid": "espn-basket-401909333",
-   "url": "https://www.espn.com/nba/game/_/gameId/401909333/lakers-spurs"
+   "url": "https://www.espn.com/nba/game?gameId=401909333"
   },
-  "hash": "fdf5f38736339256fa7b36d143183b57a3ccc865",
-  "modified": "2026-11-22T03:04:40.876568+00:00",
-  "seq": 0,
+  "hash": "b7230732a3f061db8fc3679dfaed576ca0b8c6ed",
+  "modified": "2026-11-28T02:45:28.843362+00:00",
+  "seq": 1,
   "sport": "basket"
  },
  "espn-basket-401909479": {
@@ -103,24 +103,6 @@
    "url": "https://www.espn.com/nba/game/_/gameId/401909479/spurs-heat"
   },
   "hash": "486901d6838c335da173025ba4ab39526fcf8c89",
-  "modified": "2026-11-22T03:04:40.876568+00:00",
-  "seq": 0,
-  "sport": "basket"
- },
- "espn-basket-401909890": {
-  "event": {
-   "all_day": false,
-   "description": "🏆 Regular Season\nStatut : Final",
-   "duration_min": 150,
-   "location": "Delta Center, Salt Lake City",
-   "sport": "basket",
-   "start": "2026-10-29T01:00:00+00:00",
-   "state": "post",
-   "title": "🏀 Jazz 111–117 Spurs ✅",
-   "uid": "espn-basket-401909890",
-   "url": "https://www.espn.com/nba/game/_/gameId/401909890/spurs-jazz"
-  },
-  "hash": "65eb2238765db0d72ad2180dc9479ca750ee26e7",
   "modified": "2026-11-22T03:04:40.876568+00:00",
   "seq": 0,
   "sport": "basket"
