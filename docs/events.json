@@ -74,19 +74,37 @@
  "espn-basket-401909333": {
   "event": {
    "all_day": false,
-   "description": "🏆 Regular Season",
+   "description": "🏆 Regular Season\nStatut : Final",
    "duration_min": 150,
    "location": "Frost Bank Center, San Antonio",
    "sport": "basket",
    "start": "2026-11-28T02:30:00+00:00",
-   "state": "pre",
-   "title": "🏀 Spurs – Lakers",
+   "state": "post",
+   "title": "🏀 Spurs 99–96 Lakers ✅",
    "uid": "espn-basket-401909333",
-   "url": "https://www.espn.com/nba/game?gameId=401909333"
+   "url": "https://www.espn.com/nba/game/_/gameId/401909333/lakers-spurs"
   },
-  "hash": "b7230732a3f061db8fc3679dfaed576ca0b8c6ed",
-  "modified": "2026-11-28T02:45:28.843362+00:00",
-  "seq": 1,
+  "hash": "e244ebce7cc08b2aad76ca15d9ce86cd3e7b1d4a",
+  "modified": "2026-11-28T13:11:31.907014+00:00",
+  "seq": 2,
+  "sport": "basket"
+ },
+ "espn-basket-401909451": {
+  "event": {
+   "all_day": false,
+   "description": "🏆 Regular Season",
+   "duration_min": 150,
+   "location": "American Airlines Center, Dallas",
+   "sport": "basket",
+   "start": "2026-12-05T02:30:00+00:00",
+   "state": "pre",
+   "title": "🏀 Mavericks – Spurs",
+   "uid": "espn-basket-401909451",
+   "url": "https://www.espn.com/nba/game/_/gameId/401909451/spurs-mavericks"
+  },
+  "hash": "679557f5cae87593e540395a07ad30f91120a25e",
+  "modified": "2026-11-28T13:11:31.907014+00:00",
+  "seq": 0,
   "sport": "basket"
  },
  "espn-basket-401909479": {
@@ -348,15 +366,15 @@
    "duration_min": 150,
    "location": "Frost Bank Center, San Antonio",
    "sport": "basket",
-   "start": "2026-12-04T01:00:00+00:00",
+   "start": "2026-12-03T01:00:00+00:00",
    "state": "pre",
    "title": "🏀 Spurs – Raptors",
    "uid": "espn-basket-401910088",
    "url": "https://www.espn.com/nba/game/_/gameId/401910088/raptors-spurs"
   },
-  "hash": "9e4d7bea5152900e3aec36ce6fe14d65f053faa7",
-  "modified": "2026-11-22T03:04:40.876568+00:00",
-  "seq": 0,
+  "hash": "0fb453c05f4eaf508ff565c60747aec5313119c4",
+  "modified": "2026-11-28T13:11:31.907014+00:00",
+  "seq": 1,
   "sport": "basket"
  },
  "espn-basket-401910102": {
@@ -2990,19 +3008,19 @@
  "ibu-BT2627SWRLCP01MXSR": {
   "event": {
    "all_day": false,
-   "description": "🏆 Coupe du monde IBU – Kontiolahti (Finland)",
+   "description": "🏆 Coupe du monde IBU – Kontiolahti (Finland)\n\nPodium :\n🥇 🇸🇪 SWEDEN\n🥈 🇸🇪 HALVARSSON E.\n🥉 🇸🇪 SAMUELSSON S.\n\n🇫🇷 Français :\n3e – FRANCE\n3e – JEANMONNOT L.\n3e – PERROT E.",
    "duration_min": 60,
    "location": "Biathlon Stadium Kontiolahti",
    "sport": "biathlon",
    "start": "2026-11-28T12:10:00+00:00",
-   "state": "pre",
-   "title": "🎿 Relais simple mixte – Kontiolahti",
+   "state": "post",
+   "title": "🎿 Relais simple mixte – Kontiolahti · 🥇 🇸🇪 SWEDEN",
    "uid": "ibu-BT2627SWRLCP01MXSR",
    "url": "https://www.biathlonworld.com/results/BT2627SWRLCP01MXSR"
   },
-  "hash": "bb4b4cb54596c9e6a704aa3c78de215bb381ecc5",
-  "modified": "2026-11-22T04:01:26.671777+00:00",
-  "seq": 0,
+  "hash": "4fe08b4c6f131080e970ef0bfad42ddc4a727bc7",
+  "modified": "2026-11-28T13:11:31.907014+00:00",
+  "seq": 1,
   "sport": "biathlon"
  },
  "ibu-BT2627SWRLCP01SMIN": {
